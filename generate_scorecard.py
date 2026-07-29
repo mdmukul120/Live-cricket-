@@ -1,6 +1,6 @@
-
 import os
 import io
+import json
 import requests
 from PIL import Image, ImageDraw, ImageFont
 
@@ -22,6 +22,16 @@ def fetch_image_from_url(url):
         print(f"Error fetching image: {e}")
     return None
 
+def save_json_data(matches_data):
+    """ম্যাচের ডেটা জেসন ফাইল হিসেবে সেভ করবে"""
+    os.makedirs("output", exist_ok=True)
+    json_path = "output/score.json"
+    
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(matches_data, f, ensure_ascii=False, indent=4)
+        
+    print(f"Successfully saved JSON to: {json_path}")
+
 def create_match_card(match):
     match_id = match.get("match_id", "live")
     tournament = match.get("competition", {}).get("abbr", "LIVE MATCH") if match.get("competition") else "LIVE MATCH"
@@ -38,10 +48,12 @@ def create_match_card(match):
     b_score = team_b.get("scores_full") or team_b.get("scores") or "Yet to Bat"
     b_logo_url = team_b.get("logo_url")
 
+    # Canvas Size
     W, H = 800, 450
     card = Image.new("RGBA", (W, H), (15, 23, 42))
     draw = ImageDraw.Draw(card)
 
+    # Header Box
     draw.rectangle([0, 0, W, 60], fill=(30, 41, 59))
     
     try:
@@ -54,6 +66,7 @@ def create_match_card(match):
 
     draw.text((W // 2, 30), f"{tournament} - {subtitle}", fill=(255, 255, 255), font=font_title, anchor="mm")
 
+    # Team Logos & Text
     logo_a = fetch_image_from_url(a_logo_url)
     logo_b = fetch_image_from_url(b_logo_url)
 
@@ -71,9 +84,11 @@ def create_match_card(match):
     draw.text((670, 230), b_name, fill=(255, 255, 255), font=font_team, anchor="mm")
     draw.text((670, 270), b_score, fill=(132, 204, 22), font=font_score, anchor="mm")
 
+    # Footer Box
     draw.rectangle([0, 380, W, H], fill=(30, 41, 59))
     draw.text((W // 2, 415), status_note, fill=(226, 232, 240), font=font_note, anchor="mm")
 
+    # Save PNG
     os.makedirs("output", exist_ok=True)
     filename = f"output/match_{match_id}.png"
     card.convert("RGB").save(filename)
@@ -89,32 +104,23 @@ def main():
             items = data.get("response", {}).get("items", [])
             
             if not items:
-                print("No live matches currently available in API response.")
-                # ম্যাচ না থাকলে টেস্ট ইমেজ বানাবে
-                create_dummy_card()
+                print("No live matches currently available.")
+                save_json_data({"status": "no_live_matches", "items": []})
                 return
 
+            # ১. জেসন ফাইল সেভ করবে
+            save_json_data(data)
+
+            # ২. প্রতিটি ম্যাচের জন্য ছবি তৈরি করবে
             for match in items:
                 create_match_card(match)
         else:
             print("Failed to fetch API data.")
-            create_dummy_card()
+            save_json_data({"status": "error", "message": f"API HTTP {response.status_code}"})
             
     except Exception as e:
         print(f"Error occurred: {e}")
-        create_dummy_card()
-
-def create_dummy_card():
-    """ম্যাচ না থাকলে ডামি কার্ড তৈরি করে যেন টেস্ট বোঝা যায়"""
-    dummy_data = {
-        "match_id": "demo",
-        "subtitle": "No Live Match Currently",
-        "status_note": "Waiting for live match data...",
-        "competition": {"abbr": "BDCRICTIME LIVE"},
-        "teama": {"name": "Team A", "scores": "0/0", "logo_url": ""},
-        "teamb": {"name": "Team B", "scores": "0/0", "logo_url": ""}
-    }
-    create_match_card(dummy_data)
+        save_json_data({"status": "error", "message": str(e)})
 
 if __name__ == "__main__":
     main()
