@@ -31,5 +31,17 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # output ফোল্ডার নিশ্চিত করবে এবং খালি থাকলে .gitkeep ফাইল যুক্ত করবে
+        mkdir -p output
+        touch output/.gitkeep
+        
         git add output/
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update match scorecards" && git push)
+        
+        # কোনো পরিবর্তন থাকলে তবেই কমিট করবে, না থাকলে স্কিপ করবে
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto update match scorecards"
+          git push
+        fi
