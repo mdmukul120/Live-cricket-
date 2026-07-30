@@ -84,12 +84,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 22.52,
-                    "humidity": 84,
+                    "weather_desc": "scattered clouds",
+                    "temp": 22.35,
+                    "humidity": 79,
                     "visibility": 10000,
-                    "wind_speed": "7.18",
-                    "clouds": 61
+                    "wind_speed": "8.23",
+                    "clouds": 26
                 },
                 "broadcast": "",
                 "pitch": {
@@ -189,10 +189,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 27.71,
-                    "humidity": 45,
+                    "temp": 25.54,
+                    "humidity": 50,
                     "visibility": 10000,
-                    "wind_speed": "7.02",
+                    "wind_speed": "7.05",
                     "clouds": 0
                 },
                 "broadcast": "Youtube",
@@ -12771,6 +12771,6 @@
             }
         ]
     },
-    "timenow": "31st July 2026 04:55 AM",
+    "timenow": "31st July 2026 05:57 AM",
     "timezone": "Asia/Dhaka"
 }
