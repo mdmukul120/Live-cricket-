@@ -12,12 +12,12 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Strategic Timeout : Kandy Royals elected to bowl",
+                "status_note": "Kandy Royals need 103 runs in 54 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 13,
-                "game_state_str": "Strategic Timeout",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "1",
                 "competition": {
                     "cid": 130036,
@@ -40,16 +40,18 @@
                     "name": "Jaffna Kings",
                     "short_name": "JK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/jaffna-kings.png",
-                    "scores_full": "*160/5 (16 ov)",
-                    "scores": "160/5",
-                    "overs": "16"
+                    "scores_full": "221/6 (20 ov)",
+                    "scores": "221/6",
+                    "overs": "20"
                 },
                 "teamb": {
                     "team_id": 117009,
                     "name": "Kandy Royals",
                     "short_name": "KR",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/07/44765.png",
-                    "scores_full": ""
+                    "scores_full": "*119/4 (11 ov)",
+                    "scores": "119/4",
+                    "overs": "11"
                 },
                 "date_start": "2026-07-30 14:00:00",
                 "date_end": "2026-07-31 00:00:00",
@@ -67,14 +69,14 @@
                 "umpires": "Prageeth Rambukwella (Sri Lanka),  Wayne Knights (New Zealand),  Shantha Fonseka (Sri Lanka, TV)",
                 "referee": "Graeme Labrooy (Sri Lanka)",
                 "equation": "",
-                "live": "Strategic Timeout : Kandy Royals elected to bowl",
+                "live": "Kandy Royals need 103 runs in 54 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-07-28 22:04:02",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -82,12 +84,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 22.9,
+                    "weather_desc": "broken clouds",
+                    "temp": 22.63,
                     "humidity": 83,
                     "visibility": 10000,
                     "wind_speed": "7.61",
-                    "clouds": 47
+                    "clouds": 57
                 },
                 "broadcast": "",
                 "pitch": {
@@ -187,10 +189,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 31,
-                    "humidity": 36,
+                    "temp": 29.97,
+                    "humidity": 39,
                     "visibility": 10000,
-                    "wind_speed": "7.27",
+                    "wind_speed": "6.62",
                     "clouds": 0
                 },
                 "broadcast": "Youtube",
@@ -290,10 +292,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 31,
-                    "humidity": 36,
+                    "temp": 29.97,
+                    "humidity": 39,
                     "visibility": 10000,
-                    "wind_speed": "7.27",
+                    "wind_speed": "6.62",
                     "clouds": 0
                 },
                 "broadcast": "Youtube",
@@ -12670,6 +12672,6 @@
             }
         ]
     },
-    "timenow": "30th July 2026 09:17 PM",
+    "timenow": "30th July 2026 10:52 PM",
     "timezone": "Asia/Dhaka"
 }
