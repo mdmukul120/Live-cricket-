@@ -77,12 +77,12 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 24.48,
-                    "humidity": 90,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 24.25,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "3.36",
+                    "wind_speed": "3.69",
                     "clouds": 5
                 },
                 "broadcast": "Sony Sports TEN Network , Fancode",
@@ -12771,6 +12771,6 @@
             }
         ]
     },
-    "timenow": "31st July 2026 08:52 AM",
+    "timenow": "31st July 2026 11:53 AM",
     "timezone": "Asia/Dhaka"
 }
