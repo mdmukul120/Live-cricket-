@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 24.13,
-                    "humidity": 92,
+                    "temp": 26.54,
+                    "humidity": 81,
                     "visibility": 10000,
-                    "wind_speed": "5.55",
-                    "clouds": 2
+                    "wind_speed": "6.44",
+                    "clouds": 6
                 },
                 "broadcast": "Sony Sports TEN Network , Fancode",
                 "pitch": {
@@ -12771,6 +12771,6 @@
             }
         ]
     },
-    "timenow": "31st July 2026 02:30 PM",
+    "timenow": "31st July 2026 05:08 PM",
     "timezone": "Asia/Dhaka"
 }
