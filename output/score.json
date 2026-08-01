@@ -12,7 +12,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Colombo Kaps need 158 runs in 14.5 remaining overs",
+                "status_note": "Colombo Kaps need 33 runs in 15 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Colombo Kaps",
                     "short_name": "CK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/colombo-logo.png",
-                    "scores_full": "*44/1 (5.1 ov)",
-                    "scores": "44/1",
-                    "overs": "5.1"
+                    "scores_full": "*169/7 (17.3 ov)",
+                    "scores": "169/7",
+                    "overs": "17.3"
                 },
                 "teamb": {
                     "team_id": 117010,
@@ -69,7 +69,7 @@
                 "umpires": "Raveendra Wimalasiri (Sri Lanka), Wayne Knights (New Zealand), Chamara De Zoysa (Sri Lanka, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Colombo Kaps need 158 runs in 14.5 remaining overs",
+                "live": "Colombo Kaps need 33 runs in 15 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,10 +85,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 22.19,
-                    "humidity": 91,
+                    "temp": 21.99,
+                    "humidity": 92,
                     "visibility": 10000,
-                    "wind_speed": "7.23",
+                    "wind_speed": "7.05",
                     "clouds": 100
                 },
                 "broadcast": "",
@@ -183,10 +183,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 31.88,
-                    "humidity": 49,
+                    "temp": 31.85,
+                    "humidity": 50,
                     "visibility": 10000,
-                    "wind_speed": "7.90",
+                    "wind_speed": "8.79",
                     "clouds": 1
                 },
                 "broadcast": "Sony Sports TEN Network , Fancode",
@@ -12924,6 +12924,6 @@
             }
         ]
     },
-    "timenow": "1st August 2026 10:15 PM",
+    "timenow": "1st August 2026 11:17 PM",
     "timezone": "Asia/Dhaka"
 }
