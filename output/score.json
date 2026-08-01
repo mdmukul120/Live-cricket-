@@ -47,9 +47,9 @@
                     "name": "Galle Gallants",
                     "short_name": "GG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/11/Galle-Marvels.png",
-                    "scores_full": "*20/1 (1.4 ov)",
-                    "scores": "20/1",
-                    "overs": "1.4"
+                    "scores_full": "*163/4 (16.5 ov)",
+                    "scores": "163/4",
+                    "overs": "16.5"
                 },
                 "date_start": "2026-08-01 14:00:00",
                 "date_end": "2026-08-02 00:00:00",
@@ -83,10 +83,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 22.57,
-                    "humidity": 87,
+                    "temp": 22.34,
+                    "humidity": 91,
                     "visibility": 10000,
-                    "wind_speed": "7.18",
+                    "wind_speed": "6.96",
                     "clouds": 100
                 },
                 "broadcast": "",
@@ -181,10 +181,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 30.83,
-                    "humidity": 54,
+                    "temp": 31.54,
+                    "humidity": 51,
                     "visibility": 10000,
-                    "wind_speed": "6.17",
+                    "wind_speed": "6.96",
                     "clouds": 2
                 },
                 "broadcast": "Sony Sports TEN Network , Fancode",
@@ -12906,6 +12906,6 @@
             }
         ]
     },
-    "timenow": "1st August 2026 08:09 PM",
+    "timenow": "1st August 2026 09:16 PM",
     "timezone": "Asia/Dhaka"
 }
