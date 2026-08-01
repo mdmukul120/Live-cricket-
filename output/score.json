@@ -79,10 +79,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "moderate rain",
-                    "temp": 22.97,
-                    "humidity": 96,
-                    "visibility": 10000,
-                    "wind_speed": "7.58",
+                    "temp": 22.6,
+                    "humidity": 97,
+                    "visibility": "",
+                    "wind_speed": "7.74",
                     "clouds": 100
                 },
                 "broadcast": "",
@@ -176,10 +176,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 25.59,
-                    "humidity": 81,
+                    "temp": 24.62,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "6.17",
+                    "wind_speed": "4.52",
                     "clouds": 0
                 },
                 "broadcast": "Sony Sports TEN Network , Fancode",
@@ -12898,6 +12898,6 @@
             }
         ]
     },
-    "timenow": "1st August 2026 09:52 AM",
+    "timenow": "1st August 2026 12:18 PM",
     "timezone": "Asia/Dhaka"
 }
