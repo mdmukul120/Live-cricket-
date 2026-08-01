@@ -47,9 +47,9 @@
                     "name": "Desert Vipers",
                     "short_name": "DV",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Rectangle-3348-2023-07-06T125939.528.png",
-                    "scores_full": "*22/1 (3.5 ov)",
-                    "scores": "22/1",
-                    "overs": "3.5"
+                    "scores_full": "*101/6 (17.5 ov)",
+                    "scores": "101/6",
+                    "overs": "17.5"
                 },
                 "date_start": "2026-07-31 23:00:00",
                 "date_end": "2026-08-01 09:00:00",
@@ -82,12 +82,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 25.44,
-                    "humidity": 79,
+                    "weather_desc": "few clouds",
+                    "temp": 25.61,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "7.00",
-                    "clouds": 30
+                    "wind_speed": "5.99",
+                    "clouds": 19
                 },
                 "broadcast": "Sony Sports TEN Network , Fancode",
                 "pitch": {
@@ -12888,6 +12888,6 @@
             }
         ]
     },
-    "timenow": "1st August 2026 05:18 AM",
+    "timenow": "1st August 2026 06:14 AM",
     "timezone": "Asia/Dhaka"
 }
