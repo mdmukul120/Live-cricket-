@@ -40,9 +40,9 @@
                     "name": "West Indies",
                     "short_name": "WI",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/West-Indies.png",
-                    "scores_full": "*131/4 (39.1 ov)",
-                    "scores": "131/4",
-                    "overs": "39.1"
+                    "scores_full": "*152/4 (43.4 ov)",
+                    "scores": "152/4",
+                    "overs": "43.4"
                 },
                 "teamb": {
                     "team_id": 13,
@@ -12196,6 +12196,6 @@
             }
         ]
     },
-    "timenow": "3rd August 2026 12:42 AM",
+    "timenow": "3rd August 2026 01:54 AM",
     "timezone": "Asia/Dhaka"
 }
