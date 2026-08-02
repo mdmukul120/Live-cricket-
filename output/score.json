@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 27.48,
-                    "humidity": 64,
+                    "temp": 26.65,
+                    "humidity": 67,
                     "visibility": 10000,
-                    "wind_speed": "8.08",
-                    "clouds": 100
+                    "wind_speed": "7.34",
+                    "clouds": 98
                 },
                 "broadcast": "",
                 "pitch": {
@@ -175,12 +175,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 26.33,
+                    "weather_desc": "broken clouds",
+                    "temp": 26.35,
                     "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "25.19",
-                    "clouds": 90
+                    "wind_speed": "26.44",
+                    "clouds": 75
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -12187,6 +12187,6 @@
             }
         ]
     },
-    "timenow": "2nd August 2026 04:54 PM",
+    "timenow": "2nd August 2026 05:55 PM",
     "timezone": "Asia/Dhaka"
 }
