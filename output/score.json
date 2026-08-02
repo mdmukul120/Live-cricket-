@@ -40,9 +40,9 @@
                     "name": "West Indies",
                     "short_name": "WI",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/West-Indies.png",
-                    "scores_full": "*89/2 (24.4 ov)",
-                    "scores": "89/2",
-                    "overs": "24.4"
+                    "scores_full": "*131/4 (39.1 ov)",
+                    "scores": "131/4",
+                    "overs": "39.1"
                 },
                 "teamb": {
                     "team_id": 13,
@@ -82,12 +82,12 @@
                 "session": "2",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
+                    "weather_desc": "overcast clouds",
                     "temp": 26.33,
                     "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "23.76",
-                    "clouds": 29
+                    "wind_speed": "25.41",
+                    "clouds": 100
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -887,7 +887,7 @@
                     "temp": 21.57,
                     "humidity": 95,
                     "visibility": 10000,
-                    "wind_speed": "4.29",
+                    "wind_speed": "4.79",
                     "clouds": 100
                 },
                 "broadcast": "",
@@ -2404,6 +2404,94 @@
                 "is_realtime": 0
             },
             {
+                "match_id": 96676,
+                "title": "Ireland vs Afghanistan",
+                "short_title": "IRE vs AFG",
+                "subtitle": "1st Match",
+                "match_number": "1",
+                "format": 1,
+                "format_str": "ODI",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "false",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 129999,
+                    "title": "Afghanistan tour of Ireland",
+                    "abbr": "IRE vs AFG",
+                    "type": "series",
+                    "category": "international",
+                    "match_format": "odi",
+                    "season": "2026",
+                    "status": "upcoming",
+                    "datestart": "2026-08-05",
+                    "dateend": "2026-08-14",
+                    "country": "int",
+                    "total_matches": "5",
+                    "total_rounds": "1",
+                    "total_teams": "2"
+                },
+                "teama": {
+                    "team_id": 11,
+                    "name": "Ireland",
+                    "short_name": "IRE",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp"
+                },
+                "teamb": {
+                    "team_id": 498,
+                    "name": "Afghanistan",
+                    "short_name": "AFG",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp"
+                },
+                "date_start": "2026-08-05 09:45:00",
+                "date_end": "2026-08-06 03:45:00",
+                "timestamp_start": 1785923100,
+                "timestamp_end": 1785987900,
+                "date_start_ist": "2026-08-05 15:15:00",
+                "date_end_ist": "2026-08-06 09:15:00",
+                "venue": {
+                    "venue_id": "97",
+                    "name": "Bready Cricket Club, Magheramason",
+                    "location": "Bready",
+                    "country": "Ireland",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": [],
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
                 "match_id": 98006,
                 "title": "France vs Romania",
                 "short_title": "FRAN vs ROM",
@@ -3100,94 +3188,6 @@
                     "decision": 0
                 },
                 "criteria_check": true,
-                "is_realtime": 0
-            },
-            {
-                "match_id": 96676,
-                "title": "Ireland vs Afghanistan",
-                "short_title": "IRE vs AFG",
-                "subtitle": "1st Match",
-                "match_number": "1",
-                "format": 1,
-                "format_str": "ODI",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 129999,
-                    "title": "Afghanistan tour of Ireland",
-                    "abbr": "IRE vs AFG",
-                    "type": "series",
-                    "category": "international",
-                    "match_format": "odi",
-                    "season": "2026",
-                    "status": "upcoming",
-                    "datestart": "2026-08-05",
-                    "dateend": "2026-08-14",
-                    "country": "int",
-                    "total_matches": "5",
-                    "total_rounds": "1",
-                    "total_teams": "2"
-                },
-                "teama": {
-                    "team_id": 11,
-                    "name": "Ireland",
-                    "short_name": "IRE",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp"
-                },
-                "teamb": {
-                    "team_id": 498,
-                    "name": "Afghanistan",
-                    "short_name": "AFG",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp"
-                },
-                "date_start": "2026-08-05 09:45:00",
-                "date_end": "2026-08-06 03:45:00",
-                "timestamp_start": 1785923100,
-                "timestamp_end": 1785987900,
-                "date_start_ist": "2026-08-05 15:15:00",
-                "date_end_ist": "2026-08-06 09:15:00",
-                "venue": {
-                    "venue_id": "97",
-                    "name": "Bready Cricket Club, Magheramason",
-                    "location": "Bready",
-                    "country": "Ireland",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
                 "is_realtime": 0
             },
             {
@@ -12196,6 +12196,6 @@
             }
         ]
     },
-    "timenow": "2nd August 2026 11:42 PM",
+    "timenow": "3rd August 2026 12:42 AM",
     "timezone": "Asia/Dhaka"
 }
