@@ -83,11 +83,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 26.23,
+                    "temp": 26.32,
                     "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "22.19",
-                    "clouds": 98
+                    "wind_speed": "23.91",
+                    "clouds": 95
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -12215,6 +12215,6 @@
             }
         ]
     },
-    "timenow": "3rd August 2026 05:34 AM",
+    "timenow": "3rd August 2026 07:11 AM",
     "timezone": "Asia/Dhaka"
 }
