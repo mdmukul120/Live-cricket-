@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 2 - Session 2, Pakistan trail by 230 runs.",
+                "status_note": "Tea Break : Day 2 - Pakistan trail by 205 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 9,
+                "game_state_str": "Tea Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 129997,
@@ -49,9 +49,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "*114/2 (24.3 ov)",
-                    "scores": "114/2",
-                    "overs": "24.3"
+                    "scores_full": "*139/2 (32 ov)",
+                    "scores": "139/2",
+                    "overs": "32"
                 },
                 "date_start": "2026-08-02 14:00:00",
                 "date_end": "2026-08-07 14:00:00",
@@ -69,7 +69,7 @@
                 "umpires": "Alex Wharf (England), Jayaraman Madanagopal (India), Richard Kettleborough (England, TV)",
                 "referee": "Jeff Crowe (New Zealand)",
                 "equation": "",
-                "live": "Day 2 - Session 2, Pakistan trail by 230 runs.",
+                "live": "Tea Break : Day 2 - Pakistan trail by 205 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,15 +81,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "2",
-                "session": "2",
+                "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 26.54,
-                    "humidity": 86,
+                    "weather_desc": "overcast clouds",
+                    "temp": 26.48,
+                    "humidity": 87,
                     "visibility": 10000,
-                    "wind_speed": "20.76",
-                    "clouds": 60
+                    "wind_speed": "21.88",
+                    "clouds": 100
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -12226,6 +12226,6 @@
             }
         ]
     },
-    "timenow": "4th August 2026 12:21 AM",
+    "timenow": "4th August 2026 02:04 AM",
     "timezone": "Asia/Dhaka"
 }
