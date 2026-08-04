@@ -85,10 +85,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 26.53,
+                    "temp": 26.66,
                     "humidity": 85,
                     "visibility": 10000,
-                    "wind_speed": "22.88",
+                    "wind_speed": "22.41",
                     "clouds": 42
                 },
                 "broadcast": "Fancode",
@@ -11632,6 +11632,6 @@
             }
         ]
     },
-    "timenow": "4th August 2026 10:23 AM",
+    "timenow": "4th August 2026 01:06 PM",
     "timezone": "Asia/Dhaka"
 }
