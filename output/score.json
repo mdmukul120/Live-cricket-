@@ -84,12 +84,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 26.73,
-                    "humidity": 85,
+                    "weather_desc": "broken clouds",
+                    "temp": 26.65,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "22.77",
-                    "clouds": 36
+                    "wind_speed": "22.01",
+                    "clouds": 73
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -181,12 +181,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 27.88,
+                    "weather_desc": "moderate rain",
+                    "temp": 28.38,
                     "humidity": 84,
-                    "visibility": 10000,
-                    "wind_speed": "13.15",
-                    "clouds": 98
+                    "visibility": 6447,
+                    "wind_speed": "12.93",
+                    "clouds": 100
                 },
                 "broadcast": "",
                 "pitch": {
@@ -277,13 +277,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 19.56,
-                    "humidity": 87,
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 19.75,
+                    "humidity": 85,
                     "visibility": 10000,
-                    "wind_speed": "12.12",
-                    "clouds": 51
+                    "wind_speed": "13.67",
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11720,6 +11720,6 @@
             }
         ]
     },
-    "timenow": "4th August 2026 05:50 PM",
+    "timenow": "4th August 2026 07:28 PM",
     "timezone": "Asia/Dhaka"
 }
