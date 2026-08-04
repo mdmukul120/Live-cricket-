@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Stumps : Day 2 - Pakistan trail by 78 runs.",
+                "status_note": "Day 3 - Session 1, Pakistan trail by 12 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 7,
-                "game_state_str": "Stumps",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 129997,
@@ -49,9 +49,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "*266/2 (66 ov)",
-                    "scores": "266/2",
-                    "overs": "66"
+                    "scores_full": "*332/6 (93.4 ov)",
+                    "scores": "332/6",
+                    "overs": "93.4"
                 },
                 "date_start": "2026-08-02 14:00:00",
                 "date_end": "2026-08-07 14:00:00",
@@ -69,7 +69,7 @@
                 "umpires": "Alex Wharf (England), Jayaraman Madanagopal (India), Richard Kettleborough (England, TV)",
                 "referee": "Jeff Crowe (New Zealand)",
                 "equation": "",
-                "live": "Stumps : Day 2 - Pakistan trail by 78 runs.",
+                "live": "Day 3 - Session 1, Pakistan trail by 12 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -80,16 +80,16 @@
                 "presquad_time": "2026-08-01 20:48:20",
                 "verify_time": "",
                 "match_dls_affected": "false",
-                "day": "2",
-                "session": "0",
+                "day": "3",
+                "session": "1",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 26.65,
-                    "humidity": 83,
+                    "weather_desc": "scattered clouds",
+                    "temp": 26.57,
+                    "humidity": 84,
                     "visibility": 10000,
-                    "wind_speed": "22.01",
-                    "clouds": 73
+                    "wind_speed": "20.60",
+                    "clouds": 43
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -11720,6 +11720,6 @@
             }
         ]
     },
-    "timenow": "4th August 2026 07:28 PM",
+    "timenow": "4th August 2026 09:55 PM",
     "timezone": "Asia/Dhaka"
 }
