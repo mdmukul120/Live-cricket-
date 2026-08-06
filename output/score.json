@@ -10,14 +10,14 @@
                 "match_number": "1",
                 "format": 5,
                 "format_str": "First Class",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "Day 1 - Bangladesh elected to bat",
                 "verified": "false",
                 "pre_squad": "false",
                 "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "1",
                 "competition": {
                     "cid": 129989,
@@ -27,7 +27,7 @@
                     "category": "international",
                     "match_format": "mixed",
                     "season": "2026",
-                    "status": "upcoming",
+                    "status": "live",
                     "datestart": "2026-08-06",
                     "dateend": "2026-08-26",
                     "country": "int",
@@ -39,13 +39,17 @@
                     "team_id": 12519,
                     "name": "Cricket Australia XI",
                     "short_name": "CA-XI",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/02/Cricket-Australia-XI-png.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/02/Cricket-Australia-XI-png.png",
+                    "scores_full": ""
                 },
                 "teamb": {
                     "team_id": 23,
                     "name": "Bangladesh",
                     "short_name": "BAN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
+                    "scores_full": "*10/1 (4 ov)",
+                    "scores": "10/1",
+                    "overs": "4"
                 },
                 "date_start": "2026-08-06 00:30:00",
                 "date_end": "2026-08-11 00:30:00",
@@ -63,30 +67,31 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "",
+                "live": "Day 1 - Bangladesh elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 0,
+                "latest_inning_number": 1,
                 "presquad_time": "",
                 "verify_time": "",
                 "match_dls_affected": "false",
-                "day": "0",
+                "day": "1",
                 "session": "0",
                 "weather": [],
                 "broadcast": "",
                 "pitch": {
                     "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
-                    "winner": 0,
-                    "decision": 0
+                    "text": "Bangladesh elected to bat",
+                    "winner": 23,
+                    "decision": 1
                 },
                 "is_realtime": 0
             },
@@ -11742,6 +11747,6 @@
             }
         ]
     },
-    "timenow": "6th August 2026 05:30 AM",
+    "timenow": "6th August 2026 06:54 AM",
     "timezone": "Asia/Dhaka"
 }
