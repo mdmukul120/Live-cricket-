@@ -107,7 +107,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Ireland elected to bowl",
+                "status_note": "Ireland need 294 runs in 45.4 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -135,16 +135,18 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": ""
+                    "scores_full": "*6/0 (1.2 ov)",
+                    "scores": "6/0",
+                    "overs": "1.2"
                 },
                 "teamb": {
                     "team_id": 498,
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": "*267/7 (43.4 ov)",
-                    "scores": "267/7",
-                    "overs": "43.4"
+                    "scores_full": "299/8 (47 ov)",
+                    "scores": "299/8",
+                    "overs": "47"
                 },
                 "date_start": "2026-08-07 09:45:00",
                 "date_end": "2026-08-08 03:45:00",
@@ -162,14 +164,14 @@
                 "umpires": "Adrian Holdstock (South Africa), Roly Black (Ireland), Jonathan Kennedy (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Ireland elected to bowl",
+                "live": "Ireland need 294 runs in 45.4 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-05 22:07:44",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -243,9 +245,9 @@
                     "name": "Colombo Kaps",
                     "short_name": "CK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/colombo-logo.png",
-                    "scores_full": "*55/5 (7.1 ov)",
-                    "scores": "55/5",
-                    "overs": "7.1"
+                    "scores_full": "*166/8 (17.2 ov)",
+                    "scores": "166/8",
+                    "overs": "17.2"
                 },
                 "date_start": "2026-08-07 14:00:00",
                 "date_end": "2026-08-08 00:00:00",
@@ -280,7 +282,7 @@
                     "weather": "Rain",
                     "weather_desc": "light rain",
                     "temp": 27.83,
-                    "humidity": 79,
+                    "humidity": 80,
                     "visibility": 10000,
                     "wind_speed": "14.00",
                     "clouds": 100
@@ -11253,6 +11255,6 @@
             }
         ]
     },
-    "timenow": "7th August 2026 08:36 PM",
+    "timenow": "7th August 2026 09:30 PM",
     "timezone": "Asia/Dhaka"
 }
