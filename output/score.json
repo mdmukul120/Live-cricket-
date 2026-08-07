@@ -174,11 +174,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 18.06,
-                    "humidity": 82,
+                    "temp": 15.34,
+                    "humidity": 72,
                     "visibility": 10000,
-                    "wind_speed": "27.83",
-                    "clouds": 27
+                    "wind_speed": "22.93",
+                    "clouds": 50
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -11749,6 +11749,6 @@
             }
         ]
     },
-    "timenow": "6th August 2026 09:32 PM",
+    "timenow": "7th August 2026 06:30 AM",
     "timezone": "Asia/Dhaka"
 }
