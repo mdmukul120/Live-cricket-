@@ -108,7 +108,7 @@
                 "status": 2,
                 "status_str": "Completed",
                 "status_note": "Afghanistan won by 92 runs",
-                "verified": "false",
+                "verified": "true",
                 "pre_squad": "true",
                 "odds_available": "false",
                 "game_state": 0,
@@ -173,7 +173,7 @@
                 "wagon": 1,
                 "latest_inning_number": 2,
                 "presquad_time": "2026-08-05 22:07:44",
-                "verify_time": "",
+                "verify_time": "2026-08-07 23:40:34",
                 "match_dls_affected": "false",
                 "day": "0",
                 "session": "0",
@@ -11268,6 +11268,6 @@
             }
         ]
     },
-    "timenow": "8th August 2026 12:07 AM",
+    "timenow": "8th August 2026 01:11 AM",
     "timezone": "Asia/Dhaka"
 }
