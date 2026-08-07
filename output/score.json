@@ -107,7 +107,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Ireland need 294 runs in 45.4 remaining overs",
+                "status_note": "Ireland need 225 runs in 34.0 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -135,9 +135,9 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*6/0 (1.2 ov)",
-                    "scores": "6/0",
-                    "overs": "1.2"
+                    "scores_full": "*75/1 (13 ov)",
+                    "scores": "75/1",
+                    "overs": "13"
                 },
                 "teamb": {
                     "team_id": 498,
@@ -164,7 +164,7 @@
                 "umpires": "Adrian Holdstock (South Africa), Roly Black (Ireland), Jonathan Kennedy (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Ireland need 294 runs in 45.4 remaining overs",
+                "live": "Ireland need 225 runs in 34.0 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -180,11 +180,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
-                    "temp": 17.45,
-                    "humidity": 68,
+                    "temp": 17.1,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": "16.78",
-                    "clouds": 12
+                    "wind_speed": "16.42",
+                    "clouds": 18
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -210,7 +210,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Colombo Kaps elected to bat",
+                "status_note": "Galle Gallants need 109 runs in 11.4 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -238,16 +238,18 @@
                     "name": "Galle Gallants",
                     "short_name": "GG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/11/Galle-Marvels.png",
-                    "scores_full": ""
+                    "scores_full": "*68/1 (8.2 ov)",
+                    "scores": "68/1",
+                    "overs": "8.2"
                 },
                 "teamb": {
                     "team_id": 117008,
                     "name": "Colombo Kaps",
                     "short_name": "CK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/colombo-logo.png",
-                    "scores_full": "*166/8 (17.2 ov)",
-                    "scores": "166/8",
-                    "overs": "17.2"
+                    "scores_full": "176/10 (18.5 ov)",
+                    "scores": "176/10",
+                    "overs": "18.5"
                 },
                 "date_start": "2026-08-07 14:00:00",
                 "date_end": "2026-08-08 00:00:00",
@@ -265,14 +267,14 @@
                 "umpires": "Chamara De Zoysa (Sri Lanka), Kumar Dharmasena (Sri Lanka), Raveendra Wimalasiri (Sri Lanka, TV)",
                 "referee": "Graeme Labrooy (Sri Lanka)",
                 "equation": "",
-                "live": "Colombo Kaps elected to bat",
+                "live": "Galle Gallants need 109 runs in 11.4 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-05 23:44:14",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -281,10 +283,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 27.83,
-                    "humidity": 80,
+                    "temp": 27.27,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "14.00",
+                    "wind_speed": "14.36",
                     "clouds": 100
                 },
                 "broadcast": "",
@@ -11255,6 +11257,6 @@
             }
         ]
     },
-    "timenow": "7th August 2026 09:30 PM",
+    "timenow": "7th August 2026 10:26 PM",
     "timezone": "Asia/Dhaka"
 }
