@@ -12,12 +12,12 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Innings Break : Jaffna Kings elected to bat",
+                "status_note": "Galle Gallants need 104 runs in 18.0 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 6,
-                "game_state_str": "Inning Break",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "1",
                 "competition": {
                     "cid": 130036,
@@ -49,7 +49,9 @@
                     "name": "Galle Gallants",
                     "short_name": "GG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/11/Galle-Marvels.png",
-                    "scores_full": ""
+                    "scores_full": "*20/2 (2 ov)",
+                    "scores": "20/2",
+                    "overs": "2"
                 },
                 "date_start": "2026-08-08 14:00:00",
                 "date_end": "2026-08-09 00:00:00",
@@ -67,14 +69,14 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Wayne Knights (New Zealand), Raveendra Wimalasiri (Sri Lanka, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Innings Break : Jaffna Kings elected to bat",
+                "live": "Galle Gallants need 104 runs in 18.0 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-07 23:11:32",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -4773,6 +4775,6 @@
             }
         ]
     },
-    "timenow": "8th August 2026 09:50 PM",
+    "timenow": "8th August 2026 10:14 PM",
     "timezone": "Asia/Dhaka"
 }
