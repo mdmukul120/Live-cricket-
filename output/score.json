@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 30.63,
-                    "humidity": 74,
+                    "temp": 28.94,
+                    "humidity": 76,
                     "visibility": 10000,
-                    "wind_speed": "14.03",
-                    "clouds": 91
+                    "wind_speed": "15.08",
+                    "clouds": 94
                 },
                 "broadcast": "",
                 "pitch": {
@@ -4680,6 +4680,6 @@
             }
         ]
     },
-    "timenow": "8th August 2026 01:58 PM",
+    "timenow": "8th August 2026 02:43 PM",
     "timezone": "Asia/Dhaka"
 }
