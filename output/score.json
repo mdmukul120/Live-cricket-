@@ -12,12 +12,12 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Jaffna Kings elected to bat",
+                "status_note": "Strategic Timeout : Jaffna Kings elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 13,
+                "game_state_str": "Strategic Timeout",
                 "domestic": "1",
                 "competition": {
                     "cid": 130036,
@@ -40,9 +40,9 @@
                     "name": "Jaffna Kings",
                     "short_name": "JK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/jaffna-kings.png",
-                    "scores_full": "*14/0 (2.2 ov)",
-                    "scores": "14/0",
-                    "overs": "2.2"
+                    "scores_full": "*62/4 (9 ov)",
+                    "scores": "62/4",
+                    "overs": "9"
                 },
                 "teamb": {
                     "team_id": 117010,
@@ -67,7 +67,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Wayne Knights (New Zealand), Raveendra Wimalasiri (Sri Lanka, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Jaffna Kings elected to bat",
+                "live": "Strategic Timeout : Jaffna Kings elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -83,11 +83,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 27.83,
-                    "humidity": 84,
+                    "temp": 27.27,
+                    "humidity": 90,
                     "visibility": 10000,
-                    "wind_speed": "12.86",
-                    "clouds": 87
+                    "wind_speed": "11.79",
+                    "clouds": 90
                 },
                 "broadcast": "",
                 "pitch": {
@@ -4773,6 +4773,6 @@
             }
         ]
     },
-    "timenow": "8th August 2026 08:18 PM",
+    "timenow": "8th August 2026 08:53 PM",
     "timezone": "Asia/Dhaka"
 }
