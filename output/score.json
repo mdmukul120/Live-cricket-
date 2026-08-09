@@ -3,94 +3,6 @@
     "response": {
         "items": [
             {
-                "match_id": 96611,
-                "title": "Australia vs Bangladesh",
-                "short_title": "AUS vs BAN",
-                "subtitle": "1st Match",
-                "match_number": "2",
-                "format": 2,
-                "format_str": "Test",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 129989,
-                    "title": "Bangladesh tour of Australia",
-                    "abbr": "AUS vs BAN",
-                    "type": "tour",
-                    "category": "international",
-                    "match_format": "mixed",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-06",
-                    "dateend": "2026-08-26",
-                    "country": "int",
-                    "total_matches": "3",
-                    "total_rounds": "2",
-                    "total_teams": "3"
-                },
-                "teama": {
-                    "team_id": 5,
-                    "name": "Australia",
-                    "short_name": "AUS",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp"
-                },
-                "teamb": {
-                    "team_id": 23,
-                    "name": "Bangladesh",
-                    "short_name": "BAN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp"
-                },
-                "date_start": "2026-08-13 00:30:00",
-                "date_end": "2026-08-18 00:30:00",
-                "timestamp_start": 1786581000,
-                "timestamp_end": 1787013000,
-                "date_start_ist": "2026-08-13 06:00:00",
-                "date_end_ist": "2026-08-18 06:00:00",
-                "venue": {
-                    "venue_id": "1213276",
-                    "name": "Marrara Cricket Ground",
-                    "location": "Darwin",
-                    "country": "Australia",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "Star Sports Network, JioHotstar",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
                 "match_id": 96677,
                 "title": "Ireland vs Afghanistan",
                 "short_title": "IRE vs AFG",
@@ -293,6 +205,94 @@
                     "text": "West Indies elected to bat",
                     "winner": 17,
                     "decision": 1
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 96611,
+                "title": "Australia vs Bangladesh",
+                "short_title": "AUS vs BAN",
+                "subtitle": "1st Match",
+                "match_number": "2",
+                "format": 2,
+                "format_str": "Test",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "false",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 129989,
+                    "title": "Bangladesh tour of Australia",
+                    "abbr": "AUS vs BAN",
+                    "type": "tour",
+                    "category": "international",
+                    "match_format": "mixed",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-06",
+                    "dateend": "2026-08-26",
+                    "country": "int",
+                    "total_matches": "3",
+                    "total_rounds": "2",
+                    "total_teams": "3"
+                },
+                "teama": {
+                    "team_id": 5,
+                    "name": "Australia",
+                    "short_name": "AUS",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp"
+                },
+                "teamb": {
+                    "team_id": 23,
+                    "name": "Bangladesh",
+                    "short_name": "BAN",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp"
+                },
+                "date_start": "2026-08-13 00:30:00",
+                "date_end": "2026-08-18 00:30:00",
+                "timestamp_start": 1786581000,
+                "timestamp_end": 1787013000,
+                "date_start_ist": "2026-08-13 06:00:00",
+                "date_end_ist": "2026-08-18 06:00:00",
+                "venue": {
+                    "venue_id": "1213276",
+                    "name": "Marrara Cricket Ground",
+                    "location": "Darwin",
+                    "country": "Australia",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": [],
+                "broadcast": "Star Sports Network, JioHotstar",
+                "pitch": {
+                    "pitch_condition": "",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -4871,6 +4871,6 @@
             }
         ]
     },
-    "timenow": "9th August 2026 04:56 PM",
+    "timenow": "9th August 2026 05:24 PM",
     "timezone": "Asia/Dhaka"
 }
