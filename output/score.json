@@ -12,7 +12,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Afghanistan elected to bowl",
+                "status_note": "Afghanistan need 173 runs in 43.5 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,16 +40,18 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*178/8 (42.2 ov)",
-                    "scores": "178/8",
-                    "overs": "42.2"
+                    "scores_full": "206/10 (46.3 ov)",
+                    "scores": "206/10",
+                    "overs": "46.3"
                 },
                 "teamb": {
                     "team_id": 498,
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": ""
+                    "scores_full": "*34/0 (6.1 ov)",
+                    "scores": "34/0",
+                    "overs": "6.1"
                 },
                 "date_start": "2026-08-10 09:45:00",
                 "date_end": "2026-08-11 03:45:00",
@@ -67,14 +69,14 @@
                 "umpires": "Adrian Holdstock (South Africa), Jonathan Kennedy (Ireland), Gareth Morrison (Ireland, TV)",
                 "referee": "Roly Black (Ireland)",
                 "equation": "",
-                "live": "Afghanistan elected to bowl",
+                "live": "Afghanistan need 173 runs in 43.5 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-08 12:15:28",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -4471,6 +4473,6 @@
             }
         ]
     },
-    "timenow": "10th August 2026 07:06 PM",
+    "timenow": "10th August 2026 08:23 PM",
     "timezone": "Asia/Dhaka"
 }
