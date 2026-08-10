@@ -40,9 +40,9 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*102/5 (25.1 ov)",
-                    "scores": "102/5",
-                    "overs": "25.1"
+                    "scores_full": "*178/8 (42.2 ov)",
+                    "scores": "178/8",
+                    "overs": "42.2"
                 },
                 "teamb": {
                     "team_id": 498,
@@ -4471,6 +4471,6 @@
             }
         ]
     },
-    "timenow": "10th August 2026 05:57 PM",
+    "timenow": "10th August 2026 07:06 PM",
     "timezone": "Asia/Dhaka"
 }
