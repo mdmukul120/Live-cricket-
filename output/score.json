@@ -12,7 +12,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Afghanistan need 50 runs in 18.2 remaining overs",
+                "status_note": "Match completed",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -49,9 +49,9 @@
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": "*157/6 (31.4 ov)",
-                    "scores": "157/6",
-                    "overs": "31.4"
+                    "scores_full": "*207/7 (44.5 ov)",
+                    "scores": "207/7",
+                    "overs": "44.5"
                 },
                 "date_start": "2026-08-10 09:45:00",
                 "date_end": "2026-08-11 03:45:00",
@@ -69,7 +69,7 @@
                 "umpires": "Adrian Holdstock (South Africa), Jonathan Kennedy (Ireland), Gareth Morrison (Ireland, TV)",
                 "referee": "Roly Black (Ireland)",
                 "equation": "",
-                "live": "Afghanistan need 50 runs in 18.2 remaining overs",
+                "live": "Match completed",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -4481,6 +4481,6 @@
             }
         ]
     },
-    "timenow": "10th August 2026 10:24 PM",
+    "timenow": "10th August 2026 11:21 PM",
     "timezone": "Asia/Dhaka"
 }
