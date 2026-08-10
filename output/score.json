@@ -3,6 +3,107 @@
     "response": {
         "items": [
             {
+                "match_id": 96678,
+                "title": "Ireland vs Afghanistan",
+                "short_title": "IRE vs AFG",
+                "subtitle": "3rd Match",
+                "match_number": "3",
+                "format": 1,
+                "format_str": "ODI",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "Afghanistan elected to bowl",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
+                "domestic": "0",
+                "competition": {
+                    "cid": 129999,
+                    "title": "Afghanistan tour of Ireland",
+                    "abbr": "IRE vs AFG",
+                    "type": "series",
+                    "category": "international",
+                    "match_format": "odi",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-05",
+                    "dateend": "2026-08-14",
+                    "country": "int",
+                    "total_matches": "5",
+                    "total_rounds": "1",
+                    "total_teams": "2"
+                },
+                "teama": {
+                    "team_id": 11,
+                    "name": "Ireland",
+                    "short_name": "IRE",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
+                    "scores_full": "*7/0 (2.1 ov)",
+                    "scores": "7/0",
+                    "overs": "2.1"
+                },
+                "teamb": {
+                    "team_id": 498,
+                    "name": "Afghanistan",
+                    "short_name": "AFG",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
+                    "scores_full": ""
+                },
+                "date_start": "2026-08-10 09:45:00",
+                "date_end": "2026-08-11 03:45:00",
+                "timestamp_start": 1786355100,
+                "timestamp_end": 1786419900,
+                "date_start_ist": "2026-08-10 15:15:00",
+                "date_end_ist": "2026-08-11 09:15:00",
+                "venue": {
+                    "venue_id": "87",
+                    "name": "Civil Service Cricket Club, Stormont",
+                    "location": "Belfast",
+                    "country": "Ireland",
+                    "timezone": ""
+                },
+                "umpires": "Adrian Holdstock (South Africa), Jonathan Kennedy (Ireland), Gareth Morrison (Ireland, TV)",
+                "referee": "Roly Black (Ireland)",
+                "equation": "",
+                "live": "Afghanistan elected to bowl",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 1,
+                "presquad_time": "2026-08-08 12:15:28",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "",
+                    "weather_desc": "",
+                    "temp": "",
+                    "humidity": "",
+                    "visibility": "",
+                    "wind_speed": "",
+                    "clouds": ""
+                },
+                "broadcast": "Fancode",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Afghanistan elected to bowl",
+                    "winner": 498,
+                    "decision": 2
+                },
+                "is_realtime": 0
+            },
+            {
                 "match_id": 96611,
                 "title": "Australia vs Bangladesh",
                 "short_title": "AUS vs BAN",
@@ -198,102 +299,6 @@
                     "text": "Ireland elected to bowl",
                     "winner": 11,
                     "decision": 2
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 96678,
-                "title": "Ireland vs Afghanistan",
-                "short_title": "IRE vs AFG",
-                "subtitle": "3rd Match",
-                "match_number": "3",
-                "format": 1,
-                "format_str": "ODI",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 129999,
-                    "title": "Afghanistan tour of Ireland",
-                    "abbr": "IRE vs AFG",
-                    "type": "series",
-                    "category": "international",
-                    "match_format": "odi",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-05",
-                    "dateend": "2026-08-14",
-                    "country": "int",
-                    "total_matches": "5",
-                    "total_rounds": "1",
-                    "total_teams": "2"
-                },
-                "teama": {
-                    "team_id": 11,
-                    "name": "Ireland",
-                    "short_name": "IRE",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp"
-                },
-                "teamb": {
-                    "team_id": 498,
-                    "name": "Afghanistan",
-                    "short_name": "AFG",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp"
-                },
-                "date_start": "2026-08-10 09:45:00",
-                "date_end": "2026-08-11 03:45:00",
-                "timestamp_start": 1786355100,
-                "timestamp_end": 1786419900,
-                "date_start_ist": "2026-08-10 15:15:00",
-                "date_end_ist": "2026-08-11 09:15:00",
-                "venue": {
-                    "venue_id": "87",
-                    "name": "Civil Service Cricket Club, Stormont",
-                    "location": "Belfast",
-                    "country": "Ireland",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-08-08 12:15:28",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "",
-                    "weather_desc": "",
-                    "temp": "",
-                    "humidity": "",
-                    "visibility": "",
-                    "wind_speed": "",
-                    "clouds": ""
-                },
-                "broadcast": "Fancode",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -4466,6 +4471,6 @@
             }
         ]
     },
-    "timenow": "10th August 2026 02:27 PM",
+    "timenow": "10th August 2026 03:58 PM",
     "timezone": "Asia/Dhaka"
 }
