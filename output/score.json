@@ -3,6 +3,94 @@
     "response": {
         "items": [
             {
+                "match_id": 96680,
+                "title": "Ireland vs Afghanistan",
+                "short_title": "IRE vs AFG",
+                "subtitle": "5th Match",
+                "match_number": "5",
+                "format": 1,
+                "format_str": "ODI",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "false",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 129999,
+                    "title": "Afghanistan tour of Ireland",
+                    "abbr": "IRE vs AFG",
+                    "type": "series",
+                    "category": "international",
+                    "match_format": "odi",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-05",
+                    "dateend": "2026-08-14",
+                    "country": "int",
+                    "total_matches": "5",
+                    "total_rounds": "1",
+                    "total_teams": "2"
+                },
+                "teama": {
+                    "team_id": 11,
+                    "name": "Ireland",
+                    "short_name": "IRE",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp"
+                },
+                "teamb": {
+                    "team_id": 498,
+                    "name": "Afghanistan",
+                    "short_name": "AFG",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp"
+                },
+                "date_start": "2026-08-14 09:45:00",
+                "date_end": "2026-08-15 03:45:00",
+                "timestamp_start": 1786700700,
+                "timestamp_end": 1786765500,
+                "date_start_ist": "2026-08-14 15:15:00",
+                "date_end_ist": "2026-08-15 09:15:00",
+                "venue": {
+                    "venue_id": "87",
+                    "name": "Civil Service Cricket Club, Stormont",
+                    "location": "Belfast",
+                    "country": "Ireland",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": [],
+                "broadcast": "Fancode",
+                "pitch": {
+                    "pitch_condition": "",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
                 "match_id": 96678,
                 "title": "Ireland vs Afghanistan",
                 "short_title": "IRE vs AFG",
@@ -4481,6 +4569,6 @@
             }
         ]
     },
-    "timenow": "11th August 2026 03:32 PM",
+    "timenow": "11th August 2026 04:27 PM",
     "timezone": "Asia/Dhaka"
 }
