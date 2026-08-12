@@ -60,8 +60,8 @@
                     "country": "Australia",
                     "timezone": ""
                 },
-                "umpires": "",
-                "referee": "",
+                "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
+                "referee": "Richie Richardson (West Indies)",
                 "equation": "",
                 "live": "",
                 "result": "",
@@ -78,19 +78,19 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 6.3,
+                    "weather_desc": "overcast clouds",
+                    "temp": 5.76,
                     "humidity": 95,
                     "visibility": 10000,
-                    "wind_speed": "7.47",
-                    "clouds": 70
+                    "wind_speed": "5.53",
+                    "clouds": 91
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
-                    "pitch_condition": "Spinning Pitch",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Sharp Turn"
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
                     "winner": 0,
@@ -4680,6 +4680,6 @@
             }
         ]
     },
-    "timenow": "13th August 2026 04:50 AM",
+    "timenow": "13th August 2026 05:25 AM",
     "timezone": "Asia/Dhaka"
 }
