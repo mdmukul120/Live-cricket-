@@ -80,10 +80,10 @@
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
                     "temp": 6.33,
-                    "humidity": 93,
+                    "humidity": 94,
                     "visibility": 10000,
-                    "wind_speed": "6.82",
-                    "clouds": 96
+                    "wind_speed": "7.05",
+                    "clouds": 97
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -143,9 +143,9 @@
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": "*65/1 (11.3 ov)",
-                    "scores": "65/1",
-                    "overs": "11.3"
+                    "scores_full": "*121/1 (22.4 ov)",
+                    "scores": "121/1",
+                    "overs": "22.4"
                 },
                 "date_start": "2026-08-12 09:45:00",
                 "date_end": "2026-08-13 03:45:00",
@@ -4662,6 +4662,6 @@
             }
         ]
     },
-    "timenow": "12th August 2026 04:43 PM",
+    "timenow": "12th August 2026 05:31 PM",
     "timezone": "Asia/Dhaka"
 }
