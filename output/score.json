@@ -80,9 +80,9 @@
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
                     "temp": 6.32,
-                    "humidity": 94,
+                    "humidity": 95,
                     "visibility": 10000,
-                    "wind_speed": "6.58",
+                    "wind_speed": "7.61",
                     "clouds": 54
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -108,7 +108,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Ireland need 249 runs in 30.0 remaining overs",
+                "status_note": "Ireland need 176 runs in 16.2 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -136,9 +136,9 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*95/2 (20 ov)",
-                    "scores": "95/2",
-                    "overs": "20"
+                    "scores_full": "*168/4 (33.4 ov)",
+                    "scores": "168/4",
+                    "overs": "33.4"
                 },
                 "teamb": {
                     "team_id": 498,
@@ -165,7 +165,7 @@
                 "umpires": "Adrian Holdstock (South Africa), Roly Black (Ireland), Jonathan Kennedy (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Ireland need 249 runs in 30.0 remaining overs",
+                "live": "Ireland need 176 runs in 16.2 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -4680,6 +4680,6 @@
             }
         ]
     },
-    "timenow": "12th August 2026 09:46 PM",
+    "timenow": "12th August 2026 10:39 PM",
     "timezone": "Asia/Dhaka"
 }
