@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 7.43,
+                    "temp": 6.88,
                     "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "5.21",
-                    "clouds": 100
+                    "wind_speed": "5.01",
+                    "clouds": 92
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -4687,6 +4687,6 @@
             }
         ]
     },
-    "timenow": "13th August 2026 03:56 PM",
+    "timenow": "13th August 2026 04:58 PM",
     "timezone": "Asia/Dhaka"
 }
