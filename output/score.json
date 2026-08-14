@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 2 - Session 3, Bangladesh lead by 153 runs.",
+                "status_note": "Stumps : Day 2 - Bangladesh lead by 153 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 7,
+                "game_state_str": "Stumps",
                 "domestic": "0",
                 "competition": {
                     "cid": 129989,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 2 - Session 3, Bangladesh lead by 153 runs.",
+                "live": "Stumps : Day 2 - Bangladesh lead by 153 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,15 +81,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "2",
-                "session": "3",
+                "session": "0",
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 9.1,
-                    "humidity": 83,
+                    "temp": 8.54,
+                    "humidity": 86,
                     "visibility": 10000,
-                    "wind_speed": "2.64",
-                    "clouds": 96
+                    "wind_speed": "2.95",
+                    "clouds": 99
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -182,11 +182,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "moderate rain",
-                    "temp": 31.12,
+                    "temp": 31.07,
                     "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "15.41",
-                    "clouds": 95
+                    "wind_speed": "15.48",
+                    "clouds": 89
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4687,6 +4687,6 @@
             }
         ]
     },
-    "timenow": "14th August 2026 02:03 PM",
+    "timenow": "14th August 2026 03:16 PM",
     "timezone": "Asia/Dhaka"
 }
