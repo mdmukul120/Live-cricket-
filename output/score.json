@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Stumps : Day 1 - Bangladesh trail by 102 runs.",
+                "status_note": "Day 2 - Session 1, Bangladesh trail by 78 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 7,
-                "game_state_str": "Stumps",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 129989,
@@ -49,9 +49,9 @@
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "*96/1 (24 ov)",
-                    "scores": "96/1",
-                    "overs": "24"
+                    "scores_full": "*120/1 (34.5 ov)",
+                    "scores": "120/1",
+                    "overs": "34.5"
                 },
                 "date_start": "2026-08-13 00:30:00",
                 "date_end": "2026-08-18 00:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Stumps : Day 1 - Bangladesh trail by 102 runs.",
+                "live": "Day 2 - Session 1, Bangladesh trail by 78 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -80,16 +80,16 @@
                 "presquad_time": "2026-08-09 23:23:13",
                 "verify_time": "",
                 "match_dls_affected": "false",
-                "day": "1",
-                "session": "0",
+                "day": "2",
+                "session": "1",
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 6.35,
-                    "humidity": 95,
+                    "temp": 8.01,
+                    "humidity": 87,
                     "visibility": 10000,
-                    "wind_speed": "5.23",
-                    "clouds": 94
+                    "wind_speed": "5.48",
+                    "clouds": 100
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -181,12 +181,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "moderate rain",
-                    "temp": 27.23,
-                    "humidity": 83,
-                    "visibility": 9243,
-                    "wind_speed": 5.03,
-                    "clouds": 100
+                    "weather_desc": "light rain",
+                    "temp": 28.96,
+                    "humidity": 82,
+                    "visibility": 10000,
+                    "wind_speed": "1.12",
+                    "clouds": 38
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4687,6 +4687,6 @@
             }
         ]
     },
-    "timenow": "14th August 2026 05:55 AM",
+    "timenow": "14th August 2026 07:24 AM",
     "timezone": "Asia/Dhaka"
 }
