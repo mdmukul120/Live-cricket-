@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 2 - Session 1, Bangladesh trail by 78 runs.",
+                "status_note": "Day 2 - Session 2, Bangladesh lead by 3 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -49,9 +49,9 @@
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "*120/1 (34.5 ov)",
-                    "scores": "120/1",
-                    "overs": "34.5"
+                    "scores_full": "*201/2 (55 ov)",
+                    "scores": "201/2",
+                    "overs": "55"
                 },
                 "date_start": "2026-08-13 00:30:00",
                 "date_end": "2026-08-18 00:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 2 - Session 1, Bangladesh trail by 78 runs.",
+                "live": "Day 2 - Session 2, Bangladesh lead by 3 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,14 +81,14 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "2",
-                "session": "1",
+                "session": "2",
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 8.01,
-                    "humidity": 87,
+                    "temp": 10.21,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "5.48",
+                    "wind_speed": "5.73",
                     "clouds": 100
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -4687,6 +4687,6 @@
             }
         ]
     },
-    "timenow": "14th August 2026 07:24 AM",
+    "timenow": "14th August 2026 09:34 AM",
     "timezone": "Asia/Dhaka"
 }
