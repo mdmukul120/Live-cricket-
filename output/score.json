@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 2 - Session 2, Bangladesh lead by 3 runs.",
+                "status_note": "Tea Break : Day 2 - Bangladesh lead by 88 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 9,
+                "game_state_str": "Tea Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 129989,
@@ -49,9 +49,9 @@
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "*201/2 (55 ov)",
-                    "scores": "201/2",
-                    "overs": "55"
+                    "scores_full": "*286/3 (78 ov)",
+                    "scores": "286/3",
+                    "overs": "78"
                 },
                 "date_start": "2026-08-13 00:30:00",
                 "date_end": "2026-08-18 00:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 2 - Session 2, Bangladesh lead by 3 runs.",
+                "live": "Tea Break : Day 2 - Bangladesh lead by 88 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,14 +81,14 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "2",
-                "session": "2",
+                "session": "0",
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 10.21,
-                    "humidity": 78,
+                    "temp": 10.19,
+                    "humidity": 76,
                     "visibility": 10000,
-                    "wind_speed": "5.73",
+                    "wind_speed": "4.43",
                     "clouds": 100
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -4687,6 +4687,6 @@
             }
         ]
     },
-    "timenow": "14th August 2026 09:34 AM",
+    "timenow": "14th August 2026 11:18 AM",
     "timezone": "Asia/Dhaka"
 }
