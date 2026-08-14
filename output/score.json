@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 2 - Session 3, Bangladesh lead by 126 runs.",
+                "status_note": "Day 2 - Session 3, Bangladesh lead by 153 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -49,9 +49,9 @@
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "*324/6 (93.4 ov)",
-                    "scores": "324/6",
-                    "overs": "93.4"
+                    "scores_full": "*351/6 (110 ov)",
+                    "scores": "351/6",
+                    "overs": "110"
                 },
                 "date_start": "2026-08-13 00:30:00",
                 "date_end": "2026-08-18 00:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 2 - Session 3, Bangladesh lead by 126 runs.",
+                "live": "Day 2 - Session 3, Bangladesh lead by 153 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 9.66,
-                    "humidity": 80,
+                    "temp": 9.1,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "3.42",
-                    "clouds": 100
+                    "wind_speed": "2.64",
+                    "clouds": 96
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -181,12 +181,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 30.76,
-                    "humidity": 79,
+                    "weather_desc": "moderate rain",
+                    "temp": 31.12,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "3.13",
-                    "clouds": 56
+                    "wind_speed": "15.41",
+                    "clouds": 95
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4687,6 +4687,6 @@
             }
         ]
     },
-    "timenow": "14th August 2026 12:47 PM",
+    "timenow": "14th August 2026 02:03 PM",
     "timezone": "Asia/Dhaka"
 }
