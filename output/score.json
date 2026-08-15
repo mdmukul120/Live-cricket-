@@ -86,7 +86,7 @@
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
                     "temp": 4.66,
-                    "humidity": 90,
+                    "humidity": 91,
                     "visibility": 10000,
                     "wind_speed": "4.03",
                     "clouds": 22
@@ -115,7 +115,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Afghanistan need 76 runs in 59 remaining balls",
+                "status_note": "Afghanistan need 46 runs in 36 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -152,9 +152,9 @@
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": "*223/2 (40.1 ov)",
-                    "scores": "223/2",
-                    "overs": "40.1"
+                    "scores_full": "*253/3 (44 ov)",
+                    "scores": "253/3",
+                    "overs": "44"
                 },
                 "date_start": "2026-08-15 09:45:00",
                 "date_end": "2026-08-16 03:45:00",
@@ -172,7 +172,7 @@
                 "umpires": "Adrian Holdstock (South Africa), Gareth Morrison (Ireland), Roland Black (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Afghanistan need 76 runs in 59 remaining balls",
+                "live": "Afghanistan need 46 runs in 36 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -289,7 +289,7 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.13,
+                    "temp": 29.08,
                     "humidity": 83,
                     "visibility": 10000,
                     "wind_speed": "11.59",
@@ -4787,6 +4787,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 10:55 PM",
+    "timenow": "15th August 2026 11:15 PM",
     "timezone": "Asia/Dhaka"
 }
