@@ -85,8 +85,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 6.32,
-                    "humidity": 86,
+                    "temp": 6.33,
+                    "humidity": 82,
                     "visibility": 10000,
                     "wind_speed": "6.20",
                     "clouds": 35
@@ -182,11 +182,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "moderate rain",
-                    "temp": 28.94,
-                    "humidity": 84,
+                    "temp": 28.66,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "14.52",
-                    "clouds": 93
+                    "wind_speed": "2.46",
+                    "clouds": 90
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4687,6 +4687,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 05:50 AM",
+    "timenow": "15th August 2026 06:25 AM",
     "timezone": "Asia/Dhaka"
 }
