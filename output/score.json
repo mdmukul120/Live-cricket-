@@ -85,8 +85,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 3.54,
-                    "humidity": 87,
+                    "temp": 2.98,
+                    "humidity": 89,
                     "visibility": 10000,
                     "wind_speed": "3.65",
                     "clouds": 26
@@ -150,9 +150,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*160/1 (45 ov)",
-                    "scores": "160/1",
-                    "overs": "45"
+                    "scores_full": "*180/1 (49.2 ov)",
+                    "scores": "180/1",
+                    "overs": "49.2"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -186,8 +186,8 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 31.24,
-                    "humidity": 80,
+                    "temp": 31.18,
+                    "humidity": 79,
                     "visibility": 10000,
                     "wind_speed": "15.39",
                     "clouds": 75
@@ -244,9 +244,9 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*1/0 (0.2 ov)",
-                    "scores": "1/0",
-                    "overs": "0.2"
+                    "scores_full": "*18/0 (3.4 ov)",
+                    "scores": "18/0",
+                    "overs": "3.4"
                 },
                 "teamb": {
                     "team_id": 498,
@@ -4785,6 +4785,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 03:49 PM",
+    "timenow": "15th August 2026 04:05 PM",
     "timezone": "Asia/Dhaka"
 }
