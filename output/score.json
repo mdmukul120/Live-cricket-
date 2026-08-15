@@ -83,13 +83,13 @@
                 "day": "3",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
+                    "weather": "Clouds",
+                    "weather_desc": "few clouds",
                     "temp": 5.21,
                     "humidity": 89,
                     "visibility": 10000,
-                    "wind_speed": "3.29",
-                    "clouds": 8
+                    "wind_speed": "4.14",
+                    "clouds": 13
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -115,12 +115,12 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Innings Break : Afghanistan elected to bowl",
+                "status_note": "Afghanistan need 277 runs in 43.5 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 6,
-                "game_state_str": "Inning Break",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 129999,
@@ -152,7 +152,9 @@
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": ""
+                    "scores_full": "*22/2 (6.1 ov)",
+                    "scores": "22/2",
+                    "overs": "6.1"
                 },
                 "date_start": "2026-08-15 09:45:00",
                 "date_end": "2026-08-16 03:45:00",
@@ -170,14 +172,14 @@
                 "umpires": "Adrian Holdstock (South Africa), Gareth Morrison (Ireland), Roland Black (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Innings Break : Afghanistan elected to bowl",
+                "live": "Afghanistan need 277 runs in 43.5 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-12 20:21:19",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -287,11 +289,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.51,
+                    "temp": 29.65,
                     "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "11.45",
-                    "clouds": 20
+                    "wind_speed": "11.63",
+                    "clouds": 28
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4785,6 +4787,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 08:02 PM",
+    "timenow": "15th August 2026 08:32 PM",
     "timezone": "Asia/Dhaka"
 }
