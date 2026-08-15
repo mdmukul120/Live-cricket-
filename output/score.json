@@ -84,12 +84,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 4.12,
+                    "weather_desc": "broken clouds",
+                    "temp": 3.59,
                     "humidity": 91,
                     "visibility": 10000,
-                    "wind_speed": "3.78",
-                    "clouds": 22
+                    "wind_speed": "3.56",
+                    "clouds": 72
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -186,11 +186,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.08,
-                    "humidity": 83,
+                    "temp": 28.91,
+                    "humidity": 85,
                     "visibility": 10000,
-                    "wind_speed": "10.69",
-                    "clouds": 74
+                    "wind_speed": "11.50",
+                    "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4787,6 +4787,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 12:18 AM",
+    "timenow": "16th August 2026 12:50 AM",
     "timezone": "Asia/Dhaka"
 }
