@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 6.87,
-                    "humidity": 75,
+                    "temp": 5.76,
+                    "humidity": 79,
                     "visibility": 10000,
-                    "wind_speed": "4.88",
-                    "clouds": 43
+                    "wind_speed": "3.83",
+                    "clouds": 31
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -115,7 +115,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Match stopped due to wet outfield : Day 1 - Session 2, India elected to bat",
+                "status_note": "Day 1 - Session 2, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -150,9 +150,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*101/1 (27 ov)",
-                    "scores": "101/1",
-                    "overs": "27"
+                    "scores_full": "*119/1 (33.4 ov)",
+                    "scores": "119/1",
+                    "overs": "33.4"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -170,7 +170,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Match stopped due to wet outfield : Day 1 - Session 2, India elected to bat",
+                "live": "Day 1 - Session 2, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -184,13 +184,13 @@
                 "day": "1",
                 "session": "2",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 30.56,
-                    "humidity": 81,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 30.76,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "2.24",
-                    "clouds": 87
+                    "wind_speed": "3.00",
+                    "clouds": 85
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4780,6 +4780,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 02:31 PM",
+    "timenow": "15th August 2026 02:58 PM",
     "timezone": "Asia/Dhaka"
 }
