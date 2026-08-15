@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
-                    "temp": 5.21,
+                    "temp": 4.66,
                     "humidity": 90,
                     "visibility": 10000,
-                    "wind_speed": "4.18",
-                    "clouds": 19
+                    "wind_speed": "4.03",
+                    "clouds": 22
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -115,7 +115,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Afghanistan need 161 runs in 22.4 remaining overs",
+                "status_note": "Afghanistan need 114 runs in 15.2 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -152,9 +152,9 @@
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": "*138/2 (27.2 ov)",
-                    "scores": "138/2",
-                    "overs": "27.2"
+                    "scores_full": "*185/2 (34.4 ov)",
+                    "scores": "185/2",
+                    "overs": "34.4"
                 },
                 "date_start": "2026-08-15 09:45:00",
                 "date_end": "2026-08-16 03:45:00",
@@ -172,7 +172,7 @@
                 "umpires": "Adrian Holdstock (South Africa), Gareth Morrison (Ireland), Roland Black (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Afghanistan need 161 runs in 22.4 remaining overs",
+                "live": "Afghanistan need 114 runs in 15.2 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -289,11 +289,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.03,
+                    "temp": 29.13,
                     "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "11.92",
-                    "clouds": 46
+                    "wind_speed": "11.59",
+                    "clouds": 56
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4787,6 +4787,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 10:01 PM",
+    "timenow": "15th August 2026 10:34 PM",
     "timezone": "Asia/Dhaka"
 }
