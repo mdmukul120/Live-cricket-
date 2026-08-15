@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 3, Australia trail by 106 runs.",
+                "status_note": "Day 3 - Session 3, Australia trail by 87 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "198/10 (53 ov) & *122/4 (37.2 ov)",
-                    "scores": "198/10 & 122/4",
-                    "overs": "53 & 37.2"
+                    "scores_full": "198/10 (53 ov) & *141/4 (46.2 ov)",
+                    "scores": "198/10 & 141/4",
+                    "overs": "53 & 46.2"
                 },
                 "teamb": {
                     "team_id": 23,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 3 - Session 3, Australia trail by 106 runs.",
+                "live": "Day 3 - Session 3, Australia trail by 87 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 7.99,
-                    "humidity": 71,
+                    "temp": 7.44,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": "6.38",
-                    "clouds": 48
+                    "wind_speed": "4.88",
+                    "clouds": 43
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -321,12 +321,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Lunch Break : Day 1 - India elected to bat",
+                "status_note": "Match stopped due to wet outfield : Day 1 - Session 2, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 8,
-                "game_state_str": "Lunch Break",
+                "game_state": 11,
+                "game_state_str": "Rain Delay",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -376,7 +376,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Lunch Break : Day 1 - India elected to bat",
+                "live": "Match stopped due to wet outfield : Day 1 - Session 2, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -388,15 +388,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "1",
-                "session": "0",
+                "session": "2",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 30.86,
-                    "humidity": 76,
+                    "weather_desc": "heavy intensity rain",
+                    "temp": 30.46,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "2.46",
-                    "clouds": 82
+                    "wind_speed": "2.01",
+                    "clouds": 87
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4780,6 +4780,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 01:06 PM",
+    "timenow": "15th August 2026 01:39 PM",
     "timezone": "Asia/Dhaka"
 }
