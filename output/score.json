@@ -115,7 +115,7 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Afghanistan need 277 runs in 43.5 remaining overs",
+                "status_note": "Afghanistan need 268 runs in 39.3 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -152,9 +152,9 @@
                     "name": "Afghanistan",
                     "short_name": "AFG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": "*22/2 (6.1 ov)",
-                    "scores": "22/2",
-                    "overs": "6.1"
+                    "scores_full": "*31/2 (10.3 ov)",
+                    "scores": "31/2",
+                    "overs": "10.3"
                 },
                 "date_start": "2026-08-15 09:45:00",
                 "date_end": "2026-08-16 03:45:00",
@@ -172,7 +172,7 @@
                 "umpires": "Adrian Holdstock (South Africa), Gareth Morrison (Ireland), Roland Black (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Afghanistan need 277 runs in 43.5 remaining overs",
+                "live": "Afghanistan need 268 runs in 39.3 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -4787,6 +4787,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 08:32 PM",
+    "timenow": "15th August 2026 08:51 PM",
     "timezone": "Asia/Dhaka"
 }
