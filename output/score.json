@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 2, Australia trail by 216 runs.",
+                "status_note": "Day 3 - Session 2, Australia trail by 191 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "198/10 (53 ov) & *12/1 (2.4 ov)",
-                    "scores": "198/10 & 12/1",
-                    "overs": "53 & 2.4"
+                    "scores_full": "198/10 (53 ov) & *37/2 (10.2 ov)",
+                    "scores": "198/10 & 37/2",
+                    "overs": "53 & 10.2"
                 },
                 "teamb": {
                     "team_id": 23,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 3 - Session 2, Australia trail by 216 runs.",
+                "live": "Day 3 - Session 2, Australia trail by 191 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,10 +85,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
-                    "temp": 10.21,
-                    "humidity": 66,
+                    "temp": 10.19,
+                    "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": "5.95",
+                    "wind_speed": "6.38",
                     "clouds": 13
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -113,14 +113,14 @@
                 "match_number": "2",
                 "format": 2,
                 "format_str": "Test",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "Day 1 - Session 1, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -142,13 +142,17 @@
                     "team_id": 21,
                     "name": "Sri Lanka",
                     "short_name": "SL",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
+                    "scores_full": ""
                 },
                 "teamb": {
                     "team_id": 25,
                     "name": "India",
                     "short_name": "IND",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
+                    "scores_full": "*4/0 (2 ov)",
+                    "scores": "4/0",
+                    "overs": "2"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -166,27 +170,27 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "",
+                "live": "Day 1 - Session 1, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 0,
+                "latest_inning_number": 1,
                 "presquad_time": "2026-08-12 20:09:35",
                 "verify_time": "",
                 "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
+                "day": "1",
+                "session": "1",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "moderate rain",
-                    "temp": 28.86,
-                    "humidity": 82,
+                    "weather_desc": "light rain",
+                    "temp": 29.56,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "4.25",
-                    "clouds": 69
+                    "wind_speed": "3.36",
+                    "clouds": 63
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -196,8 +200,9 @@
                     "spine_bowling_condition": "Average"
                 },
                 "toss": {
-                    "winner": 0,
-                    "decision": 0
+                    "text": "India elected to bat",
+                    "winner": 25,
+                    "decision": 1
                 },
                 "is_realtime": 0
             },
@@ -294,109 +299,6 @@
                 "toss": {
                     "winner": 0,
                     "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 96678,
-                "title": "Ireland vs Afghanistan",
-                "short_title": "IRE vs AFG",
-                "subtitle": "3rd Match",
-                "match_number": "3",
-                "format": 1,
-                "format_str": "ODI",
-                "status": 2,
-                "status_str": "Completed",
-                "status_note": "Afghanistan won by 3 wickets",
-                "verified": "true",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 129999,
-                    "title": "Afghanistan tour of Ireland",
-                    "abbr": "IRE vs AFG",
-                    "type": "series",
-                    "category": "international",
-                    "match_format": "odi",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-05",
-                    "dateend": "2026-08-14",
-                    "country": "int",
-                    "total_matches": "5",
-                    "total_rounds": "1",
-                    "total_teams": "2"
-                },
-                "teama": {
-                    "team_id": 11,
-                    "name": "Ireland",
-                    "short_name": "IRE",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "206/10 (46.3 ov)",
-                    "scores": "206/10",
-                    "overs": "46.3"
-                },
-                "teamb": {
-                    "team_id": 498,
-                    "name": "Afghanistan",
-                    "short_name": "AFG",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
-                    "scores_full": "207/7 (44.5 ov)",
-                    "scores": "207/7",
-                    "overs": "44.5"
-                },
-                "date_start": "2026-08-10 09:45:00",
-                "date_end": "2026-08-11 03:45:00",
-                "timestamp_start": 1786355100,
-                "timestamp_end": 1786419900,
-                "date_start_ist": "2026-08-10 15:15:00",
-                "date_end_ist": "2026-08-11 09:15:00",
-                "venue": {
-                    "venue_id": "87",
-                    "name": "Civil Service Cricket Club, Stormont",
-                    "location": "Belfast",
-                    "country": "Ireland",
-                    "timezone": ""
-                },
-                "umpires": "Adrian Holdstock (South Africa), Jonathan Kennedy (Ireland), Gareth Morrison (Ireland, TV)",
-                "referee": "Roly Black (Ireland)",
-                "equation": "",
-                "live": "",
-                "result": "AFG won by 3 wickets",
-                "result_type": 2,
-                "win_margin": "3 wickets",
-                "winning_team_id": 498,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 2,
-                "presquad_time": "2026-08-08 12:15:28",
-                "verify_time": "2026-08-10 23:10:10",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "",
-                    "weather_desc": "",
-                    "temp": "",
-                    "humidity": "",
-                    "visibility": "",
-                    "wind_speed": "",
-                    "clouds": ""
-                },
-                "broadcast": "Fancode",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "text": "Afghanistan elected to bowl",
-                    "winner": 498,
-                    "decision": 2
                 },
                 "is_realtime": 0
             },
@@ -499,6 +401,109 @@
                 "toss": {
                     "text": "Ireland elected to bowl",
                     "winner": 11,
+                    "decision": 2
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 96678,
+                "title": "Ireland vs Afghanistan",
+                "short_title": "IRE vs AFG",
+                "subtitle": "3rd Match",
+                "match_number": "3",
+                "format": 1,
+                "format_str": "ODI",
+                "status": 2,
+                "status_str": "Completed",
+                "status_note": "Afghanistan won by 3 wickets",
+                "verified": "true",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 129999,
+                    "title": "Afghanistan tour of Ireland",
+                    "abbr": "IRE vs AFG",
+                    "type": "series",
+                    "category": "international",
+                    "match_format": "odi",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-05",
+                    "dateend": "2026-08-14",
+                    "country": "int",
+                    "total_matches": "5",
+                    "total_rounds": "1",
+                    "total_teams": "2"
+                },
+                "teama": {
+                    "team_id": 11,
+                    "name": "Ireland",
+                    "short_name": "IRE",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
+                    "scores_full": "206/10 (46.3 ov)",
+                    "scores": "206/10",
+                    "overs": "46.3"
+                },
+                "teamb": {
+                    "team_id": 498,
+                    "name": "Afghanistan",
+                    "short_name": "AFG",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp",
+                    "scores_full": "207/7 (44.5 ov)",
+                    "scores": "207/7",
+                    "overs": "44.5"
+                },
+                "date_start": "2026-08-10 09:45:00",
+                "date_end": "2026-08-11 03:45:00",
+                "timestamp_start": 1786355100,
+                "timestamp_end": 1786419900,
+                "date_start_ist": "2026-08-10 15:15:00",
+                "date_end_ist": "2026-08-11 09:15:00",
+                "venue": {
+                    "venue_id": "87",
+                    "name": "Civil Service Cricket Club, Stormont",
+                    "location": "Belfast",
+                    "country": "Ireland",
+                    "timezone": ""
+                },
+                "umpires": "Adrian Holdstock (South Africa), Jonathan Kennedy (Ireland), Gareth Morrison (Ireland, TV)",
+                "referee": "Roly Black (Ireland)",
+                "equation": "",
+                "live": "",
+                "result": "AFG won by 3 wickets",
+                "result_type": 2,
+                "win_margin": "3 wickets",
+                "winning_team_id": 498,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 2,
+                "presquad_time": "2026-08-08 12:15:28",
+                "verify_time": "2026-08-10 23:10:10",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "",
+                    "weather_desc": "",
+                    "temp": "",
+                    "humidity": "",
+                    "visibility": "",
+                    "wind_speed": "",
+                    "clouds": ""
+                },
+                "broadcast": "Fancode",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Afghanistan elected to bowl",
+                    "winner": 498,
                     "decision": 2
                 },
                 "is_realtime": 0
@@ -4687,6 +4692,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 10:01 AM",
+    "timenow": "15th August 2026 10:39 AM",
     "timezone": "Asia/Dhaka"
 }
