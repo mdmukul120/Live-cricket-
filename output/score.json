@@ -85,8 +85,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
-                    "temp": 2.99,
-                    "humidity": 91,
+                    "temp": 3.03,
+                    "humidity": 93,
                     "visibility": 10000,
                     "wind_speed": "3.53",
                     "clouds": 21
@@ -150,9 +150,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*209/1 (55.2 ov)",
-                    "scores": "209/1",
-                    "overs": "55.2"
+                    "scores_full": "*225/1 (58.3 ov)",
+                    "scores": "225/1",
+                    "overs": "58.3"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -186,7 +186,7 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 31.07,
+                    "temp": 31.02,
                     "humidity": 80,
                     "visibility": 10000,
                     "wind_speed": "14.27",
@@ -244,9 +244,9 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*72/2 (13.3 ov)",
-                    "scores": "72/2",
-                    "overs": "13.3"
+                    "scores_full": "*87/3 (15.5 ov)",
+                    "scores": "87/3",
+                    "overs": "15.5"
                 },
                 "teamb": {
                     "team_id": 498,
@@ -4785,6 +4785,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 04:53 PM",
+    "timenow": "15th August 2026 05:09 PM",
     "timezone": "Asia/Dhaka"
 }
