@@ -88,8 +88,8 @@
                     "temp": 5.21,
                     "humidity": 89,
                     "visibility": 10000,
-                    "wind_speed": "3.31",
-                    "clouds": 5
+                    "wind_speed": "3.29",
+                    "clouds": 8
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -115,12 +115,12 @@
                 "format_str": "ODI",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Afghanistan elected to bowl",
+                "status_note": "Innings Break : Afghanistan elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 6,
+                "game_state_str": "Inning Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 129999,
@@ -143,9 +143,9 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*272/6 (47.2 ov)",
-                    "scores": "272/6",
-                    "overs": "47.2"
+                    "scores_full": "298/7 (50 ov)",
+                    "scores": "298/7",
+                    "overs": "50"
                 },
                 "teamb": {
                     "team_id": 498,
@@ -170,7 +170,7 @@
                 "umpires": "Adrian Holdstock (South Africa), Gareth Morrison (Ireland), Roland Black (Ireland, TV)",
                 "referee": "Dean Cosker (England)",
                 "equation": "",
-                "live": "Afghanistan elected to bowl",
+                "live": "Innings Break : Afghanistan elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -287,11 +287,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 30.65,
-                    "humidity": 80,
+                    "temp": 29.51,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "12.30",
-                    "clouds": 15
+                    "wind_speed": "11.45",
+                    "clouds": 20
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4785,6 +4785,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 07:21 PM",
+    "timenow": "15th August 2026 07:47 PM",
     "timezone": "Asia/Dhaka"
 }
