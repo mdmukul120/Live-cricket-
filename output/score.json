@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 2, Australia trail by 191 runs.",
+                "status_note": "Day 3 - Session 2, Australia trail by 184 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "198/10 (53 ov) & *37/2 (10.2 ov)",
-                    "scores": "198/10 & 37/2",
-                    "overs": "53 & 10.2"
+                    "scores_full": "198/10 (53 ov) & *44/2 (14.1 ov)",
+                    "scores": "198/10 & 44/2",
+                    "overs": "53 & 14.1"
                 },
                 "teamb": {
                     "team_id": 23,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 3 - Session 2, Australia trail by 191 runs.",
+                "live": "Day 3 - Session 2, Australia trail by 184 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,8 +85,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
-                    "temp": 10.19,
-                    "humidity": 68,
+                    "temp": 10.21,
+                    "humidity": 66,
                     "visibility": 10000,
                     "wind_speed": "6.38",
                     "clouds": 13
@@ -150,9 +150,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*4/0 (2 ov)",
-                    "scores": "4/0",
-                    "overs": "2"
+                    "scores_full": "*22/0 (6 ov)",
+                    "scores": "22/0",
+                    "overs": "6"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -186,10 +186,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.56,
-                    "humidity": 80,
+                    "temp": 29.86,
+                    "humidity": 79,
                     "visibility": 10000,
-                    "wind_speed": "3.36",
+                    "wind_speed": "3.00",
                     "clouds": 63
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -4692,6 +4692,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 10:39 AM",
+    "timenow": "15th August 2026 11:01 AM",
     "timezone": "Asia/Dhaka"
 }
