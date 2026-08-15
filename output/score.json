@@ -115,7 +115,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Match stopped due to wet outfield : Day 1 - Session 3, India elected to bat",
+                "status_note": "Day 1 - Session 3, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -150,9 +150,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*239/2 (63 ov)",
-                    "scores": "239/2",
-                    "overs": "63"
+                    "scores_full": "*250/2 (66.3 ov)",
+                    "scores": "250/2",
+                    "overs": "66.3"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -170,7 +170,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Match stopped due to wet outfield : Day 1 - Session 3, India elected to bat",
+                "live": "Day 1 - Session 3, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -244,9 +244,9 @@
                     "name": "Ireland",
                     "short_name": "IRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IRE.webp",
-                    "scores_full": "*129/4 (27 ov)",
-                    "scores": "129/4",
-                    "overs": "27"
+                    "scores_full": "*143/4 (30.2 ov)",
+                    "scores": "143/4",
+                    "overs": "30.2"
                 },
                 "teamb": {
                     "team_id": 498,
@@ -4785,6 +4785,6 @@
             }
         ]
     },
-    "timenow": "15th August 2026 05:49 PM",
+    "timenow": "15th August 2026 06:01 PM",
     "timezone": "Asia/Dhaka"
 }
