@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Rain Delay : Day 2 - Session 2, India elected to bat",
+                "status_note": "Start Delayed Due to Wet Outfield : Day 2 - Session 2, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -67,7 +67,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Rain Delay : Day 2 - Session 2, India elected to bat",
+                "live": "Start Delayed Due to Wet Outfield : Day 2 - Session 2, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -83,10 +83,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.56,
-                    "humidity": 84,
+                    "temp": 29.96,
+                    "humidity": 81,
                     "visibility": 10000,
-                    "wind_speed": "3.00",
+                    "wind_speed": "2.46",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -4684,6 +4684,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 12:59 PM",
+    "timenow": "16th August 2026 01:36 PM",
     "timezone": "Asia/Dhaka"
 }
