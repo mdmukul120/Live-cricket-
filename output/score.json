@@ -16,8 +16,8 @@
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 11,
-                "game_state_str": "Rain Delay",
+                "game_state": 10,
+                "game_state_str": "Match Start Delay",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -84,9 +84,9 @@
                     "weather": "Rain",
                     "weather_desc": "light rain",
                     "temp": 29.96,
-                    "humidity": 81,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "2.46",
+                    "wind_speed": "3.00",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -4684,6 +4684,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 01:57 PM",
+    "timenow": "16th August 2026 02:28 PM",
     "timezone": "Asia/Dhaka"
 }
