@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Start Delayed Due to Wet Outfield : Day 2 - Session 2, India elected to bat",
+                "status_note": "Start Delayed Due to wet outfield : Day 2 - Session 2, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 10,
-                "game_state_str": "Match Start Delay",
+                "game_state": 4,
+                "game_state_str": "Delayed",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -67,7 +67,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Start Delayed Due to Wet Outfield : Day 2 - Session 2, India elected to bat",
+                "live": "Start Delayed Due to wet outfield : Day 2 - Session 2, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,12 +81,12 @@
                 "day": "2",
                 "session": "2",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 29.96,
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 30.16,
                     "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "3.00",
+                    "wind_speed": "1.79",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -4684,6 +4684,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 02:28 PM",
+    "timenow": "16th August 2026 02:57 PM",
     "timezone": "Asia/Dhaka"
 }
