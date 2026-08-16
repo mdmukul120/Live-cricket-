@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 4 - Session 2, Bangladesh need 53 runs to win.",
+                "status_note": "Day 4 - Session 2, Bangladesh need 20 runs to win.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -49,9 +49,9 @@
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "426/10 (138 ov) & *4/0 (0.4 ov)",
-                    "scores": "426/10 & 4/0",
-                    "overs": "138 & 0.4"
+                    "scores_full": "426/10 (138 ov) & *37/1 (9.4 ov)",
+                    "scores": "426/10 & 37/1",
+                    "overs": "138 & 9.4"
                 },
                 "date_start": "2026-08-13 00:30:00",
                 "date_end": "2026-08-18 00:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 4 - Session 2, Bangladesh need 53 runs to win.",
+                "live": "Day 4 - Session 2, Bangladesh need 20 runs to win.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 13.52,
-                    "humidity": 65,
+                    "temp": 13.5,
+                    "humidity": 64,
                     "visibility": 10000,
-                    "wind_speed": "3.74",
-                    "clouds": 7
+                    "wind_speed": "3.69",
+                    "clouds": 9
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -115,12 +115,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Stumps : Day 1 - India elected to bat",
+                "status_note": "Rain Delay : Day 2 - Session 1, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 7,
-                "game_state_str": "Stumps",
+                "game_state": 11,
+                "game_state_str": "Rain Delay",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -170,7 +170,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Stumps : Day 1 - India elected to bat",
+                "live": "Rain Delay : Day 2 - Session 1, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -182,15 +182,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "2",
-                "session": "0",
+                "session": "1",
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "heavy intensity rain",
-                    "temp": 28.86,
+                    "temp": 28.76,
                     "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "1.34",
-                    "clouds": 92
+                    "wind_speed": "1.99",
+                    "clouds": 94
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -4684,6 +4684,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 10:18 AM",
+    "timenow": "16th August 2026 10:53 AM",
     "timezone": "Asia/Dhaka"
 }
