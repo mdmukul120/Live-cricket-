@@ -83,10 +83,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 30.58,
-                    "humidity": 79,
+                    "temp": 30.3,
+                    "humidity": 81,
                     "visibility": 10000,
-                    "wind_speed": "12.10",
+                    "wind_speed": "12.19",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -5234,6 +5234,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 08:59 PM",
+    "timenow": "16th August 2026 09:28 PM",
     "timezone": "Asia/Dhaka"
 }
