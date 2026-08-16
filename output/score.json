@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 2 - Session 2, India elected to bat",
+                "status_note": "Tea Break : Day 2 - India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 9,
+                "game_state_str": "Tea Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*342/4 (88.4 ov)",
-                    "scores": "342/4",
-                    "overs": "88.4"
+                    "scores_full": "*364/5 (94 ov)",
+                    "scores": "364/5",
+                    "overs": "94"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -67,7 +67,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 2 - Session 2, India elected to bat",
+                "live": "Tea Break : Day 2 - India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -79,14 +79,14 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "2",
-                "session": "2",
+                "session": "0",
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
                     "temp": 30.26,
-                    "humidity": 79,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "3.13",
+                    "wind_speed": "4.03",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -4684,6 +4684,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 04:09 PM",
+    "timenow": "16th August 2026 04:37 PM",
     "timezone": "Asia/Dhaka"
 }
