@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*424/6 (108.1 ov)",
-                    "scores": "424/6",
-                    "overs": "108.1"
+                    "scores_full": "*447/7 (112.3 ov)",
+                    "scores": "447/7",
+                    "overs": "112.3"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -83,10 +83,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 30.26,
-                    "humidity": 78,
+                    "temp": 31.02,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "2.01",
+                    "wind_speed": "12.33",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -180,11 +180,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 20.46,
-                    "humidity": 64,
+                    "temp": 19.98,
+                    "humidity": 67,
                     "visibility": 10000,
-                    "wind_speed": "20.71",
-                    "clouds": 38
+                    "wind_speed": "21.85",
+                    "clouds": 32
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5234,6 +5234,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 05:53 PM",
+    "timenow": "16th August 2026 06:17 PM",
     "timezone": "Asia/Dhaka"
 }
