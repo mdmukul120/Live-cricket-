@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 4 - Session 1, Australia trail by 26 runs.",
+                "status_note": "Lunch Break : Day 4 - Australia lead by 15 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 8,
+                "game_state_str": "Lunch Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 129989,
@@ -40,9 +40,9 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "198/10 (53 ov) & *202/6 (72.2 ov)",
-                    "scores": "198/10 & 202/6",
-                    "overs": "53 & 72.2"
+                    "scores_full": "198/10 (53 ov) & *243/7 (84 ov)",
+                    "scores": "198/10 & 243/7",
+                    "overs": "53 & 84"
                 },
                 "teamb": {
                     "team_id": 23,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Nitin Menon (India, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 4 - Session 1, Australia trail by 26 runs.",
+                "live": "Lunch Break : Day 4 - Australia lead by 15 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,15 +81,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "4",
-                "session": "1",
+                "session": "0",
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 11.87,
-                    "humidity": 73,
+                    "temp": 12.43,
+                    "humidity": 72,
                     "visibility": 10000,
-                    "wind_speed": "3.58",
-                    "clouds": 0
+                    "wind_speed": "3.91",
+                    "clouds": 2
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -185,11 +185,11 @@
                 "session": "0",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 28.79,
+                    "weather_desc": "heavy intensity rain",
+                    "temp": 29.16,
                     "humidity": 84,
                     "visibility": 10000,
-                    "wind_speed": "11.83",
+                    "wind_speed": "1.99",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -4787,6 +4787,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 07:48 AM",
+    "timenow": "16th August 2026 08:47 AM",
     "timezone": "Asia/Dhaka"
 }
