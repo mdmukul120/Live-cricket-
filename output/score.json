@@ -83,8 +83,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 29.47,
-                    "humidity": 79,
+                    "temp": 30.58,
+                    "humidity": 82,
                     "visibility": 10000,
                     "wind_speed": "12.10",
                     "clouds": 100
@@ -5234,6 +5234,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 07:57 PM",
+    "timenow": "16th August 2026 08:22 PM",
     "timezone": "Asia/Dhaka"
 }
