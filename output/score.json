@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*321/4 (85 ov)",
-                    "scores": "321/4",
-                    "overs": "85"
+                    "scores_full": "*342/4 (88.4 ov)",
+                    "scores": "342/4",
+                    "overs": "88.4"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -84,7 +84,7 @@
                     "weather": "Rain",
                     "weather_desc": "light rain",
                     "temp": 30.26,
-                    "humidity": 80,
+                    "humidity": 79,
                     "visibility": 10000,
                     "wind_speed": "3.13",
                     "clouds": 100
@@ -4684,6 +4684,6 @@
             }
         ]
     },
-    "timenow": "16th August 2026 03:51 PM",
+    "timenow": "16th August 2026 04:09 PM",
     "timezone": "Asia/Dhaka"
 }
