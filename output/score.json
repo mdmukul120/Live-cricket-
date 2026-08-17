@@ -12,12 +12,12 @@
                 "format_str": "T20I",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Portugal elected to bowl",
+                "status_note": "Innings Break : Portugal need 122 runs in 20 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 6,
+                "game_state_str": "Inning Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 130145,
@@ -40,16 +40,18 @@
                     "name": "Greece",
                     "short_name": "GRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Greece.png",
-                    "scores_full": "*117/6 (16.5 ov)",
-                    "scores": "117/6",
-                    "overs": "16.5"
+                    "scores_full": "121/10 (19.3 ov)",
+                    "scores": "121/10",
+                    "overs": "19.3"
                 },
                 "teamb": {
                     "team_id": 69725,
                     "name": "Portugal",
                     "short_name": "PORT",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Proutgal.png",
-                    "scores_full": ""
+                    "scores_full": "*0/0 ( ov)",
+                    "scores": "0/0",
+                    "overs": ""
                 },
                 "date_start": "2026-08-17 13:00:00",
                 "date_end": "2026-08-17 23:00:00",
@@ -67,14 +69,14 @@
                 "umpires": "Mandar Sathe (Switzerland), Adnan Khan (Spain), Rizwan Akram (Netherlands, TV)",
                 "referee": "",
                 "equation": "",
-                "live": "Portugal elected to bowl",
+                "live": "Innings Break : Portugal need 122 runs in 20 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-15 23:38:48",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -113,7 +115,7 @@
                 "format_str": "T20I",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Innings Break : Luxembourg elected to bowl",
+                "status_note": "Innings Break : Luxembourg need 207 runs in 20 remaining overs",
                 "verified": "false",
                 "pre_squad": "false",
                 "odds_available": "false",
@@ -141,7 +143,9 @@
                     "name": "Luxembourg",
                     "short_name": "LUX",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Luxembourg.png",
-                    "scores_full": ""
+                    "scores_full": "*0/0 ( ov)",
+                    "scores": "0/0",
+                    "overs": ""
                 },
                 "teamb": {
                     "team_id": 69740,
@@ -168,14 +172,14 @@
                 "umpires": "Sunil Chandiramani(Gibraltar), Srinidhi Ravindra(Finland), Vinay Malhotra(Germany, TV)",
                 "referee": "",
                 "equation": "",
-                "live": "Innings Break : Luxembourg elected to bowl",
+                "live": "Innings Break : Luxembourg need 207 runs in 20 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -5438,6 +5442,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 08:36 PM",
+    "timenow": "17th August 2026 08:57 PM",
     "timezone": "Asia/Dhaka"
 }
