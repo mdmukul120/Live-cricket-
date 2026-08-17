@@ -81,13 +81,13 @@
                 "day": "2",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
+                    "weather": "Clouds",
+                    "weather_desc": "broken clouds",
                     "temp": 28.66,
-                    "humidity": 82,
+                    "humidity": 83,
                     "visibility": 10000,
                     "wind_speed": "1.01",
-                    "clouds": 100
+                    "clouds": 60
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -180,106 +180,18 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 15.14,
-                    "humidity": 96,
+                    "temp": 14.98,
+                    "humidity": 94,
                     "visibility": 10000,
                     "wind_speed": "8.05",
                     "clouds": 100
                 },
                 "broadcast": "",
                 "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98386,
-                "title": "Bulgaria vs Isle of Man",
-                "short_title": "BUL vs IOM",
-                "subtitle": "Match 10",
-                "match_number": "10",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130145,
-                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
-                    "abbr": "Europe Sub Regional",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-14",
-                    "dateend": "2026-08-21",
-                    "country": "int",
-                    "total_matches": "16",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 69632,
-                    "name": "Bulgaria",
-                    "short_name": "BUL",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Bulgaria.png"
-                },
-                "teamb": {
-                    "team_id": 42857,
-                    "name": "Isle of Man",
-                    "short_name": "IOM",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/isle-of-man.webp"
-                },
-                "date_start": "2026-08-17 08:00:00",
-                "date_end": "2026-08-17 18:00:00",
-                "timestamp_start": 1786953600,
-                "timestamp_end": 1786989600,
-                "date_start_ist": "2026-08-17 13:30:00",
-                "date_end_ist": "2026-08-17 23:30:00",
-                "venue": {
-                    "venue_id": "1213392",
-                    "name": "Tikkurila Cricket Ground",
-                    "location": "Vantaa",
-                    "country": "Finland",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
                     "winner": 0,
@@ -364,18 +276,18 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 18.92,
-                    "humidity": 73,
+                    "temp": 14.98,
+                    "humidity": 94,
                     "visibility": 10000,
-                    "wind_speed": 2.57,
-                    "clouds": 99
+                    "wind_speed": "8.05",
+                    "clouds": 100
                 },
                 "broadcast": "",
                 "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
                     "winner": 0,
@@ -460,10 +372,98 @@
                 "weather": [],
                 "broadcast": "",
                 "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98386,
+                "title": "Bulgaria vs Isle of Man",
+                "short_title": "BUL vs IOM",
+                "subtitle": "Match 10",
+                "match_number": "10",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "false",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130145,
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                    "abbr": "Europe Sub Regional",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-14",
+                    "dateend": "2026-08-21",
+                    "country": "int",
+                    "total_matches": "16",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 69632,
+                    "name": "Bulgaria",
+                    "short_name": "BUL",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Bulgaria.png"
+                },
+                "teamb": {
+                    "team_id": 42857,
+                    "name": "Isle of Man",
+                    "short_name": "IOM",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/isle-of-man.webp"
+                },
+                "date_start": "2026-08-17 08:00:00",
+                "date_end": "2026-08-17 18:00:00",
+                "timestamp_start": 1786953600,
+                "timestamp_end": 1786989600,
+                "date_start_ist": "2026-08-17 13:30:00",
+                "date_end_ist": "2026-08-17 23:30:00",
+                "venue": {
+                    "venue_id": "1213392",
+                    "name": "Tikkurila Cricket Ground",
+                    "location": "Vantaa",
+                    "country": "Finland",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": [],
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
                     "winner": 0,
@@ -5234,6 +5234,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 06:33 AM",
+    "timenow": "17th August 2026 08:06 AM",
     "timezone": "Asia/Dhaka"
 }
