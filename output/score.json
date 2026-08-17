@@ -40,9 +40,9 @@
                     "name": "Greece",
                     "short_name": "GRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Greece.png",
-                    "scores_full": "*96/4 (14 ov)",
-                    "scores": "96/4",
-                    "overs": "14"
+                    "scores_full": "*117/6 (16.5 ov)",
+                    "scores": "117/6",
+                    "overs": "16.5"
                 },
                 "teamb": {
                     "team_id": 69725,
@@ -81,13 +81,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 19.9,
-                    "humidity": 60,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 19.89,
+                    "humidity": 64,
                     "visibility": 10000,
-                    "wind_speed": "13.80",
-                    "clouds": 94
+                    "wind_speed": "12.66",
+                    "clouds": 98
                 },
                 "broadcast": "",
                 "pitch": {
@@ -113,12 +113,12 @@
                 "format_str": "T20I",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Luxembourg elected to bowl",
+                "status_note": "Innings Break : Luxembourg elected to bowl",
                 "verified": "false",
                 "pre_squad": "false",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 6,
+                "game_state_str": "Inning Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 130145,
@@ -148,9 +148,9 @@
                     "name": "Spain",
                     "short_name": "SPA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Spain.png",
-                    "scores_full": "*100/3 (13 ov)",
-                    "scores": "100/3",
-                    "overs": "13"
+                    "scores_full": "206/6 (20 ov)",
+                    "scores": "206/6",
+                    "overs": "20"
                 },
                 "date_start": "2026-08-17 13:00:00",
                 "date_end": "2026-08-17 23:00:00",
@@ -168,7 +168,7 @@
                 "umpires": "Sunil Chandiramani(Gibraltar), Srinidhi Ravindra(Finland), Vinay Malhotra(Germany, TV)",
                 "referee": "",
                 "equation": "",
-                "live": "Luxembourg elected to bowl",
+                "live": "Innings Break : Luxembourg elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -278,12 +278,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 28.95,
-                    "humidity": 80,
+                    "weather_desc": "moderate rain",
+                    "temp": 28.86,
+                    "humidity": 81,
                     "visibility": 10000,
-                    "wind_speed": "11.52",
-                    "clouds": 16
+                    "wind_speed": "11.07",
+                    "clouds": 25
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -296,6 +296,102 @@
                     "text": "India elected to bat",
                     "winner": 25,
                     "decision": 1
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98390,
+                "title": "Finland vs Luxembourg",
+                "short_title": "FIN vs LUX",
+                "subtitle": "Match 14",
+                "match_number": "14",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130145,
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                    "abbr": "Europe Sub Regional",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-14",
+                    "dateend": "2026-08-21",
+                    "country": "int",
+                    "total_matches": "16",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 69731,
+                    "name": "Finland",
+                    "short_name": "FIN",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Finland.png"
+                },
+                "teamb": {
+                    "team_id": 69736,
+                    "name": "Luxembourg",
+                    "short_name": "LUX",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Luxembourg.png"
+                },
+                "date_start": "2026-08-18 08:00:00",
+                "date_end": "2026-08-18 18:00:00",
+                "timestamp_start": 1787040000,
+                "timestamp_end": 1787076000,
+                "date_start_ist": "2026-08-18 13:30:00",
+                "date_end_ist": "2026-08-18 23:30:00",
+                "venue": {
+                    "venue_id": "1213392",
+                    "name": "Tikkurila Cricket Ground",
+                    "location": "Vantaa",
+                    "country": "Finland",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-08-17 19:54:35",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 20.12,
+                    "humidity": 67,
+                    "visibility": 10000,
+                    "wind_speed": 5.81,
+                    "clouds": 100
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Spinning Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Slow Spin"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -382,11 +478,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 20.41,
-                    "humidity": 59,
+                    "temp": 19.51,
+                    "humidity": 63,
                     "visibility": 10000,
-                    "wind_speed": "16.11",
-                    "clouds": 86
+                    "wind_speed": "13.80",
+                    "clouds": 94
                 },
                 "broadcast": "",
                 "pitch": {
@@ -457,94 +553,6 @@
                     "venue_id": "365",
                     "name": "Kerava National Cricket Ground",
                     "location": "Kerava",
-                    "country": "Finland",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98390,
-                "title": "Finland vs Luxembourg",
-                "short_title": "FIN vs LUX",
-                "subtitle": "Match 14",
-                "match_number": "14",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130145,
-                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
-                    "abbr": "Europe Sub Regional",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-14",
-                    "dateend": "2026-08-21",
-                    "country": "int",
-                    "total_matches": "16",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 69731,
-                    "name": "Finland",
-                    "short_name": "FIN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Finland.png"
-                },
-                "teamb": {
-                    "team_id": 69736,
-                    "name": "Luxembourg",
-                    "short_name": "LUX",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Luxembourg.png"
-                },
-                "date_start": "2026-08-18 08:00:00",
-                "date_end": "2026-08-18 18:00:00",
-                "timestamp_start": 1787040000,
-                "timestamp_end": 1787076000,
-                "date_start_ist": "2026-08-18 13:30:00",
-                "date_end_ist": "2026-08-18 23:30:00",
-                "venue": {
-                    "venue_id": "1213392",
-                    "name": "Tikkurila Cricket Ground",
-                    "location": "Vantaa",
                     "country": "Finland",
                     "timezone": ""
                 },
@@ -5430,6 +5438,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 08:02 PM",
+    "timenow": "17th August 2026 08:36 PM",
     "timezone": "Asia/Dhaka"
 }
