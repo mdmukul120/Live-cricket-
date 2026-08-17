@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Innings Break : Day 3 - Session 3, India lead by 178 runs.",
+                "status_note": "Stumps : Day 3 - Sri Lanka trail by 178 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 6,
-                "game_state_str": "Inning Break",
+                "game_state": 7,
+                "game_state_str": "Stumps",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -49,7 +49,7 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "462/10 (116.4 ov) & *0/0 ( ov)",
+                    "scores_full": "462/10 (116.4 ov) & 0/0 ( ov)",
                     "scores": "462/10 & 0/0",
                     "overs": "116.4 & "
                 },
@@ -69,7 +69,7 @@
                 "umpires": "Rod Tucker (Australia), Sharfuddoula Saikat (Bangladesh), Ahsan Raza (Pakistan, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Innings Break : Day 3 - Session 3, India lead by 178 runs.",
+                "live": "Stumps : Day 3 - Sri Lanka trail by 178 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,7 +81,7 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "3",
-                "session": "3",
+                "session": "0",
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "moderate rain",
@@ -5236,6 +5236,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 05:41 PM",
+    "timenow": "17th August 2026 05:58 PM",
     "timezone": "Asia/Dhaka"
 }
