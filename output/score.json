@@ -40,9 +40,9 @@
                     "name": "Greece",
                     "short_name": "GRE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Greece.png",
-                    "scores_full": "*54/4 (5.5 ov)",
-                    "scores": "54/4",
-                    "overs": "5.5"
+                    "scores_full": "*96/4 (14 ov)",
+                    "scores": "96/4",
+                    "overs": "14"
                 },
                 "teamb": {
                     "team_id": 69725,
@@ -64,7 +64,7 @@
                     "country": "Finland",
                     "timezone": ""
                 },
-                "umpires": "",
+                "umpires": "Mandar Sathe (Switzerland), Adnan Khan (Spain), Rizwan Akram (Netherlands, TV)",
                 "referee": "",
                 "equation": "",
                 "live": "Portugal elected to bowl",
@@ -83,11 +83,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 20.41,
-                    "humidity": 59,
+                    "temp": 19.9,
+                    "humidity": 60,
                     "visibility": 10000,
-                    "wind_speed": "16.11",
-                    "clouds": 86
+                    "wind_speed": "13.80",
+                    "clouds": 94
                 },
                 "broadcast": "",
                 "pitch": {
@@ -148,9 +148,9 @@
                     "name": "Spain",
                     "short_name": "SPA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Spain.png",
-                    "scores_full": "*31/2 (5.5 ov)",
-                    "scores": "31/2",
-                    "overs": "5.5"
+                    "scores_full": "*100/3 (13 ov)",
+                    "scores": "100/3",
+                    "overs": "13"
                 },
                 "date_start": "2026-08-17 13:00:00",
                 "date_end": "2026-08-17 23:00:00",
@@ -165,7 +165,7 @@
                     "country": "Finland",
                     "timezone": ""
                 },
-                "umpires": "",
+                "umpires": "Sunil Chandiramani(Gibraltar), Srinidhi Ravindra(Finland), Vinay Malhotra(Germany, TV)",
                 "referee": "",
                 "equation": "",
                 "live": "Luxembourg elected to bowl",
@@ -279,11 +279,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.06,
-                    "humidity": 81,
+                    "temp": 28.95,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "11.65",
-                    "clouds": 8
+                    "wind_speed": "11.52",
+                    "clouds": 16
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -5430,6 +5430,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 07:29 PM",
+    "timenow": "17th August 2026 08:02 PM",
     "timezone": "Asia/Dhaka"
 }
