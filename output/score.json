@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 1, Sri Lanka trail by 415 runs.",
+                "status_note": "Day 3 - Session 1, Sri Lanka trail by 400 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "*47/2 (10.5 ov)",
-                    "scores": "47/2",
-                    "overs": "10.5"
+                    "scores_full": "*62/4 (17.4 ov)",
+                    "scores": "62/4",
+                    "overs": "17.4"
                 },
                 "teamb": {
                     "team_id": 25,
@@ -69,7 +69,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 3 - Session 1, Sri Lanka trail by 415 runs.",
+                "live": "Day 3 - Session 1, Sri Lanka trail by 400 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 30.26,
-                    "humidity": 79,
+                    "temp": 30.86,
+                    "humidity": 78,
                     "visibility": 10000,
                     "wind_speed": "1.99",
-                    "clouds": 36
+                    "clouds": 46
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -5236,6 +5236,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 11:22 AM",
+    "timenow": "17th August 2026 11:55 AM",
     "timezone": "Asia/Dhaka"
 }
