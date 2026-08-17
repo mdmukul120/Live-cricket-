@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "moderate rain",
-                    "temp": 28.94,
+                    "temp": 28.57,
                     "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "12.21",
-                    "clouds": 36
+                    "wind_speed": "11.81",
+                    "clouds": 8
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -187,12 +187,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 17.92,
-                    "humidity": 76,
+                    "weather_desc": "broken clouds",
+                    "temp": 16.9,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 97
+                    "wind_speed": "11.50",
+                    "clouds": 83
                 },
                 "broadcast": "",
                 "pitch": {
@@ -290,12 +290,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 17.92,
-                    "humidity": 76,
+                    "weather_desc": "broken clouds",
+                    "temp": 16.9,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 97
+                    "wind_speed": "11.50",
+                    "clouds": 83
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5252,6 +5252,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 11:59 PM",
+    "timenow": "18th August 2026 12:44 AM",
     "timezone": "Asia/Dhaka"
 }
