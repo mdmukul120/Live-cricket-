@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Stumps : Day 2 - India elected to bat",
+                "status_note": "Day 3 - Session 1, Sri Lanka trail by 450 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 7,
-                "game_state_str": "Stumps",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -40,16 +40,18 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": ""
+                    "scores_full": "*12/1 (4.1 ov)",
+                    "scores": "12/1",
+                    "overs": "4.1"
                 },
                 "teamb": {
                     "team_id": 25,
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*460/9 (116 ov)",
-                    "scores": "460/9",
-                    "overs": "116"
+                    "scores_full": "462/10 (116.4 ov)",
+                    "scores": "462/10",
+                    "overs": "116.4"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -67,26 +69,26 @@
                 "umpires": "Ahsan Raza (Pakistan), Rod Tucker (Australia), Sharfuddoula (Bangladesh, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Stumps : Day 2 - India elected to bat",
+                "live": "Day 3 - Session 1, Sri Lanka trail by 450 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-12 20:09:35",
                 "verify_time": "",
                 "match_dls_affected": "false",
-                "day": "2",
-                "session": "0",
+                "day": "3",
+                "session": "1",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 29.36,
-                    "humidity": 81,
+                    "weather": "Clouds",
+                    "weather_desc": "scattered clouds",
+                    "temp": 30.06,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "1.99",
+                    "wind_speed": "1.12",
                     "clouds": 36
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -180,8 +182,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 14.73,
-                    "humidity": 94,
+                    "temp": 15.06,
+                    "humidity": 92,
                     "visibility": 10000,
                     "wind_speed": "8.05",
                     "clouds": 100
@@ -276,8 +278,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 14.73,
-                    "humidity": 94,
+                    "temp": 15.06,
+                    "humidity": 92,
                     "visibility": 10000,
                     "wind_speed": "8.05",
                     "clouds": 100
@@ -5234,6 +5236,6 @@
             }
         ]
     },
-    "timenow": "17th August 2026 09:59 AM",
+    "timenow": "17th August 2026 10:49 AM",
     "timezone": "Asia/Dhaka"
 }
