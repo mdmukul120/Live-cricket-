@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 4 - Session 1, India lead by 196 runs.",
+                "status_note": "Day 4 - Session 1, India lead by 231 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -49,9 +49,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "462/10 (116.4 ov) & *18/1 (5.5 ov)",
-                    "scores": "462/10 & 18/1",
-                    "overs": "116.4 & 5.5"
+                    "scores_full": "462/10 (116.4 ov) & *53/1 (12.4 ov)",
+                    "scores": "462/10 & 53/1",
+                    "overs": "116.4 & 12.4"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "Rod Tucker (Australia), Sharfuddoula Saikat (Bangladesh), Ahsan Raza (Pakistan, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 4 - Session 1, India lead by 196 runs.",
+                "live": "Day 4 - Session 1, India lead by 231 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,10 +85,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.76,
-                    "humidity": 81,
+                    "temp": 30.16,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "5.82",
+                    "wind_speed": "4.03",
                     "clouds": 33
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
@@ -182,10 +182,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 10.87,
-                    "humidity": 94,
+                    "temp": 11.83,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
+                    "wind_speed": "5.01",
                     "clouds": 80
                 },
                 "broadcast": "",
@@ -278,10 +278,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 10.87,
-                    "humidity": 94,
+                    "temp": 11.83,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
+                    "wind_speed": "5.01",
                     "clouds": 80
                 },
                 "broadcast": "",
@@ -5252,6 +5252,6 @@
             }
         ]
     },
-    "timenow": "18th August 2026 10:46 AM",
+    "timenow": "18th August 2026 11:15 AM",
     "timezone": "Asia/Dhaka"
 }
