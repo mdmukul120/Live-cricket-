@@ -40,9 +40,9 @@
                     "name": "Czech Republic",
                     "short_name": "CZE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Czech_Republic.png",
-                    "scores_full": "*7/1 (2.4 ov)",
-                    "scores": "7/1",
-                    "overs": "2.4"
+                    "scores_full": "*73/4 (11.4 ov)",
+                    "scores": "73/4",
+                    "overs": "11.4"
                 },
                 "teamb": {
                     "team_id": 9146,
@@ -133,9 +133,9 @@
                     "name": "Bulgaria",
                     "short_name": "BUL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Bulgaria.png",
-                    "scores_full": "*12/1 (2.5 ov)",
-                    "scores": "12/1",
-                    "overs": "2.5"
+                    "scores_full": "*58/8 (12 ov)",
+                    "scores": "58/8",
+                    "overs": "12"
                 },
                 "teamb": {
                     "team_id": 69740,
@@ -176,10 +176,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 18.31,
-                    "humidity": 60,
+                    "temp": 18.85,
+                    "humidity": 59,
                     "visibility": 10000,
-                    "wind_speed": "5.99",
+                    "wind_speed": "10.36",
                     "clouds": 100
                 },
                 "broadcast": "",
@@ -277,13 +277,13 @@
                 "day": "4",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 31.17,
-                    "humidity": 79,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 30.18,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "11.10",
-                    "clouds": 4
+                    "wind_speed": "10.38",
+                    "clouds": 2
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -5078,6 +5078,6 @@
             }
         ]
     },
-    "timenow": "18th August 2026 07:12 PM",
+    "timenow": "18th August 2026 07:56 PM",
     "timezone": "Asia/Dhaka"
 }
