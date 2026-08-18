@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Stumps : Day 3 - Sri Lanka trail by 178 runs.",
+                "status_note": "Day 4 - Session 1, India lead by 196 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 7,
-                "game_state_str": "Stumps",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -49,9 +49,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "462/10 (116.4 ov) & 0/0 ( ov)",
-                    "scores": "462/10 & 0/0",
-                    "overs": "116.4 & "
+                    "scores_full": "462/10 (116.4 ov) & *18/1 (5.5 ov)",
+                    "scores": "462/10 & 18/1",
+                    "overs": "116.4 & 5.5"
                 },
                 "date_start": "2026-08-15 04:30:00",
                 "date_end": "2026-08-20 04:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "Rod Tucker (Australia), Sharfuddoula Saikat (Bangladesh), Ahsan Raza (Pakistan, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Stumps : Day 3 - Sri Lanka trail by 178 runs.",
+                "live": "Day 4 - Session 1, India lead by 196 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -80,16 +80,16 @@
                 "presquad_time": "2026-08-12 20:09:35",
                 "verify_time": "",
                 "match_dls_affected": "false",
-                "day": "3",
-                "session": "0",
+                "day": "4",
+                "session": "1",
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 29.56,
-                    "humidity": 82,
+                    "temp": 29.76,
+                    "humidity": 81,
                     "visibility": 10000,
-                    "wind_speed": "5.01",
-                    "clouds": 32
+                    "wind_speed": "5.82",
+                    "clouds": 33
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -5252,6 +5252,6 @@
             }
         ]
     },
-    "timenow": "18th August 2026 10:05 AM",
+    "timenow": "18th August 2026 10:46 AM",
     "timezone": "Asia/Dhaka"
 }
