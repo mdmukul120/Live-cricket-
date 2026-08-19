@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 3, England trail by 99 runs.",
+                "status_note": "Day 1 - Session 3, England trail by 73 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "England",
                     "short_name": "ENG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/ENG.webp",
-                    "scores_full": "*72/2 (16.1 ov)",
-                    "scores": "72/2",
-                    "overs": "16.1"
+                    "scores_full": "*98/2 (22 ov)",
+                    "scores": "98/2",
+                    "overs": "22"
                 },
                 "teamb": {
                     "team_id": 13,
@@ -69,7 +69,7 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Day 1 - Session 3, England trail by 99 runs.",
+                "live": "Day 1 - Session 3, England trail by 73 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,10 +85,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 19.07,
-                    "humidity": 60,
+                    "temp": 18.25,
+                    "humidity": 65,
                     "visibility": 10000,
-                    "wind_speed": "16.11",
+                    "wind_speed": "14.97",
                     "clouds": 42
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -5347,6 +5347,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 11:54 PM",
+    "timenow": "20th August 2026 12:22 AM",
     "timezone": "Asia/Dhaka"
 }
