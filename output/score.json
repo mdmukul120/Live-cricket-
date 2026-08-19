@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Drinks Break : Day 1 - Session 3, England trail by 116 runs.",
+                "status_note": "Day 1 - Session 3, England trail by 99 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 5,
-                "game_state_str": "Drinks Break",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 129914,
@@ -40,9 +40,9 @@
                     "name": "England",
                     "short_name": "ENG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/ENG.webp",
-                    "scores_full": "*55/2 (12 ov)",
-                    "scores": "55/2",
-                    "overs": "12"
+                    "scores_full": "*72/2 (16.1 ov)",
+                    "scores": "72/2",
+                    "overs": "16.1"
                 },
                 "teamb": {
                     "team_id": 13,
@@ -69,7 +69,7 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Drinks Break : Day 1 - Session 3, England trail by 116 runs.",
+                "live": "Day 1 - Session 3, England trail by 99 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -5347,6 +5347,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 11:34 PM",
+    "timenow": "19th August 2026 11:54 PM",
     "timezone": "Asia/Dhaka"
 }
