@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "England elected to bowl",
+                "status_note": "Day 1 - Session 1, England elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 2,
-                "game_state_str": "Toss",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 129914,
@@ -47,7 +47,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": ""
+                    "scores_full": "*0/1 (0.1 ov)",
+                    "scores": "0/1",
+                    "overs": "0.1"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -65,27 +67,27 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "England elected to bowl",
+                "live": "Day 1 - Session 1, England elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": null,
+                "latest_inning_number": 1,
                 "presquad_time": "2026-08-17 01:01:45",
                 "verify_time": "",
                 "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
+                "day": "1",
+                "session": "1",
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 15.89,
-                    "humidity": 86,
+                    "temp": 18.04,
+                    "humidity": 74,
                     "visibility": 10000,
-                    "wind_speed": "6.91",
-                    "clouds": 49
+                    "wind_speed": "4.00",
+                    "clouds": 46
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -5063,6 +5065,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 03:38 PM",
+    "timenow": "19th August 2026 04:02 PM",
     "timezone": "Asia/Dhaka"
 }
