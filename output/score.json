@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 3, England elected to bowl",
+                "status_note": "Day 1 - Session 3, England trail by 166 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,16 +40,18 @@
                     "name": "England",
                     "short_name": "ENG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/ENG.webp",
-                    "scores_full": ""
+                    "scores_full": "*5/0 (1.3 ov)",
+                    "scores": "5/0",
+                    "overs": "1.3"
                 },
                 "teamb": {
                     "team_id": 13,
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "*154/7 (45 ov)",
-                    "scores": "154/7",
-                    "overs": "45"
+                    "scores_full": "171/10 (48.1 ov)",
+                    "scores": "171/10",
+                    "overs": "48.1"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -67,14 +69,14 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Day 1 - Session 3, England elected to bowl",
+                "live": "Day 1 - Session 3, England trail by 166 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-17 01:01:45",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -83,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 19.39,
-                    "humidity": 61,
+                    "temp": 19.48,
+                    "humidity": 60,
                     "visibility": 10000,
                     "wind_speed": "16.11",
-                    "clouds": 38
+                    "clouds": 44
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -5345,6 +5347,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 10:02 PM",
+    "timenow": "19th August 2026 10:40 PM",
     "timezone": "Asia/Dhaka"
 }
