@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Lunch Break : Day 5 - Sri Lanka need 197 runs to win.",
+                "status_note": "Day 5 - Session 2, Sri Lanka need 166 runs to win.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 8,
-                "game_state_str": "Lunch Break",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -40,9 +40,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "284/10 (79.4 ov) & *175/6 (67 ov)",
-                    "scores": "284/10 & 175/6",
-                    "overs": "79.4 & 67"
+                    "scores_full": "284/10 (79.4 ov) & *206/10 (77.4 ov)",
+                    "scores": "284/10 & 206/10",
+                    "overs": "79.4 & 77.4"
                 },
                 "teamb": {
                     "team_id": 25,
@@ -69,7 +69,7 @@
                 "umpires": "Rod Tucker (Australia), Sharfuddoula Saikat (Bangladesh), Ahsan Raza (Pakistan, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Lunch Break : Day 5 - Sri Lanka need 197 runs to win.",
+                "live": "Day 5 - Session 2, Sri Lanka need 166 runs to win.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,15 +81,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "5",
-                "session": "0",
+                "session": "2",
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 31.7,
-                    "humidity": 74,
+                    "temp": 31.51,
+                    "humidity": 75,
                     "visibility": 10000,
-                    "wind_speed": "1.99",
-                    "clouds": 90
+                    "wind_speed": "13.56",
+                    "clouds": 58
                 },
                 "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
                 "pitch": {
@@ -130,7 +130,7 @@
                     "category": "international",
                     "match_format": "test",
                     "season": "2026",
-                    "status": "upcoming",
+                    "status": "live",
                     "datestart": "2026-08-19",
                     "dateend": "2026-09-09",
                     "country": "int",
@@ -4972,6 +4972,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 01:09 PM",
+    "timenow": "19th August 2026 01:52 PM",
     "timezone": "Asia/Dhaka"
 }
