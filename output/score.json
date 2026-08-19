@@ -47,9 +47,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "*109/3 (33 ov)",
-                    "scores": "109/3",
-                    "overs": "33"
+                    "scores_full": "*118/5 (37.3 ov)",
+                    "scores": "118/5",
+                    "overs": "37.3"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -83,10 +83,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 19.62,
-                    "humidity": 62,
+                    "temp": 20.06,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "16.11",
+                    "wind_speed": "14.97",
                     "clouds": 50
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -100,6 +100,102 @@
                     "text": "England elected to bowl",
                     "winner": 490,
                     "decision": 2
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98438,
+                "title": "Greece vs Israel",
+                "short_title": "GRE vs ISR",
+                "subtitle": "20th Match",
+                "match_number": "20",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130145,
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                    "abbr": "Europe Sub Regional",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-14",
+                    "dateend": "2026-08-21",
+                    "country": "int",
+                    "total_matches": "20",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 69763,
+                    "name": "Greece",
+                    "short_name": "GRE",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Greece.png"
+                },
+                "teamb": {
+                    "team_id": 9146,
+                    "name": "Israel",
+                    "short_name": "ISR",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png"
+                },
+                "date_start": "2026-08-20 13:00:00",
+                "date_end": "2026-08-20 23:00:00",
+                "timestamp_start": 1787230800,
+                "timestamp_end": 1787266800,
+                "date_start_ist": "2026-08-20 18:30:00",
+                "date_end_ist": "2026-08-21 04:30:00",
+                "venue": {
+                    "venue_id": "1213392",
+                    "name": "Tikkurila Cricket Ground",
+                    "location": "Vantaa",
+                    "country": "Finland",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-08-19 20:31:58",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "scattered clouds",
+                    "temp": 20.17,
+                    "humidity": 47,
+                    "visibility": 10000,
+                    "wind_speed": 5.36,
+                    "clouds": 49
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Spinning Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Slow Spin"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -342,94 +438,6 @@
                     "venue_id": "365",
                     "name": "Kerava National Cricket Ground",
                     "location": "Kerava",
-                    "country": "Finland",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98438,
-                "title": "Greece vs Israel",
-                "short_title": "GRE vs ISR",
-                "subtitle": "20th Match",
-                "match_number": "20",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130145,
-                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
-                    "abbr": "Europe Sub Regional",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-14",
-                    "dateend": "2026-08-21",
-                    "country": "int",
-                    "total_matches": "20",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 69763,
-                    "name": "Greece",
-                    "short_name": "GRE",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Greece.png"
-                },
-                "teamb": {
-                    "team_id": 9146,
-                    "name": "Israel",
-                    "short_name": "ISR",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png"
-                },
-                "date_start": "2026-08-20 13:00:00",
-                "date_end": "2026-08-20 23:00:00",
-                "timestamp_start": 1787230800,
-                "timestamp_end": 1787266800,
-                "date_start_ist": "2026-08-20 18:30:00",
-                "date_end_ist": "2026-08-21 04:30:00",
-                "venue": {
-                    "venue_id": "1213392",
-                    "name": "Tikkurila Cricket Ground",
-                    "location": "Vantaa",
                     "country": "Finland",
                     "timezone": ""
                 },
@@ -5337,6 +5345,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 08:38 PM",
+    "timenow": "19th August 2026 09:05 PM",
     "timezone": "Asia/Dhaka"
 }
