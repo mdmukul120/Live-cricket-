@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 1, England elected to bowl",
+                "status_note": "Rain Delay : Day 1 - Session 1, England elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 11,
+                "game_state_str": "Rain Delay",
                 "domestic": "0",
                 "competition": {
                     "cid": 129914,
@@ -47,9 +47,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "*11/2 (7 ov)",
-                    "scores": "11/2",
-                    "overs": "7"
+                    "scores_full": "*23/2 (9.4 ov)",
+                    "scores": "23/2",
+                    "overs": "9.4"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -67,7 +67,7 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Day 1 - Session 1, England elected to bowl",
+                "live": "Rain Delay : Day 1 - Session 1, England elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -5065,6 +5065,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 04:38 PM",
+    "timenow": "19th August 2026 04:59 PM",
     "timezone": "Asia/Dhaka"
 }
