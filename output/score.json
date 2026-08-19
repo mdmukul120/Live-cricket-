@@ -47,9 +47,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "*48/2 (16.4 ov)",
-                    "scores": "48/2",
-                    "overs": "16.4"
+                    "scores_full": "*88/2 (25.4 ov)",
+                    "scores": "88/2",
+                    "overs": "25.4"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -82,12 +82,12 @@
                 "session": "2",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 18.7,
-                    "humidity": 74,
+                    "weather_desc": "broken clouds",
+                    "temp": 18.8,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": "13.80",
-                    "clouds": 86
+                    "wind_speed": "12.66",
+                    "clouds": 73
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -5065,6 +5065,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 07:14 PM",
+    "timenow": "19th August 2026 07:59 PM",
     "timezone": "Asia/Dhaka"
 }
