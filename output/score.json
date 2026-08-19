@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Tea Break : Day 1 - England elected to bowl",
+                "status_note": "Day 1 - Session 3, England elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 9,
-                "game_state_str": "Tea Break",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 129914,
@@ -47,9 +47,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "*150/7 (44.4 ov)",
-                    "scores": "150/7",
-                    "overs": "44.4"
+                    "scores_full": "*154/7 (45 ov)",
+                    "scores": "154/7",
+                    "overs": "45"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -67,7 +67,7 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Tea Break : Day 1 - England elected to bowl",
+                "live": "Day 1 - Session 3, England elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -79,22 +79,22 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "1",
-                "session": "0",
+                "session": "3",
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 20.15,
-                    "humidity": 57,
+                    "temp": 19.39,
+                    "humidity": 61,
                     "visibility": 10000,
                     "wind_speed": "16.11",
                     "clouds": 38
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
-                    "pitch_condition": "Spinning Pitch",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Slow Spin"
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
                     "text": "England elected to bowl",
@@ -5345,6 +5345,6 @@
             }
         ]
     },
-    "timenow": "19th August 2026 09:41 PM",
+    "timenow": "19th August 2026 10:02 PM",
     "timezone": "Asia/Dhaka"
 }
