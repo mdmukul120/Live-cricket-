@@ -12,7 +12,7 @@
                 "format_str": "T20I",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Luxembourg elected to bowl",
+                "status_note": "Luxembourg need 137 runs in 18.0 remaining overs",
                 "verified": "false",
                 "pre_squad": "false",
                 "odds_available": "false",
@@ -40,16 +40,18 @@
                     "name": "Bulgaria",
                     "short_name": "BUL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Bulgaria.png",
-                    "scores_full": "*143/4 (18.2 ov)",
-                    "scores": "143/4",
-                    "overs": "18.2"
+                    "scores_full": "156/6 (20 ov)",
+                    "scores": "156/6",
+                    "overs": "20"
                 },
                 "teamb": {
                     "team_id": 69736,
                     "name": "Luxembourg",
                     "short_name": "LUX",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Luxembourg.png",
-                    "scores_full": ""
+                    "scores_full": "*20/0 (2 ov)",
+                    "scores": "20/0",
+                    "overs": "2"
                 },
                 "date_start": "2026-08-20 08:00:00",
                 "date_end": "2026-08-20 18:00:00",
@@ -67,14 +69,14 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Luxembourg elected to bowl",
+                "live": "Luxembourg need 137 runs in 18.0 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -105,7 +107,7 @@
                 "format_str": "T20I",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Portugal elected to bat",
+                "status_note": "Czech Republic need 211 runs in 18.2 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -133,16 +135,18 @@
                     "name": "Czech Republic",
                     "short_name": "CZE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Czech_Republic.png",
-                    "scores_full": ""
+                    "scores_full": "*1/2 (1.4 ov)",
+                    "scores": "1/2",
+                    "overs": "1.4"
                 },
                 "teamb": {
                     "team_id": 69725,
                     "name": "Portugal",
                     "short_name": "PORT",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Proutgal.png",
-                    "scores_full": "*181/4 (17 ov)",
-                    "scores": "181/4",
-                    "overs": "17"
+                    "scores_full": "211/6 (20 ov)",
+                    "scores": "211/6",
+                    "overs": "20"
                 },
                 "date_start": "2026-08-20 08:00:00",
                 "date_end": "2026-08-20 18:00:00",
@@ -160,14 +164,14 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Portugal elected to bat",
+                "live": "Czech Republic need 211 runs in 18.2 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-19 20:02:14",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -176,8 +180,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 17.91,
-                    "humidity": 66,
+                    "temp": 17.88,
+                    "humidity": 62,
                     "visibility": 10000,
                     "wind_speed": "11.99",
                     "clouds": 99
@@ -279,10 +283,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "light rain",
-                    "temp": 13.8,
+                    "temp": 13.81,
                     "humidity": 96,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
+                    "wind_speed": "12.66",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -5453,6 +5457,6 @@
             }
         ]
     },
-    "timenow": "20th August 2026 03:21 PM",
+    "timenow": "20th August 2026 03:55 PM",
     "timezone": "Asia/Dhaka"
 }
