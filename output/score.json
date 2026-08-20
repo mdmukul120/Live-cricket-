@@ -3,6 +3,102 @@
     "response": {
         "items": [
             {
+                "match_id": 96612,
+                "title": "Australia vs Bangladesh",
+                "short_title": "AUS vs BAN",
+                "subtitle": "2nd Match",
+                "match_number": "3",
+                "format": 2,
+                "format_str": "Test",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 129989,
+                    "title": "Bangladesh tour of Australia",
+                    "abbr": "AUS vs BAN",
+                    "type": "tour",
+                    "category": "international",
+                    "match_format": "mixed",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-06",
+                    "dateend": "2026-08-26",
+                    "country": "int",
+                    "total_matches": "3",
+                    "total_rounds": "2",
+                    "total_teams": "3"
+                },
+                "teama": {
+                    "team_id": 5,
+                    "name": "Australia",
+                    "short_name": "AUS",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp"
+                },
+                "teamb": {
+                    "team_id": 23,
+                    "name": "Bangladesh",
+                    "short_name": "BAN",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp"
+                },
+                "date_start": "2026-08-22 00:00:00",
+                "date_end": "2026-08-27 00:00:00",
+                "timestamp_start": 1787356800,
+                "timestamp_end": 1787788800,
+                "date_start_ist": "2026-08-22 05:30:00",
+                "date_end_ist": "2026-08-27 05:30:00",
+                "venue": {
+                    "venue_id": "275",
+                    "name": "Great Barrier Reef Arena",
+                    "location": "Mackay",
+                    "country": "Australia",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-08-20 01:33:15",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "few clouds",
+                    "temp": 15.99,
+                    "humidity": 88,
+                    "visibility": 10000,
+                    "wind_speed": 4.63,
+                    "clouds": 11
+                },
+                "broadcast": "Star Sports Network, JioHotstar",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
                 "match_id": 95253,
                 "title": "England vs Pakistan",
                 "short_title": "ENG vs PAK",
@@ -85,11 +181,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 12.66,
-                    "humidity": 84,
+                    "temp": 12.26,
+                    "humidity": 85,
                     "visibility": 10000,
-                    "wind_speed": "5.75",
-                    "clouds": 27
+                    "wind_speed": "4.61",
+                    "clouds": 25
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -882,102 +978,6 @@
                     "text": "Czech Republic elected to bat",
                     "winner": 81086,
                     "decision": 1
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 96612,
-                "title": "Australia vs Bangladesh",
-                "short_title": "AUS vs BAN",
-                "subtitle": "2nd Match",
-                "match_number": "3",
-                "format": 2,
-                "format_str": "Test",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 129989,
-                    "title": "Bangladesh tour of Australia",
-                    "abbr": "AUS vs BAN",
-                    "type": "tour",
-                    "category": "international",
-                    "match_format": "mixed",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-06",
-                    "dateend": "2026-08-26",
-                    "country": "int",
-                    "total_matches": "3",
-                    "total_rounds": "2",
-                    "total_teams": "3"
-                },
-                "teama": {
-                    "team_id": 5,
-                    "name": "Australia",
-                    "short_name": "AUS",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp"
-                },
-                "teamb": {
-                    "team_id": 23,
-                    "name": "Bangladesh",
-                    "short_name": "BAN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp"
-                },
-                "date_start": "2026-08-22 00:00:00",
-                "date_end": "2026-08-27 00:00:00",
-                "timestamp_start": 1787356800,
-                "timestamp_end": 1787788800,
-                "date_start_ist": "2026-08-22 05:30:00",
-                "date_end_ist": "2026-08-27 05:30:00",
-                "venue": {
-                    "venue_id": "275",
-                    "name": "Great Barrier Reef Arena",
-                    "location": "Mackay",
-                    "country": "Australia",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-08-20 01:33:15",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 15.99,
-                    "humidity": 88,
-                    "visibility": 10000,
-                    "wind_speed": 4.63,
-                    "clouds": 11
-                },
-                "broadcast": "Star Sports Network, JioHotstar",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -5371,6 +5371,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 05:17 AM",
+    "timenow": "21st August 2026 05:43 AM",
     "timezone": "Asia/Dhaka"
 }
