@@ -40,9 +40,9 @@
                     "name": "Bulgaria",
                     "short_name": "BUL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Bulgaria.png",
-                    "scores_full": "*12/0 (1.5 ov)",
-                    "scores": "12/0",
-                    "overs": "1.5"
+                    "scores_full": "*91/2 (12.1 ov)",
+                    "scores": "91/2",
+                    "overs": "12.1"
                 },
                 "teamb": {
                     "team_id": 69736,
@@ -140,9 +140,9 @@
                     "name": "Portugal",
                     "short_name": "PORT",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Proutgal.png",
-                    "scores_full": "*12/1 (1.2 ov)",
-                    "scores": "12/1",
-                    "overs": "1.2"
+                    "scores_full": "*123/2 (11 ov)",
+                    "scores": "123/2",
+                    "overs": "11"
                 },
                 "date_start": "2026-08-20 08:00:00",
                 "date_end": "2026-08-20 18:00:00",
@@ -176,10 +176,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 17.17,
-                    "humidity": 76,
+                    "temp": 17.53,
+                    "humidity": 70,
                     "visibility": 10000,
-                    "wind_speed": "11.50",
+                    "wind_speed": "13.80",
                     "clouds": 99
                 },
                 "broadcast": "",
@@ -278,11 +278,11 @@
                 "session": "0",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 14,
+                    "weather_desc": "moderate rain",
+                    "temp": 14.12,
                     "humidity": 95,
-                    "visibility": 4260,
-                    "wind_speed": "8.05",
+                    "visibility": 10000,
+                    "wind_speed": "6.91",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -5453,6 +5453,6 @@
             }
         ]
     },
-    "timenow": "20th August 2026 02:07 PM",
+    "timenow": "20th August 2026 02:52 PM",
     "timezone": "Asia/Dhaka"
 }
