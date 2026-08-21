@@ -47,7 +47,9 @@
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": ""
+                    "scores_full": "0/0 ( ov)",
+                    "scores": "0/0",
+                    "overs": ""
                 },
                 "date_start": "2026-08-22 00:00:00",
                 "date_end": "2026-08-27 00:00:00",
@@ -72,7 +74,7 @@
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": null,
+                "latest_inning_number": 1,
                 "presquad_time": "2026-08-20 01:33:15",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -5102,6 +5104,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 05:37 AM",
+    "timenow": "22nd August 2026 05:56 AM",
     "timezone": "Asia/Dhaka"
 }
