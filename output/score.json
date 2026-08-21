@@ -60,8 +60,8 @@
                     "country": "Australia",
                     "timezone": ""
                 },
-                "umpires": "",
-                "referee": "",
+                "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
+                "referee": "Richie Richardson (West Indies)",
                 "equation": "",
                 "live": "",
                 "result": "",
@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 12.99,
+                    "temp": 14.99,
                     "humidity": 94,
                     "visibility": 10000,
-                    "wind_speed": "5.75",
-                    "clouds": 6
+                    "wind_speed": "4.61",
+                    "clouds": 4
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -181,11 +181,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 16.13,
-                    "humidity": 85,
+                    "temp": 13.91,
+                    "humidity": 95,
                     "visibility": 10000,
-                    "wind_speed": "8.99",
-                    "clouds": 61
+                    "wind_speed": "4.00",
+                    "clouds": 80
                 },
                 "broadcast": "",
                 "pitch": {
@@ -283,12 +283,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 16.09,
-                    "humidity": 82,
+                    "weather_desc": "overcast clouds",
+                    "temp": 13.83,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "8.05",
-                    "clouds": 66
+                    "wind_speed": "3.44",
+                    "clouds": 86
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5099,6 +5099,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 04:52 AM",
+    "timenow": "22nd August 2026 05:11 AM",
     "timezone": "Asia/Dhaka"
 }
