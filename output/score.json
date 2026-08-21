@@ -80,10 +80,10 @@
                     "weather": "Clear",
                     "weather_desc": "clear sky",
                     "temp": 22.99,
-                    "humidity": 73,
+                    "humidity": 68,
                     "visibility": 10000,
                     "wind_speed": "17.27",
-                    "clouds": 0
+                    "clouds": 1
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -181,11 +181,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 10.31,
-                    "humidity": 88,
+                    "temp": 10.06,
+                    "humidity": 86,
                     "visibility": 10000,
-                    "wind_speed": "6.91",
-                    "clouds": 25
+                    "wind_speed": "9.22",
+                    "clouds": 38
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -277,12 +277,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 11.85,
-                    "humidity": 93,
+                    "weather_desc": "scattered clouds",
+                    "temp": 11.4,
+                    "humidity": 96,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 51
+                    "wind_speed": "8.99",
+                    "clouds": 45
                 },
                 "broadcast": "",
                 "pitch": {
@@ -374,11 +374,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 12.08,
-                    "humidity": 93,
+                    "temp": 11.5,
+                    "humidity": 95,
                     "visibility": 10000,
-                    "wind_speed": "10.00",
-                    "clouds": 34
+                    "wind_speed": "8.99",
+                    "clouds": 30
                 },
                 "broadcast": "",
                 "pitch": {
@@ -470,11 +470,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 12.08,
-                    "humidity": 93,
+                    "temp": 11.5,
+                    "humidity": 95,
                     "visibility": 10000,
-                    "wind_speed": "10.00",
-                    "clouds": 34
+                    "wind_speed": "8.99",
+                    "clouds": 30
                 },
                 "broadcast": "",
                 "pitch": {
@@ -565,12 +565,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 11.85,
-                    "humidity": 93,
+                    "weather_desc": "scattered clouds",
+                    "temp": 11.4,
+                    "humidity": 96,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 51
+                    "wind_speed": "8.99",
+                    "clouds": 45
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5371,6 +5371,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 08:50 AM",
+    "timenow": "21st August 2026 09:38 AM",
     "timezone": "Asia/Dhaka"
 }
