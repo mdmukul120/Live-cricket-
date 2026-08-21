@@ -79,8 +79,8 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 13.99,
-                    "humidity": 88,
+                    "temp": 12.99,
+                    "humidity": 94,
                     "visibility": 10000,
                     "wind_speed": "5.75",
                     "clouds": 6
@@ -181,11 +181,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 17.08,
-                    "humidity": 80,
+                    "temp": 16.13,
+                    "humidity": 85,
                     "visibility": 10000,
                     "wind_speed": "8.99",
-                    "clouds": 69
+                    "clouds": 61
                 },
                 "broadcast": "",
                 "pitch": {
@@ -284,11 +284,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 16.97,
-                    "humidity": 78,
+                    "temp": 16.09,
+                    "humidity": 82,
                     "visibility": 10000,
                     "wind_speed": "8.05",
-                    "clouds": 72
+                    "clouds": 66
                 },
                 "broadcast": "",
                 "pitch": {
@@ -387,11 +387,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 16.97,
-                    "humidity": 78,
+                    "temp": 16.09,
+                    "humidity": 82,
                     "visibility": 10000,
                     "wind_speed": "8.05",
-                    "clouds": 72
+                    "clouds": 66
                 },
                 "broadcast": "",
                 "pitch": {
@@ -490,11 +490,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 17.08,
-                    "humidity": 80,
+                    "temp": 16.13,
+                    "humidity": 85,
                     "visibility": 10000,
                     "wind_speed": "8.99",
-                    "clouds": 69
+                    "clouds": 61
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5099,6 +5099,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 11:46 PM",
+    "timenow": "22nd August 2026 12:14 AM",
     "timezone": "Asia/Dhaka"
 }
