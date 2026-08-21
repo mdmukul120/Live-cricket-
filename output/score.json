@@ -112,8 +112,8 @@
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 6,
+                "game_state_str": "Inning Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 130145,
@@ -143,9 +143,9 @@
                     "name": "Germany",
                     "short_name": "GER",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Germany.png",
-                    "scores_full": "*75/4 (10.4 ov)",
-                    "scores": "75/4",
-                    "overs": "10.4"
+                    "scores_full": "*144/7 (20 ov)",
+                    "scores": "144/7",
+                    "overs": "20"
                 },
                 "date_start": "2026-08-21 08:00:00",
                 "date_end": "2026-08-21 18:00:00",
@@ -179,11 +179,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
-                    "temp": 18.51,
-                    "humidity": 59,
+                    "temp": 19.16,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 15
+                    "wind_speed": "10.36",
+                    "clouds": 13
                 },
                 "broadcast": "",
                 "pitch": {
@@ -213,8 +213,8 @@
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 6,
+                "game_state_str": "Inning Break",
                 "domestic": "0",
                 "competition": {
                     "cid": 130145,
@@ -237,9 +237,9 @@
                     "name": "Bulgaria",
                     "short_name": "BUL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Bulgaria.png",
-                    "scores_full": "*89/3 (12.2 ov)",
-                    "scores": "89/3",
-                    "overs": "12.2"
+                    "scores_full": "*158/10 (19.5 ov)",
+                    "scores": "158/10",
+                    "overs": "19.5"
                 },
                 "teamb": {
                     "team_id": 81086,
@@ -271,7 +271,7 @@
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-21 01:00:20",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -280,11 +280,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 18.6,
-                    "humidity": 63,
+                    "temp": 19,
+                    "humidity": 65,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 7
+                    "wind_speed": "10.36",
+                    "clouds": 6
                 },
                 "broadcast": "",
                 "pitch": {
@@ -383,11 +383,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 14.86,
-                    "humidity": 73,
+                    "temp": 15.8,
+                    "humidity": 70,
                     "visibility": 10000,
                     "wind_speed": "12.66",
-                    "clouds": 91
+                    "clouds": 93
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -5580,6 +5580,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 03:03 PM",
+    "timenow": "21st August 2026 03:47 PM",
     "timezone": "Asia/Dhaka"
 }
