@@ -77,13 +77,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 15.99,
-                    "humidity": 88,
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 21.99,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": 4.63,
-                    "clouds": 11
+                    "wind_speed": "18.41",
+                    "clouds": 0
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -180,12 +180,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 12.26,
-                    "humidity": 85,
+                    "weather_desc": "few clouds",
+                    "temp": 10.92,
+                    "humidity": 88,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 25
+                    "wind_speed": "5.75",
+                    "clouds": 15
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -197,6 +197,109 @@
                 "toss": {
                     "text": "England elected to bowl",
                     "winner": 490,
+                    "decision": 2
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98438,
+                "title": "Greece vs Israel",
+                "short_title": "GRE vs ISR",
+                "subtitle": "20th Match",
+                "match_number": "20",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 2,
+                "status_str": "Completed",
+                "status_note": "Israel won by 1 run (DLS Method)",
+                "verified": "true",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130145,
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                    "abbr": "Europe Sub Regional",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-14",
+                    "dateend": "2026-08-21",
+                    "country": "int",
+                    "total_matches": "24",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 69763,
+                    "name": "Greece",
+                    "short_name": "GRE",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Greece.png",
+                    "scores_full": "43/3 (5 ov)",
+                    "scores": "43/3",
+                    "overs": "5"
+                },
+                "teamb": {
+                    "team_id": 9146,
+                    "name": "Israel",
+                    "short_name": "ISR",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png",
+                    "scores_full": "69/5 (8 ov)",
+                    "scores": "69/5",
+                    "overs": "8"
+                },
+                "date_start": "2026-08-20 13:00:00",
+                "date_end": "2026-08-20 23:00:00",
+                "timestamp_start": 1787230800,
+                "timestamp_end": 1787266800,
+                "date_start_ist": "2026-08-20 18:30:00",
+                "date_end_ist": "2026-08-21 04:30:00",
+                "venue": {
+                    "venue_id": "1213392",
+                    "name": "Tikkurila Cricket Ground",
+                    "location": "Vantaa",
+                    "country": "Finland",
+                    "timezone": ""
+                },
+                "umpires": "Srinidhi Ravindra (Finland),  Mandar Sathe (Switzerland), Adnan Khan (Spain, TV)",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "ISR won by 1 run (DLS Method)",
+                "result_type": 2,
+                "win_margin": "1 run (DLS Method)",
+                "winning_team_id": 9146,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 2,
+                "presquad_time": "2026-08-19 20:31:58",
+                "verify_time": "2026-08-21 06:53:31",
+                "match_dls_affected": "true",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 14.08,
+                    "humidity": 97,
+                    "visibility": 10000,
+                    "wind_speed": "9.22",
+                    "clouds": 92
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Greece elected to bowl",
+                    "winner": 69763,
                     "decision": 2
                 },
                 "is_realtime": 0
@@ -276,13 +379,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 14.09,
-                    "humidity": 97,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 12.09,
+                    "humidity": 94,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 91
+                    "wind_speed": "11.50",
+                    "clouds": 71
                 },
                 "broadcast": "",
                 "pitch": {
@@ -373,12 +476,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 14.08,
-                    "humidity": 97,
+                    "weather_desc": "scattered clouds",
+                    "temp": 12.29,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 92
+                    "wind_speed": "11.99",
+                    "clouds": 44
                 },
                 "broadcast": "",
                 "pitch": {
@@ -469,12 +572,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 14.27,
-                    "humidity": 97,
+                    "weather_desc": "scattered clouds",
+                    "temp": 12.29,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": 4.92,
-                    "clouds": 82
+                    "wind_speed": "11.99",
+                    "clouds": 44
                 },
                 "broadcast": "",
                 "pitch": {
@@ -564,13 +667,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 14.1,
-                    "humidity": 97,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 12.09,
+                    "humidity": 94,
                     "visibility": 10000,
-                    "wind_speed": 5.66,
-                    "clouds": 79
+                    "wind_speed": "11.50",
+                    "clouds": 71
                 },
                 "broadcast": "",
                 "pitch": {
@@ -582,109 +685,6 @@
                 "toss": {
                     "winner": 0,
                     "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98438,
-                "title": "Greece vs Israel",
-                "short_title": "GRE vs ISR",
-                "subtitle": "20th Match",
-                "match_number": "20",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 2,
-                "status_str": "Completed",
-                "status_note": "Israel won by 1 run (DLS Method)",
-                "verified": "true",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130145,
-                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
-                    "abbr": "Europe Sub Regional",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-14",
-                    "dateend": "2026-08-21",
-                    "country": "int",
-                    "total_matches": "24",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 69763,
-                    "name": "Greece",
-                    "short_name": "GRE",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Greece.png",
-                    "scores_full": "43/3 (5 ov)",
-                    "scores": "43/3",
-                    "overs": "5"
-                },
-                "teamb": {
-                    "team_id": 9146,
-                    "name": "Israel",
-                    "short_name": "ISR",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png",
-                    "scores_full": "69/5 (8 ov)",
-                    "scores": "69/5",
-                    "overs": "8"
-                },
-                "date_start": "2026-08-20 13:00:00",
-                "date_end": "2026-08-20 23:00:00",
-                "timestamp_start": 1787230800,
-                "timestamp_end": 1787266800,
-                "date_start_ist": "2026-08-20 18:30:00",
-                "date_end_ist": "2026-08-21 04:30:00",
-                "venue": {
-                    "venue_id": "1213392",
-                    "name": "Tikkurila Cricket Ground",
-                    "location": "Vantaa",
-                    "country": "Finland",
-                    "timezone": ""
-                },
-                "umpires": "Srinidhi Ravindra (Finland),  Mandar Sathe (Switzerland), Adnan Khan (Spain, TV)",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "ISR won by 1 run (DLS Method)",
-                "result_type": 2,
-                "win_margin": "1 run (DLS Method)",
-                "winning_team_id": 9146,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 2,
-                "presquad_time": "2026-08-19 20:31:58",
-                "verify_time": "2026-08-20 23:01:47",
-                "match_dls_affected": "true",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 14.08,
-                    "humidity": 97,
-                    "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 92
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "text": "Greece elected to bowl",
-                    "winner": 69763,
-                    "decision": 2
                 },
                 "is_realtime": 0
             },
@@ -5371,6 +5371,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 06:00 AM",
+    "timenow": "21st August 2026 07:48 AM",
     "timezone": "Asia/Dhaka"
 }
