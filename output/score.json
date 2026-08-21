@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 19.99,
-                    "humidity": 68,
+                    "temp": 18.99,
+                    "humidity": 77,
                     "visibility": 10000,
-                    "wind_speed": "14.97",
-                    "clouds": 2
+                    "wind_speed": "12.66",
+                    "clouds": 3
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -108,7 +108,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 1, Pakistan trail by 185 runs.",
+                "status_note": "Day 3 - Session 2, Pakistan trail by 174 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -145,9 +145,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "171/10 (48.1 ov) & *53/3 (14.5 ov)",
-                    "scores": "171/10 & 53/3",
-                    "overs": "48.1 & 14.5"
+                    "scores_full": "171/10 (48.1 ov) & *64/3 (20 ov)",
+                    "scores": "171/10 & 64/3",
+                    "overs": "48.1 & 20"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -165,7 +165,7 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Day 3 - Session 1, Pakistan trail by 185 runs.",
+                "live": "Day 3 - Session 2, Pakistan trail by 174 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -177,15 +177,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "3",
-                "session": "1",
+                "session": "2",
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 16.8,
-                    "humidity": 67,
+                    "temp": 17.23,
+                    "humidity": 66,
                     "visibility": 10000,
-                    "wind_speed": "6.91",
-                    "clouds": 96
+                    "wind_speed": "9.22",
+                    "clouds": 99
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -202,102 +202,6 @@
                 "is_realtime": 0
             },
             {
-                "match_id": 98490,
-                "title": "Isle of Man vs Israel",
-                "short_title": "IOM vs ISR",
-                "subtitle": "5th Place Play-off",
-                "match_number": "23",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130145,
-                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
-                    "abbr": "Europe Sub Regional",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-14",
-                    "dateend": "2026-08-21",
-                    "country": "int",
-                    "total_matches": "24",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 42857,
-                    "name": "Isle of Man",
-                    "short_name": "IOM",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/isle-of-man.webp"
-                },
-                "teamb": {
-                    "team_id": 9146,
-                    "name": "Israel",
-                    "short_name": "ISR",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png"
-                },
-                "date_start": "2026-08-21 13:00:00",
-                "date_end": "2026-08-21 23:00:00",
-                "timestamp_start": 1787317200,
-                "timestamp_end": 1787353200,
-                "date_start_ist": "2026-08-21 18:30:00",
-                "date_end_ist": "2026-08-22 04:30:00",
-                "venue": {
-                    "venue_id": "1213392",
-                    "name": "Tikkurila Cricket Ground",
-                    "location": "Vantaa",
-                    "country": "Finland",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-08-21 01:31:33",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 20.52,
-                    "humidity": 59,
-                    "visibility": 10000,
-                    "wind_speed": "10.36",
-                    "clouds": 11
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
                 "match_id": 98491,
                 "title": "Spain vs Portugal",
                 "short_title": "SPA vs PORT",
@@ -305,14 +209,14 @@
                 "match_number": "24",
                 "format": 3,
                 "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "Spain elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 130145,
@@ -334,13 +238,17 @@
                     "team_id": 69740,
                     "name": "Spain",
                     "short_name": "SPA",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Spain.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Spain.png",
+                    "scores_full": ""
                 },
                 "teamb": {
                     "team_id": 69725,
                     "name": "Portugal",
                     "short_name": "PORT",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Proutgal.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Proutgal.png",
+                    "scores_full": "*5/0 (0.5 ov)",
+                    "scores": "5/0",
+                    "overs": "0.5"
                 },
                 "date_start": "2026-08-21 13:00:00",
                 "date_end": "2026-08-21 23:00:00",
@@ -358,14 +266,14 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "",
+                "live": "Spain elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 0,
+                "latest_inning_number": 1,
                 "presquad_time": "2026-08-21 01:07:33",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -373,12 +281,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 20.64,
-                    "humidity": 53,
+                    "weather_desc": "broken clouds",
+                    "temp": 18.9,
+                    "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": "10.36",
-                    "clouds": 20
+                    "wind_speed": "11.50",
+                    "clouds": 64
                 },
                 "broadcast": "",
                 "pitch": {
@@ -388,8 +296,110 @@
                     "spine_bowling_condition": "Average"
                 },
                 "toss": {
-                    "winner": 0,
-                    "decision": 0
+                    "text": "Spain elected to bowl",
+                    "winner": 69740,
+                    "decision": 2
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98490,
+                "title": "Isle of Man vs Israel",
+                "short_title": "IOM vs ISR",
+                "subtitle": "5th Place Play-off",
+                "match_number": "23",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "Rain Delay : Isle of Man elected to bowl",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 11,
+                "game_state_str": "Rain Delay",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130145,
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                    "abbr": "Europe Sub Regional",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-14",
+                    "dateend": "2026-08-21",
+                    "country": "int",
+                    "total_matches": "24",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 42857,
+                    "name": "Isle of Man",
+                    "short_name": "IOM",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/isle-of-man.webp",
+                    "scores_full": ""
+                },
+                "teamb": {
+                    "team_id": 9146,
+                    "name": "Israel",
+                    "short_name": "ISR",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png",
+                    "scores_full": "*0/0 ( ov)",
+                    "scores": "0/0",
+                    "overs": ""
+                },
+                "date_start": "2026-08-21 13:00:00",
+                "date_end": "2026-08-21 23:00:00",
+                "timestamp_start": 1787317200,
+                "timestamp_end": 1787353200,
+                "date_start_ist": "2026-08-21 18:30:00",
+                "date_end_ist": "2026-08-22 04:30:00",
+                "venue": {
+                    "venue_id": "1213392",
+                    "name": "Tikkurila Cricket Ground",
+                    "location": "Vantaa",
+                    "country": "Finland",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "Rain Delay : Isle of Man elected to bowl",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 1,
+                "presquad_time": "2026-08-21 01:31:33",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 18.89,
+                    "humidity": 71,
+                    "visibility": 10000,
+                    "wind_speed": "13.00",
+                    "clouds": 43
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Isle of Man elected to bowl",
+                    "winner": 42857,
+                    "decision": 2
                 },
                 "is_realtime": 0
             },
@@ -475,12 +485,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 20.64,
-                    "humidity": 53,
+                    "weather_desc": "broken clouds",
+                    "temp": 18.9,
+                    "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": "10.36",
-                    "clouds": 20
+                    "wind_speed": "11.50",
+                    "clouds": 64
                 },
                 "broadcast": "",
                 "pitch": {
@@ -577,13 +587,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 20.52,
-                    "humidity": 59,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 18.89,
+                    "humidity": 71,
                     "visibility": 10000,
-                    "wind_speed": "10.36",
-                    "clouds": 11
+                    "wind_speed": "13.00",
+                    "clouds": 43
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5386,6 +5396,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 06:01 PM",
+    "timenow": "21st August 2026 07:03 PM",
     "timezone": "Asia/Dhaka"
 }
