@@ -79,10 +79,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 18.99,
-                    "humidity": 77,
+                    "temp": 15.99,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "12.66",
+                    "wind_speed": "5.75",
                     "clouds": 3
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -108,7 +108,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 2, Pakistan trail by 143 runs.",
+                "status_note": "Day 3 - Session 2, Pakistan trail by 113 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -145,9 +145,9 @@
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "171/10 (48.1 ov) & *95/6 (29 ov)",
-                    "scores": "171/10 & 95/6",
-                    "overs": "48.1 & 29"
+                    "scores_full": "171/10 (48.1 ov) & *125/8 (34 ov)",
+                    "scores": "171/10 & 125/8",
+                    "overs": "48.1 & 34"
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -165,7 +165,7 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Day 3 - Session 2, Pakistan trail by 143 runs.",
+                "live": "Day 3 - Session 2, Pakistan trail by 113 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -181,10 +181,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 16.81,
-                    "humidity": 66,
+                    "temp": 17.77,
+                    "humidity": 63,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
+                    "wind_speed": "10.36",
                     "clouds": 99
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -246,9 +246,9 @@
                     "name": "Israel",
                     "short_name": "ISR",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png",
-                    "scores_full": "*36/2 (6.5 ov)",
-                    "scores": "36/2",
-                    "overs": "6.5"
+                    "scores_full": "*77/4 (14 ov)",
+                    "scores": "77/4",
+                    "overs": "14"
                 },
                 "date_start": "2026-08-21 13:00:00",
                 "date_end": "2026-08-21 23:00:00",
@@ -280,12 +280,12 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 17.96,
-                    "humidity": 75,
+                    "weather": "Clouds",
+                    "weather_desc": "scattered clouds",
+                    "temp": 18.03,
+                    "humidity": 76,
                     "visibility": 10000,
-                    "wind_speed": "11.01",
+                    "wind_speed": "8.01",
                     "clouds": 30
                 },
                 "broadcast": "",
@@ -347,9 +347,9 @@
                     "name": "Portugal",
                     "short_name": "PORT",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Proutgal.png",
-                    "scores_full": "*48/1 (5.1 ov)",
-                    "scores": "48/1",
-                    "overs": "5.1"
+                    "scores_full": "*88/2 (11.4 ov)",
+                    "scores": "88/2",
+                    "overs": "11.4"
                 },
                 "date_start": "2026-08-21 13:00:00",
                 "date_end": "2026-08-21 23:00:00",
@@ -383,8 +383,8 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "moderate rain",
-                    "temp": 17.74,
-                    "humidity": 73,
+                    "temp": 17.91,
+                    "humidity": 74,
                     "visibility": 10000,
                     "wind_speed": "6.91",
                     "clouds": 39
@@ -484,13 +484,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 18.9,
-                    "humidity": 68,
+                    "weather": "Rain",
+                    "weather_desc": "moderate rain",
+                    "temp": 17.91,
+                    "humidity": 74,
                     "visibility": 10000,
-                    "wind_speed": "11.50",
-                    "clouds": 64
+                    "wind_speed": "6.91",
+                    "clouds": 39
                 },
                 "broadcast": "",
                 "pitch": {
@@ -587,13 +587,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 18.89,
-                    "humidity": 71,
+                    "weather": "Clouds",
+                    "weather_desc": "scattered clouds",
+                    "temp": 18.03,
+                    "humidity": 76,
                     "visibility": 10000,
-                    "wind_speed": "13.00",
-                    "clouds": 43
+                    "wind_speed": "8.01",
+                    "clouds": 30
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5396,6 +5396,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 07:53 PM",
+    "timenow": "21st August 2026 08:23 PM",
     "timezone": "Asia/Dhaka"
 }
