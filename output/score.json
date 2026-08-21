@@ -108,7 +108,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 1, England lead by 204 runs.",
+                "status_note": "Innings Break : Day 3 - Session 1, Pakistan trail by 238 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -136,18 +136,18 @@
                     "name": "England",
                     "short_name": "ENG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/ENG.webp",
-                    "scores_full": "*375/8 (85 ov)",
-                    "scores": "375/8",
-                    "overs": "85"
+                    "scores_full": "409/10 (89.5 ov)",
+                    "scores": "409/10",
+                    "overs": "89.5"
                 },
                 "teamb": {
                     "team_id": 13,
                     "name": "Pakistan",
                     "short_name": "PAK",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp",
-                    "scores_full": "171/10 (48.1 ov)",
-                    "scores": "171/10",
-                    "overs": "48.1"
+                    "scores_full": "171/10 (48.1 ov) & *0/0 ( ov)",
+                    "scores": "171/10 & 0/0",
+                    "overs": "48.1 & "
                 },
                 "date_start": "2026-08-19 10:00:00",
                 "date_end": "2026-08-24 10:00:00",
@@ -165,14 +165,14 @@
                 "umpires": "Allahuddien Paleker (South Africa),  Chris Gaffaney (New Zealand), Paul Reiffel (Australia, TV)",
                 "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
-                "live": "Day 3 - Session 1, England lead by 204 runs.",
+                "live": "Innings Break : Day 3 - Session 1, Pakistan trail by 238 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 2,
+                "latest_inning_number": 3,
                 "presquad_time": "2026-08-17 01:01:45",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -181,11 +181,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 15.66,
-                    "humidity": 71,
+                    "temp": 16.67,
+                    "humidity": 70,
                     "visibility": 10000,
-                    "wind_speed": "13.80",
-                    "clouds": 93
+                    "wind_speed": "5.99",
+                    "clouds": 95
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -211,7 +211,7 @@
                 "format_str": "T20I",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Finland need 130 runs in 15.4 remaining overs",
+                "status_note": "Finland need 92 runs in 43 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -239,9 +239,9 @@
                     "name": "Finland",
                     "short_name": "FIN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Finland.png",
-                    "scores_full": "*15/2 (4.2 ov)",
-                    "scores": "15/2",
-                    "overs": "4.2"
+                    "scores_full": "*53/7 (12.5 ov)",
+                    "scores": "53/7",
+                    "overs": "12.5"
                 },
                 "teamb": {
                     "team_id": 41704,
@@ -268,7 +268,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Finland need 130 runs in 15.4 remaining overs",
+                "live": "Finland need 92 runs in 43 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -284,11 +284,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "few clouds",
-                    "temp": 19.07,
+                    "temp": 19.64,
                     "humidity": 57,
                     "visibility": 10000,
-                    "wind_speed": "11.50",
-                    "clouds": 13
+                    "wind_speed": "10.36",
+                    "clouds": 15
                 },
                 "broadcast": "",
                 "pitch": {
@@ -314,7 +314,7 @@
                 "format_str": "T20I",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Czech Republic need 97 runs in 14.4 remaining overs",
+                "status_note": "Czech Republic need 47 runs in 37 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -351,9 +351,9 @@
                     "name": "Czech Republic",
                     "short_name": "CZE",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Czech_Republic.png",
-                    "scores_full": "*62/1 (5.2 ov)",
-                    "scores": "62/1",
-                    "overs": "5.2"
+                    "scores_full": "*112/3 (13.5 ov)",
+                    "scores": "112/3",
+                    "overs": "13.5"
                 },
                 "date_start": "2026-08-21 08:00:00",
                 "date_end": "2026-08-21 18:00:00",
@@ -371,7 +371,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Czech Republic need 97 runs in 14.4 remaining overs",
+                "live": "Czech Republic need 47 runs in 37 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -387,11 +387,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 19.04,
-                    "humidity": 64,
+                    "temp": 19.64,
+                    "humidity": 61,
                     "visibility": 10000,
-                    "wind_speed": "11.50",
-                    "clouds": 6
+                    "wind_speed": "13.00",
+                    "clouds": 9
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5584,6 +5584,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 04:14 PM",
+    "timenow": "21st August 2026 04:49 PM",
     "timezone": "Asia/Dhaka"
 }
