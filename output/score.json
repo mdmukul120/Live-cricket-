@@ -82,7 +82,7 @@
                     "temp": 22.99,
                     "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": "16.11",
+                    "wind_speed": "14.97",
                     "clouds": 2
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -181,11 +181,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 9.26,
-                    "humidity": 89,
+                    "temp": 8.82,
+                    "humidity": 92,
                     "visibility": 10000,
-                    "wind_speed": "3.44",
-                    "clouds": 44
+                    "wind_speed": "3.40",
+                    "clouds": 48
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -198,6 +198,101 @@
                     "text": "England elected to bowl",
                     "winner": 490,
                     "decision": 2
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98391,
+                "title": "Czech Republic vs Israel",
+                "short_title": "CZE vs ISR",
+                "subtitle": "Match 15",
+                "match_number": "15",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 2,
+                "status_str": "Completed",
+                "status_note": "Israel won by 7 wickets",
+                "verified": "false",
+                "pre_squad": "false",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130145,
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                    "abbr": "Europe Sub Regional",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-14",
+                    "dateend": "2026-08-21",
+                    "country": "int",
+                    "total_matches": "24",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 81086,
+                    "name": "Czech Republic",
+                    "short_name": "CZE",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Czech_Republic.png",
+                    "scores_full": "154/6 (20 ov)",
+                    "scores": "154/6",
+                    "overs": "20"
+                },
+                "teamb": {
+                    "team_id": 9146,
+                    "name": "Israel",
+                    "short_name": "ISR",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png",
+                    "scores_full": "155/3 (16 ov)",
+                    "scores": "155/3",
+                    "overs": "16"
+                },
+                "date_start": "2026-08-18 13:00:00",
+                "date_end": "2026-08-18 23:00:00",
+                "timestamp_start": 1787058000,
+                "timestamp_end": 1787094000,
+                "date_start_ist": "2026-08-18 18:30:00",
+                "date_end_ist": "2026-08-19 04:30:00",
+                "venue": {
+                    "venue_id": "365",
+                    "name": "Kerava National Cricket Ground",
+                    "location": "Kerava",
+                    "country": "Finland",
+                    "timezone": ""
+                },
+                "umpires": "Mandar Sathe (Czech), Srinidhi Ravindra (Finland), Adnan Khan (Spain, TV)",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "ISR won by 7 wickets",
+                "result_type": 2,
+                "win_margin": "7 wickets",
+                "winning_team_id": 9146,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 2,
+                "presquad_time": "",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": [],
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Czech Republic elected to bat",
+                    "winner": 81086,
+                    "decision": 1
                 },
                 "is_realtime": 0
             },
@@ -278,11 +373,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 11.67,
-                    "humidity": 92,
+                    "temp": 12.02,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "8.05",
-                    "clouds": 37
+                    "wind_speed": "6.91",
+                    "clouds": 30
                 },
                 "broadcast": "",
                 "pitch": {
@@ -373,12 +468,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 11.86,
-                    "humidity": 92,
+                    "weather_desc": "few clouds",
+                    "temp": 12.12,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "8.99",
-                    "clouds": 25
+                    "wind_speed": "7.00",
+                    "clouds": 21
                 },
                 "broadcast": "",
                 "pitch": {
@@ -469,12 +564,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 11.86,
-                    "humidity": 92,
+                    "weather_desc": "few clouds",
+                    "temp": 12.12,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "8.99",
-                    "clouds": 25
+                    "wind_speed": "7.00",
+                    "clouds": 21
                 },
                 "broadcast": "",
                 "pitch": {
@@ -566,11 +661,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 11.67,
-                    "humidity": 92,
+                    "temp": 12.02,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "8.05",
-                    "clouds": 37
+                    "wind_speed": "6.91",
+                    "clouds": 30
                 },
                 "broadcast": "",
                 "pitch": {
@@ -882,101 +977,6 @@
                 "toss": {
                     "text": "Portugal elected to bat",
                     "winner": 69725,
-                    "decision": 1
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98391,
-                "title": "Czech Republic vs Israel",
-                "short_title": "CZE vs ISR",
-                "subtitle": "Match 15",
-                "match_number": "15",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 2,
-                "status_str": "Completed",
-                "status_note": "Israel won by 7 wickets",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130145,
-                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
-                    "abbr": "Europe Sub Regional",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-14",
-                    "dateend": "2026-08-21",
-                    "country": "int",
-                    "total_matches": "24",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 81086,
-                    "name": "Czech Republic",
-                    "short_name": "CZE",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Czech_Republic.png",
-                    "scores_full": "154/6 (20 ov)",
-                    "scores": "154/6",
-                    "overs": "20"
-                },
-                "teamb": {
-                    "team_id": 9146,
-                    "name": "Israel",
-                    "short_name": "ISR",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Bermuda-1.png",
-                    "scores_full": "155/3 (16 ov)",
-                    "scores": "155/3",
-                    "overs": "16"
-                },
-                "date_start": "2026-08-18 13:00:00",
-                "date_end": "2026-08-18 23:00:00",
-                "timestamp_start": 1787058000,
-                "timestamp_end": 1787094000,
-                "date_start_ist": "2026-08-18 18:30:00",
-                "date_end_ist": "2026-08-19 04:30:00",
-                "venue": {
-                    "venue_id": "365",
-                    "name": "Kerava National Cricket Ground",
-                    "location": "Kerava",
-                    "country": "Finland",
-                    "timezone": ""
-                },
-                "umpires": "Mandar Sathe (Czech), Srinidhi Ravindra (Finland), Adnan Khan (Spain, TV)",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "ISR won by 7 wickets",
-                "result_type": 2,
-                "win_margin": "7 wickets",
-                "winning_team_id": 9146,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 2,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "text": "Czech Republic elected to bat",
-                    "winner": 81086,
                     "decision": 1
                 },
                 "is_realtime": 0
@@ -5371,6 +5371,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 10:58 AM",
+    "timenow": "21st August 2026 11:35 AM",
     "timezone": "Asia/Dhaka"
 }
