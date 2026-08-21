@@ -82,8 +82,8 @@
                     "temp": 22.99,
                     "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": "17.27",
-                    "clouds": 1
+                    "wind_speed": "16.11",
+                    "clouds": 2
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -181,7 +181,7 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 10.06,
+                    "temp": 9.95,
                     "humidity": 86,
                     "visibility": 10000,
                     "wind_speed": "9.22",
@@ -278,11 +278,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 11.4,
-                    "humidity": 96,
+                    "temp": 11.67,
+                    "humidity": 92,
                     "visibility": 10000,
-                    "wind_speed": "8.99",
-                    "clouds": 45
+                    "wind_speed": "8.05",
+                    "clouds": 37
                 },
                 "broadcast": "",
                 "pitch": {
@@ -374,11 +374,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 11.5,
-                    "humidity": 95,
+                    "temp": 11.86,
+                    "humidity": 92,
                     "visibility": 10000,
                     "wind_speed": "8.99",
-                    "clouds": 30
+                    "clouds": 25
                 },
                 "broadcast": "",
                 "pitch": {
@@ -470,11 +470,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 11.5,
-                    "humidity": 95,
+                    "temp": 11.86,
+                    "humidity": 92,
                     "visibility": 10000,
                     "wind_speed": "8.99",
-                    "clouds": 30
+                    "clouds": 25
                 },
                 "broadcast": "",
                 "pitch": {
@@ -566,11 +566,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 11.4,
-                    "humidity": 96,
+                    "temp": 11.67,
+                    "humidity": 92,
                     "visibility": 10000,
-                    "wind_speed": "8.99",
-                    "clouds": 45
+                    "wind_speed": "8.05",
+                    "clouds": 37
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5371,6 +5371,6 @@
             }
         ]
     },
-    "timenow": "21st August 2026 09:38 AM",
+    "timenow": "21st August 2026 10:21 AM",
     "timezone": "Asia/Dhaka"
 }
