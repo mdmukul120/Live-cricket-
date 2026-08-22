@@ -188,11 +188,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 4.52,
-                    "humidity": 92,
+                    "temp": 3.4,
+                    "humidity": 93,
                     "visibility": 10000,
-                    "wind_speed": "1.86",
-                    "clouds": 4
+                    "wind_speed": "1.81",
+                    "clouds": 6
                 },
                 "broadcast": "",
                 "pitch": {
@@ -7923,6 +7923,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 09:49 PM",
+    "timenow": "22nd August 2026 10:00 PM",
     "timezone": "Asia/Dhaka"
 }
