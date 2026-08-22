@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Lunch Break : Day 1 - Australia elected to bowl",
+                "status_note": "Day 1 - Session 2, Australia elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 8,
-                "game_state_str": "Lunch Break",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 129989,
@@ -47,9 +47,9 @@
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "*35/6 (23 ov)",
-                    "scores": "35/6",
-                    "overs": "23"
+                    "scores_full": "*43/9 (28.4 ov)",
+                    "scores": "43/9",
+                    "overs": "28.4"
                 },
                 "date_start": "2026-08-22 00:00:00",
                 "date_end": "2026-08-27 00:00:00",
@@ -67,7 +67,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Lunch Break : Day 1 - Australia elected to bowl",
+                "live": "Day 1 - Session 2, Australia elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -79,15 +79,15 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "1",
-                "session": "0",
+                "session": "2",
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
                     "temp": 21.99,
-                    "humidity": 68,
+                    "humidity": 64,
                     "visibility": 10000,
-                    "wind_speed": "10.36",
-                    "clouds": 3
+                    "wind_speed": "9.22",
+                    "clouds": 2
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -5104,6 +5104,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 08:18 AM",
+    "timenow": "22nd August 2026 09:10 AM",
     "timezone": "Asia/Dhaka"
 }
