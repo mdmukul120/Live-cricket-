@@ -86,10 +86,10 @@
                     "weather": "Clear",
                     "weather_desc": "clear sky",
                     "temp": 13.99,
-                    "humidity": 100,
+                    "humidity": 94,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 1
+                    "wind_speed": "3.44",
+                    "clouds": 2
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -7923,6 +7923,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 11:14 PM",
+    "timenow": "22nd August 2026 11:37 PM",
     "timezone": "Asia/Dhaka"
 }
