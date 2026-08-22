@@ -85,8 +85,8 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 18.99,
-                    "humidity": 82,
+                    "temp": 17.99,
+                    "humidity": 88,
                     "visibility": 10000,
                     "wind_speed": "5.75",
                     "clouds": 0
@@ -5106,6 +5106,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 04:16 PM",
+    "timenow": "22nd August 2026 04:43 PM",
     "timezone": "Asia/Dhaka"
 }
