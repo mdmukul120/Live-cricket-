@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 2, Australia elected to bowl",
+                "status_note": "Day 1 - Session 2, Australia trail by 51 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,16 +40,18 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": ""
+                    "scores_full": "*13/0 (1.4 ov)",
+                    "scores": "13/0",
+                    "overs": "1.4"
                 },
                 "teamb": {
                     "team_id": 23,
                     "name": "Bangladesh",
                     "short_name": "BAN",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "*43/9 (28.4 ov)",
-                    "scores": "43/9",
-                    "overs": "28.4"
+                    "scores_full": "64/10 (34 ov)",
+                    "scores": "64/10",
+                    "overs": "34"
                 },
                 "date_start": "2026-08-22 00:00:00",
                 "date_end": "2026-08-27 00:00:00",
@@ -67,14 +69,14 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 1 - Session 2, Australia elected to bowl",
+                "live": "Day 1 - Session 2, Australia trail by 51 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-20 01:33:15",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -83,10 +85,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 21.99,
-                    "humidity": 64,
+                    "temp": 22.99,
+                    "humidity": 60,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
+                    "wind_speed": "11.50",
                     "clouds": 2
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -5104,6 +5106,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 09:10 AM",
+    "timenow": "22nd August 2026 09:55 AM",
     "timezone": "Asia/Dhaka"
 }
