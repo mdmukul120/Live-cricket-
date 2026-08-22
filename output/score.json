@@ -88,7 +88,7 @@
                     "temp": 18.99,
                     "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "5.75",
+                    "wind_speed": "6.91",
                     "clouds": 0
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -5106,6 +5106,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 03:02 PM",
+    "timenow": "22nd August 2026 03:35 PM",
     "timezone": "Asia/Dhaka"
 }
