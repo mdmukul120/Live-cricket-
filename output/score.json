@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 3, Australia lead by 37 runs.",
+                "status_note": "Day 1 - Session 3, Australia lead by 64 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "*101/3 (21.2 ov)",
-                    "scores": "101/3",
-                    "overs": "21.2"
+                    "scores_full": "*128/4 (28.4 ov)",
+                    "scores": "128/4",
+                    "overs": "28.4"
                 },
                 "teamb": {
                     "team_id": 23,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 1 - Session 3, Australia lead by 37 runs.",
+                "live": "Day 1 - Session 3, Australia lead by 64 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,11 +85,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 22.99,
-                    "humidity": 68,
+                    "temp": 21.99,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": "13.80",
-                    "clouds": 1
+                    "wind_speed": "14.97",
+                    "clouds": 0
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
                 "pitch": {
@@ -5106,6 +5106,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 11:55 AM",
+    "timenow": "22nd August 2026 12:31 PM",
     "timezone": "Asia/Dhaka"
 }
