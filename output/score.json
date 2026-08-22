@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 3, Australia lead by 64 runs.",
+                "status_note": "Day 1 - Session 3, Australia lead by 87 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "*128/4 (28.4 ov)",
-                    "scores": "128/4",
-                    "overs": "28.4"
+                    "scores_full": "*151/8 (35 ov)",
+                    "scores": "151/8",
+                    "overs": "35"
                 },
                 "teamb": {
                     "team_id": 23,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 1 - Session 3, Australia lead by 64 runs.",
+                "live": "Day 1 - Session 3, Australia lead by 87 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -85,10 +85,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 21.99,
-                    "humidity": 73,
+                    "temp": 20.99,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "14.97",
+                    "wind_speed": "12.66",
                     "clouds": 0
                 },
                 "broadcast": "Star Sports Network, JioHotstar",
@@ -5106,6 +5106,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 12:31 PM",
+    "timenow": "22nd August 2026 01:10 PM",
     "timezone": "Asia/Dhaka"
 }
