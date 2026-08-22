@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 3, Australia lead by 17 runs.",
+                "status_note": "Day 1 - Session 3, Australia lead by 37 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Australia",
                     "short_name": "AUS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "*81/3 (15.5 ov)",
-                    "scores": "81/3",
-                    "overs": "15.5"
+                    "scores_full": "*101/3 (21.2 ov)",
+                    "scores": "101/3",
+                    "overs": "21.2"
                 },
                 "teamb": {
                     "team_id": 23,
@@ -69,7 +69,7 @@
                 "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
                 "referee": "Richie Richardson (West Indies)",
                 "equation": "",
-                "live": "Day 1 - Session 3, Australia lead by 17 runs.",
+                "live": "Day 1 - Session 3, Australia lead by 37 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -5106,6 +5106,6 @@
             }
         ]
     },
-    "timenow": "22nd August 2026 11:31 AM",
+    "timenow": "22nd August 2026 11:55 AM",
     "timezone": "Asia/Dhaka"
 }
