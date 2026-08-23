@@ -3,109 +3,6 @@
     "response": {
         "items": [
             {
-                "match_id": 96612,
-                "title": "Australia vs Bangladesh",
-                "short_title": "AUS vs BAN",
-                "subtitle": "2nd Match",
-                "match_number": "3",
-                "format": 2,
-                "format_str": "Test",
-                "status": 3,
-                "status_str": "Live",
-                "status_note": "Tea Break : Day 2 - Bangladesh trail by 51 runs.",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 9,
-                "game_state_str": "Tea Break",
-                "domestic": "0",
-                "competition": {
-                    "cid": 129989,
-                    "title": "Bangladesh tour of Australia",
-                    "abbr": "AUS vs BAN",
-                    "type": "tour",
-                    "category": "international",
-                    "match_format": "mixed",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-06",
-                    "dateend": "2026-08-26",
-                    "country": "int",
-                    "total_matches": "3",
-                    "total_rounds": "2",
-                    "total_teams": "3"
-                },
-                "teama": {
-                    "team_id": 5,
-                    "name": "Australia",
-                    "short_name": "AUS",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
-                    "scores_full": "210/10 (52.3 ov)",
-                    "scores": "210/10",
-                    "overs": "52.3"
-                },
-                "teamb": {
-                    "team_id": 23,
-                    "name": "Bangladesh",
-                    "short_name": "BAN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
-                    "scores_full": "64/10 (34 ov) & *95/8 (38 ov)",
-                    "scores": "64/10 & 95/8",
-                    "overs": "34 & 38"
-                },
-                "date_start": "2026-08-22 00:00:00",
-                "date_end": "2026-08-27 00:00:00",
-                "timestamp_start": 1787356800,
-                "timestamp_end": 1787788800,
-                "date_start_ist": "2026-08-22 05:30:00",
-                "date_end_ist": "2026-08-27 05:30:00",
-                "venue": {
-                    "venue_id": "275",
-                    "name": "Great Barrier Reef Arena",
-                    "location": "Mackay",
-                    "country": "Australia",
-                    "timezone": ""
-                },
-                "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
-                "referee": "Richie Richardson (West Indies)",
-                "equation": "",
-                "live": "Tea Break : Day 2 - Bangladesh trail by 51 runs.",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 3,
-                "presquad_time": "2026-08-20 01:33:15",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "2",
-                "session": "0",
-                "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 22.99,
-                    "humidity": 73,
-                    "visibility": 10000,
-                    "wind_speed": "14.97",
-                    "clouds": 5
-                },
-                "broadcast": "Star Sports Network, JioHotstar",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "text": "Australia elected to bowl",
-                    "winner": 5,
-                    "decision": 2
-                },
-                "is_realtime": 0
-            },
-            {
                 "match_id": 97904,
                 "title": "Sri Lanka vs India",
                 "short_title": "SL vs IND",
@@ -150,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*13/0 (4.3 ov)",
-                    "scores": "13/0",
-                    "overs": "4.3"
+                    "scores_full": "*37/0 (10.2 ov)",
+                    "scores": "37/0",
+                    "overs": "10.2"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -216,12 +113,12 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Northern Territory Strike elected to bowl",
+                "status_note": "Innings Break : Northern Territory Strike elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 6,
+                "game_state_str": "Inning Break",
                 "domestic": "1",
                 "competition": {
                     "cid": 130154,
@@ -251,9 +148,9 @@
                     "name": "Adelaide Strikers Academy",
                     "short_name": "ASA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Adelaide-Strikers-Academy.webp",
-                    "scores_full": "*131/7 (15.3 ov)",
-                    "scores": "131/7",
-                    "overs": "15.3"
+                    "scores_full": "165/10 (20 ov)",
+                    "scores": "165/10",
+                    "overs": "20"
                 },
                 "date_start": "2026-08-23 03:30:00",
                 "date_end": "2026-08-23 13:30:00",
@@ -271,14 +168,14 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Northern Territory Strike elected to bowl",
+                "live": "Innings Break : Northern Territory Strike elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-22 18:16:55",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -288,7 +185,7 @@
                     "weather": "Clear",
                     "weather_desc": "clear sky",
                     "temp": 10.21,
-                    "humidity": 74,
+                    "humidity": 76,
                     "visibility": 10000,
                     "wind_speed": "7.45",
                     "clouds": 3
@@ -1113,11 +1010,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 30.03,
-                    "humidity": 54,
+                    "temp": 32.03,
+                    "humidity": 40,
                     "visibility": 10000,
-                    "wind_speed": "13.80",
-                    "clouds": 36
+                    "wind_speed": "11.50",
+                    "clouds": 49
                 },
                 "broadcast": "",
                 "pitch": {
@@ -1210,11 +1107,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 30.03,
-                    "humidity": 54,
+                    "temp": 32.03,
+                    "humidity": 40,
                     "visibility": 10000,
-                    "wind_speed": "13.80",
-                    "clouds": 36
+                    "wind_speed": "11.50",
+                    "clouds": 49
                 },
                 "broadcast": "",
                 "pitch": {
@@ -3122,6 +3019,109 @@
                 "toss": {
                     "winner": 0,
                     "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 96612,
+                "title": "Australia vs Bangladesh",
+                "short_title": "AUS vs BAN",
+                "subtitle": "2nd Match",
+                "match_number": "3",
+                "format": 2,
+                "format_str": "Test",
+                "status": 2,
+                "status_str": "Completed",
+                "status_note": "Australia won by an inning and 51 runs",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 129989,
+                    "title": "Bangladesh tour of Australia",
+                    "abbr": "AUS vs BAN",
+                    "type": "tour",
+                    "category": "international",
+                    "match_format": "mixed",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-06",
+                    "dateend": "2026-08-26",
+                    "country": "int",
+                    "total_matches": "3",
+                    "total_rounds": "2",
+                    "total_teams": "3"
+                },
+                "teama": {
+                    "team_id": 5,
+                    "name": "Australia",
+                    "short_name": "AUS",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AUS.webp",
+                    "scores_full": "210/10 (52.3 ov)",
+                    "scores": "210/10",
+                    "overs": "52.3"
+                },
+                "teamb": {
+                    "team_id": 23,
+                    "name": "Bangladesh",
+                    "short_name": "BAN",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp",
+                    "scores_full": "64/10 (34 ov) & 95/10 (38.3 ov)",
+                    "scores": "64/10 & 95/10",
+                    "overs": "34 & 38.3"
+                },
+                "date_start": "2026-08-22 00:00:00",
+                "date_end": "2026-08-27 00:00:00",
+                "timestamp_start": 1787356800,
+                "timestamp_end": 1787788800,
+                "date_start_ist": "2026-08-22 05:30:00",
+                "date_end_ist": "2026-08-27 05:30:00",
+                "venue": {
+                    "venue_id": "275",
+                    "name": "Great Barrier Reef Arena",
+                    "location": "Mackay",
+                    "country": "Australia",
+                    "timezone": ""
+                },
+                "umpires": "Kumar Dharmasena (Sri Lanka),  Nitin Menon (India),  Richard Illingworth (England, TV)",
+                "referee": "Richie Richardson (West Indies)",
+                "equation": "",
+                "live": "",
+                "result": "AUS won by an inning and 51 runs",
+                "result_type": 1,
+                "win_margin": "an inning and 51 runs",
+                "winning_team_id": 5,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 3,
+                "presquad_time": "2026-08-20 01:33:15",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "2",
+                "session": "3",
+                "weather": {
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 22.99,
+                    "humidity": 73,
+                    "visibility": 10000,
+                    "wind_speed": "16.11",
+                    "clouds": 5
+                },
+                "broadcast": "Star Sports Network, JioHotstar",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Australia elected to bowl",
+                    "winner": 5,
+                    "decision": 2
                 },
                 "is_realtime": 0
             },
@@ -7523,6 +7523,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 10:55 AM",
+    "timenow": "23rd August 2026 11:23 AM",
     "timezone": "Asia/Dhaka"
 }
