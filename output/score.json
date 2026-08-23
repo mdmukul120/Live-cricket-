@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*291/4 (79 ov)",
-                    "scores": "291/4",
-                    "overs": "79"
+                    "scores_full": "*296/4 (82.5 ov)",
+                    "scores": "296/4",
+                    "overs": "82.5"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -111,14 +111,14 @@
                 "match_number": "9",
                 "format": 6,
                 "format_str": "T20",
-                "status": 3,
-                "status_str": "Live",
+                "status": 2,
+                "status_str": "Completed",
                 "status_note": "Bangladesh High Performance won by 3 wickets",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
+                "game_state": 0,
+                "game_state_str": "Default",
                 "domestic": "1",
                 "competition": {
                     "cid": 130154,
@@ -170,10 +170,10 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Bangladesh High Performance won by 3 wickets",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
+                "live": "",
+                "result": "BHP won by 3 wickets",
+                "result_type": 2,
+                "win_margin": "3 wickets",
                 "winning_team_id": 129378,
                 "commentary": 1,
                 "wagon": 2,
@@ -185,12 +185,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
+                    "weather_desc": "broken clouds",
                     "temp": 26.03,
                     "humidity": 61,
                     "visibility": 10000,
                     "wind_speed": "4.61",
-                    "clouds": 92
+                    "clouds": 84
                 },
                 "broadcast": "",
                 "pitch": {
@@ -7541,6 +7541,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 05:28 PM",
+    "timenow": "23rd August 2026 05:47 PM",
     "timezone": "Asia/Dhaka"
 }
