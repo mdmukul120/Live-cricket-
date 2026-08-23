@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*168/2 (45.2 ov)",
-                    "scores": "168/2",
-                    "overs": "45.2"
+                    "scores_full": "*185/2 (50.5 ov)",
+                    "scores": "185/2",
+                    "overs": "50.5"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -141,9 +141,9 @@
                     "name": "Hobart Hurricanes Academy",
                     "short_name": "HHA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Hobart-Hurricanes-Academy.webp",
-                    "scores_full": "*110/5 (14 ov)",
-                    "scores": "110/5",
-                    "overs": "14"
+                    "scores_full": "*144/6 (18.4 ov)",
+                    "scores": "144/6",
+                    "overs": "18.4"
                 },
                 "teamb": {
                     "team_id": 129378,
@@ -184,11 +184,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 30.03,
+                    "temp": 29.03,
                     "humidity": 48,
                     "visibility": 10000,
                     "wind_speed": "12.66",
-                    "clouds": 100
+                    "clouds": 97
                 },
                 "broadcast": "",
                 "pitch": {
@@ -201,6 +201,103 @@
                     "text": "Bangladesh High Performance elected to bowl",
                     "winner": 129378,
                     "decision": 2
+                },
+                "criteria_check": true,
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98481,
+                "title": "Northern Territory Strike vs Hyderabad Kingsmen Academy",
+                "short_title": "NTS vs HKA",
+                "subtitle": "10th Match",
+                "match_number": "10",
+                "format": 6,
+                "format_str": "T20",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "1",
+                "competition": {
+                    "cid": 130154,
+                    "title": "Top End T20",
+                    "abbr": "Top End T20",
+                    "type": "tournament",
+                    "category": "domestic",
+                    "match_format": "t20",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-21",
+                    "dateend": "2026-08-30",
+                    "country": "int",
+                    "total_matches": "30",
+                    "total_rounds": "1",
+                    "total_teams": "9"
+                },
+                "teama": {
+                    "team_id": 127951,
+                    "name": "Northern Territory Strike",
+                    "short_name": "NTS",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Northern-Territory-Strike.webp"
+                },
+                "teamb": {
+                    "team_id": 129377,
+                    "name": "Hyderabad Kingsmen Academy",
+                    "short_name": "HKA",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Hyderabad-Kingsmen.webp"
+                },
+                "date_start": "2026-08-24 00:30:00",
+                "date_end": "2026-08-24 10:30:00",
+                "timestamp_start": 1787531400,
+                "timestamp_end": 1787567400,
+                "date_start_ist": "2026-08-24 06:00:00",
+                "date_end_ist": "2026-08-24 16:00:00",
+                "venue": {
+                    "venue_id": "1213801",
+                    "name": "DXC Arena No 2",
+                    "location": "Darwin",
+                    "country": "Australia",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-08-22 23:30:08",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 29.03,
+                    "humidity": 48,
+                    "visibility": 10000,
+                    "wind_speed": "12.66",
+                    "clouds": 97
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Spinning Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Slow Spin"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
                 },
                 "criteria_check": true,
                 "is_realtime": 0
@@ -1515,103 +1612,6 @@
                     "text": "Victoria elected to bowl",
                     "winner": 8281,
                     "decision": 2
-                },
-                "criteria_check": true,
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98481,
-                "title": "Northern Territory Strike vs Hyderabad Kingsmen Academy",
-                "short_title": "NTS vs HKA",
-                "subtitle": "10th Match",
-                "match_number": "10",
-                "format": 6,
-                "format_str": "T20",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "1",
-                "competition": {
-                    "cid": 130154,
-                    "title": "Top End T20",
-                    "abbr": "Top End T20",
-                    "type": "tournament",
-                    "category": "domestic",
-                    "match_format": "t20",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-21",
-                    "dateend": "2026-08-30",
-                    "country": "int",
-                    "total_matches": "30",
-                    "total_rounds": "1",
-                    "total_teams": "9"
-                },
-                "teama": {
-                    "team_id": 127951,
-                    "name": "Northern Territory Strike",
-                    "short_name": "NTS",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Northern-Territory-Strike.webp"
-                },
-                "teamb": {
-                    "team_id": 129377,
-                    "name": "Hyderabad Kingsmen Academy",
-                    "short_name": "HKA",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Hyderabad-Kingsmen.webp"
-                },
-                "date_start": "2026-08-24 00:30:00",
-                "date_end": "2026-08-24 10:30:00",
-                "timestamp_start": 1787531400,
-                "timestamp_end": 1787567400,
-                "date_start_ist": "2026-08-24 06:00:00",
-                "date_end_ist": "2026-08-24 16:00:00",
-                "venue": {
-                    "venue_id": "1213801",
-                    "name": "DXC Arena No 2",
-                    "location": "Darwin",
-                    "country": "Australia",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-08-22 23:30:08",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 30.03,
-                    "humidity": 48,
-                    "visibility": 10000,
-                    "wind_speed": "12.66",
-                    "clouds": 100
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Spinning Pitch",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Slow Spin"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
                 },
                 "criteria_check": true,
                 "is_realtime": 0
@@ -7539,6 +7539,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 02:40 PM",
+    "timenow": "23rd August 2026 03:02 PM",
     "timezone": "Asia/Dhaka"
 }
