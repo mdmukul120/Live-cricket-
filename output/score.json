@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*126/2 (36 ov)",
-                    "scores": "126/2",
-                    "overs": "36"
+                    "scores_full": "*168/2 (45.2 ov)",
+                    "scores": "168/2",
+                    "overs": "45.2"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -141,9 +141,9 @@
                     "name": "Hobart Hurricanes Academy",
                     "short_name": "HHA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Hobart-Hurricanes-Academy.webp",
-                    "scores_full": "*51/3 (6.4 ov)",
-                    "scores": "51/3",
-                    "overs": "6.4"
+                    "scores_full": "*110/5 (14 ov)",
+                    "scores": "110/5",
+                    "overs": "14"
                 },
                 "teamb": {
                     "team_id": 129378,
@@ -184,8 +184,8 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 31.03,
-                    "humidity": 45,
+                    "temp": 30.03,
+                    "humidity": 48,
                     "visibility": 10000,
                     "wind_speed": "12.66",
                     "clouds": 100
@@ -7539,6 +7539,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 02:01 PM",
+    "timenow": "23rd August 2026 02:40 PM",
     "timezone": "Asia/Dhaka"
 }
