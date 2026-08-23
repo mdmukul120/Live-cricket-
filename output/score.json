@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*270/3 (72.2 ov)",
-                    "scores": "270/3",
-                    "overs": "72.2"
+                    "scores_full": "*291/4 (79 ov)",
+                    "scores": "291/4",
+                    "overs": "79"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -113,7 +113,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Bangladesh High Performance need 3 runs in 3 remaining balls",
+                "status_note": "Bangladesh High Performance won by 3 wickets",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -150,9 +150,9 @@
                     "name": "Bangladesh High Performance",
                     "short_name": "BHP",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Bangladesh-High-Performance.webp",
-                    "scores_full": "*151/7 (19.3 ov)",
-                    "scores": "151/7",
-                    "overs": "19.3"
+                    "scores_full": "155/7 (19.4 ov)",
+                    "scores": "155/7",
+                    "overs": "19.4"
                 },
                 "date_start": "2026-08-23 07:30:00",
                 "date_end": "2026-08-23 17:30:00",
@@ -170,11 +170,11 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Bangladesh High Performance need 3 runs in 3 remaining balls",
+                "live": "Bangladesh High Performance won by 3 wickets",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
-                "winning_team_id": 0,
+                "winning_team_id": 129378,
                 "commentary": 1,
                 "wagon": 2,
                 "latest_inning_number": 2,
@@ -186,11 +186,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 27.03,
-                    "humidity": 57,
+                    "temp": 26.03,
+                    "humidity": 61,
                     "visibility": 10000,
-                    "wind_speed": "8.05",
-                    "clouds": 96
+                    "wind_speed": "4.61",
+                    "clouds": 92
                 },
                 "broadcast": "",
                 "pitch": {
@@ -7541,6 +7541,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 05:01 PM",
+    "timenow": "23rd August 2026 05:28 PM",
     "timezone": "Asia/Dhaka"
 }
