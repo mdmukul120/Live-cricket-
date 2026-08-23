@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 1 - Session 2, India elected to bat",
+                "status_note": "Day 1 - Session 3, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*185/2 (50.5 ov)",
-                    "scores": "185/2",
-                    "overs": "50.5"
+                    "scores_full": "*192/3 (53.2 ov)",
+                    "scores": "192/3",
+                    "overs": "53.2"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -67,7 +67,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 1 - Session 2, India elected to bat",
+                "live": "Day 1 - Session 3, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -79,7 +79,7 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "1",
-                "session": "2",
+                "session": "3",
                 "weather": {
                     "weather": "",
                     "weather_desc": "",
@@ -113,7 +113,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Bangladesh High Performance elected to bowl",
+                "status_note": "Bangladesh High Performance need 133 runs in 17.3 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -141,16 +141,18 @@
                     "name": "Hobart Hurricanes Academy",
                     "short_name": "HHA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Hobart-Hurricanes-Academy.webp",
-                    "scores_full": "*144/6 (18.4 ov)",
-                    "scores": "144/6",
-                    "overs": "18.4"
+                    "scores_full": "153/7 (20 ov)",
+                    "scores": "153/7",
+                    "overs": "20"
                 },
                 "teamb": {
                     "team_id": 129378,
                     "name": "Bangladesh High Performance",
                     "short_name": "BHP",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Bangladesh-High-Performance.webp",
-                    "scores_full": ""
+                    "scores_full": "*21/2 (2.3 ov)",
+                    "scores": "21/2",
+                    "overs": "2.3"
                 },
                 "date_start": "2026-08-23 07:30:00",
                 "date_end": "2026-08-23 17:30:00",
@@ -168,14 +170,14 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Bangladesh High Performance elected to bowl",
+                "live": "Bangladesh High Performance need 133 runs in 17.3 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-22 18:21:38",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -184,11 +186,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 29.03,
-                    "humidity": 48,
+                    "temp": 28.03,
+                    "humidity": 51,
                     "visibility": 10000,
-                    "wind_speed": "12.66",
-                    "clouds": 97
+                    "wind_speed": "10.36",
+                    "clouds": 96
                 },
                 "broadcast": "",
                 "pitch": {
@@ -7539,6 +7541,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 03:02 PM",
+    "timenow": "23rd August 2026 03:36 PM",
     "timezone": "Asia/Dhaka"
 }
