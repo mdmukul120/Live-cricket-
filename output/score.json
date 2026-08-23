@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*192/3 (53.2 ov)",
-                    "scores": "192/3",
-                    "overs": "53.2"
+                    "scores_full": "*207/3 (57.1 ov)",
+                    "scores": "207/3",
+                    "overs": "57.1"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -113,7 +113,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Bangladesh High Performance need 133 runs in 17.3 remaining overs",
+                "status_note": "Bangladesh High Performance need 101 runs in 14.0 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -150,9 +150,9 @@
                     "name": "Bangladesh High Performance",
                     "short_name": "BHP",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Bangladesh-High-Performance.webp",
-                    "scores_full": "*21/2 (2.3 ov)",
-                    "scores": "21/2",
-                    "overs": "2.3"
+                    "scores_full": "*53/3 (6 ov)",
+                    "scores": "53/3",
+                    "overs": "6"
                 },
                 "date_start": "2026-08-23 07:30:00",
                 "date_end": "2026-08-23 17:30:00",
@@ -170,7 +170,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Bangladesh High Performance need 133 runs in 17.3 remaining overs",
+                "live": "Bangladesh High Performance need 101 runs in 14.0 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -7541,6 +7541,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 03:36 PM",
+    "timenow": "23rd August 2026 03:56 PM",
     "timezone": "Asia/Dhaka"
 }
