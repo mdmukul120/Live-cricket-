@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*296/4 (82.5 ov)",
-                    "scores": "296/4",
-                    "overs": "82.5"
+                    "scores_full": "*300/5 (84.4 ov)",
+                    "scores": "300/5",
+                    "overs": "84.4"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -7541,6 +7541,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 05:47 PM",
+    "timenow": "23rd August 2026 06:00 PM",
     "timezone": "Asia/Dhaka"
 }
