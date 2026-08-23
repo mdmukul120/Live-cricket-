@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*220/3 (61.5 ov)",
-                    "scores": "220/3",
-                    "overs": "61.5"
+                    "scores_full": "*247/3 (68.4 ov)",
+                    "scores": "247/3",
+                    "overs": "68.4"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -113,7 +113,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Bangladesh High Performance need 63 runs in 52 remaining balls",
+                "status_note": "Bangladesh High Performance need 27 runs in 24 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -150,9 +150,9 @@
                     "name": "Bangladesh High Performance",
                     "short_name": "BHP",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Bangladesh-High-Performance.webp",
-                    "scores_full": "*91/4 (11.2 ov)",
-                    "scores": "91/4",
-                    "overs": "11.2"
+                    "scores_full": "*127/6 (16 ov)",
+                    "scores": "127/6",
+                    "overs": "16"
                 },
                 "date_start": "2026-08-23 07:30:00",
                 "date_end": "2026-08-23 17:30:00",
@@ -170,7 +170,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Bangladesh High Performance need 63 runs in 52 remaining balls",
+                "live": "Bangladesh High Performance need 27 runs in 24 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -189,7 +189,7 @@
                     "temp": 27.03,
                     "humidity": 57,
                     "visibility": 10000,
-                    "wind_speed": "9.22",
+                    "wind_speed": "8.05",
                     "clouds": 96
                 },
                 "broadcast": "",
@@ -7541,6 +7541,6 @@
             }
         ]
     },
-    "timenow": "23rd August 2026 04:20 PM",
+    "timenow": "23rd August 2026 04:45 PM",
     "timezone": "Asia/Dhaka"
 }
