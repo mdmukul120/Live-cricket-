@@ -84,12 +84,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 25.03,
-                    "humidity": 78,
+                    "weather_desc": "scattered clouds",
+                    "temp": 23.03,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 15
+                    "wind_speed": "3.44",
+                    "clouds": 31
                 },
                 "broadcast": "",
                 "pitch": {
@@ -188,12 +188,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 25.03,
-                    "humidity": 78,
+                    "weather_desc": "scattered clouds",
+                    "temp": 23.03,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 15
+                    "wind_speed": "3.44",
+                    "clouds": 31
                 },
                 "broadcast": "",
                 "pitch": {
@@ -286,12 +286,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 25.03,
-                    "humidity": 78,
+                    "weather_desc": "scattered clouds",
+                    "temp": 23.03,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 15
+                    "wind_speed": "3.44",
+                    "clouds": 31
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11522,6 +11522,6 @@
             }
         ]
     },
-    "timenow": "24th August 2026 08:31 PM",
+    "timenow": "24th August 2026 09:18 PM",
     "timezone": "Asia/Dhaka"
 }
