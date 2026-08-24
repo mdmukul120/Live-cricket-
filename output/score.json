@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 2 - Session 3, India elected to bat",
+                "status_note": "Day 2 - Session 3, Sri Lanka trail by 503 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,16 +40,18 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": ""
+                    "scores_full": "*0/0 (0.1 ov)",
+                    "scores": "0/0",
+                    "overs": "0.1"
                 },
                 "teamb": {
                     "team_id": 25,
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*481/8 (133.3 ov)",
-                    "scores": "481/8",
-                    "overs": "133.3"
+                    "scores_full": "503/9d (138 ov)",
+                    "scores": "503/9d",
+                    "overs": "138"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -67,14 +69,14 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 2 - Session 3, India elected to bat",
+                "live": "Day 2 - Session 3, Sri Lanka trail by 503 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 1,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-20 23:14:33",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -9447,6 +9449,6 @@
             }
         ]
     },
-    "timenow": "24th August 2026 05:04 PM",
+    "timenow": "24th August 2026 05:38 PM",
     "timezone": "Asia/Dhaka"
 }
