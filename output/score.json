@@ -83,13 +83,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 26.03,
-                    "humidity": 69,
+                    "weather": "Clouds",
+                    "weather_desc": "few clouds",
+                    "temp": 25.03,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "3.44",
-                    "clouds": 6
+                    "wind_speed": "4.61",
+                    "clouds": 15
                 },
                 "broadcast": "",
                 "pitch": {
@@ -187,13 +187,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 26.03,
-                    "humidity": 69,
+                    "weather": "Clouds",
+                    "weather_desc": "few clouds",
+                    "temp": 25.03,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "3.44",
-                    "clouds": 6
+                    "wind_speed": "4.61",
+                    "clouds": 15
                 },
                 "broadcast": "",
                 "pitch": {
@@ -285,13 +285,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 26.03,
-                    "humidity": 69,
+                    "weather": "Clouds",
+                    "weather_desc": "few clouds",
+                    "temp": 25.03,
+                    "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "3.44",
-                    "clouds": 6
+                    "wind_speed": "4.61",
+                    "clouds": 15
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11522,6 +11522,6 @@
             }
         ]
     },
-    "timenow": "24th August 2026 07:53 PM",
+    "timenow": "24th August 2026 08:31 PM",
     "timezone": "Asia/Dhaka"
 }
