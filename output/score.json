@@ -12,12 +12,12 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Rain Delay : Day 2 - Session 3, India elected to bat",
+                "status_note": "Day 2 - Session 3, India elected to bat",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 11,
-                "game_state_str": "Rain Delay",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "0",
                 "competition": {
                     "cid": 130098,
@@ -47,9 +47,9 @@
                     "name": "India",
                     "short_name": "IND",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "*475/8 (131.2 ov)",
-                    "scores": "475/8",
-                    "overs": "131.2"
+                    "scores_full": "*481/8 (133.3 ov)",
+                    "scores": "481/8",
+                    "overs": "133.3"
                 },
                 "date_start": "2026-08-23 04:30:00",
                 "date_end": "2026-08-28 04:30:00",
@@ -67,7 +67,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Rain Delay : Day 2 - Session 3, India elected to bat",
+                "live": "Day 2 - Session 3, India elected to bat",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -9447,6 +9447,6 @@
             }
         ]
     },
-    "timenow": "24th August 2026 04:32 PM",
+    "timenow": "24th August 2026 05:04 PM",
     "timezone": "Asia/Dhaka"
 }
