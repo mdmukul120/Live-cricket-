@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 2, Sri Lanka trail by 313 runs.",
+                "status_note": "Day 3 - Session 2, Sri Lanka trail by 287 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "*190/7 (54.1 ov)",
-                    "scores": "190/7",
-                    "overs": "54.1"
+                    "scores_full": "*216/7 (64 ov)",
+                    "scores": "216/7",
+                    "overs": "64"
                 },
                 "teamb": {
                     "team_id": 25,
@@ -69,7 +69,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 3 - Session 2, Sri Lanka trail by 313 runs.",
+                "live": "Day 3 - Session 2, Sri Lanka trail by 287 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -115,12 +115,12 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Bangladesh High Performance elected to bat",
+                "status_note": "Bangladesh High Performance elected to bowl",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
-                "game_state": 2,
-                "game_state_str": "Toss",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
                 "domestic": "1",
                 "competition": {
                     "cid": 130154,
@@ -143,7 +143,9 @@
                     "name": "Adelaide Strikers Academy",
                     "short_name": "ASA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Adelaide-Strikers-Academy.webp",
-                    "scores_full": ""
+                    "scores_full": "*39/1 (4.2 ov)",
+                    "scores": "39/1",
+                    "overs": "4.2"
                 },
                 "teamb": {
                     "team_id": 129378,
@@ -168,7 +170,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Bangladesh High Performance elected to bat",
+                "live": "Bangladesh High Performance elected to bowl",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -184,10 +186,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 30.03,
-                    "humidity": 54,
+                    "temp": 28.03,
+                    "humidity": 57,
                     "visibility": 10000,
-                    "wind_speed": "12.66",
+                    "wind_speed": "6.91",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -198,9 +200,9 @@
                     "spine_bowling_condition": "Slow Spin"
                 },
                 "toss": {
-                    "text": "Bangladesh High Performance elected to bat",
+                    "text": "Bangladesh High Performance elected to bowl",
                     "winner": 129378,
-                    "decision": 1
+                    "decision": 2
                 },
                 "criteria_check": true,
                 "is_realtime": 0
@@ -11555,6 +11557,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 03:21 PM",
+    "timenow": "25th August 2026 03:56 PM",
     "timezone": "Asia/Dhaka"
 }
