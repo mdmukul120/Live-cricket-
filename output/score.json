@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 1, Sri Lanka trail by 419 runs.",
+                "status_note": "Day 3 - Session 1, Sri Lanka trail by 382 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "*84/3 (22 ov)",
-                    "scores": "84/3",
-                    "overs": "22"
+                    "scores_full": "*121/3 (29.1 ov)",
+                    "scores": "121/3",
+                    "overs": "29.1"
                 },
                 "teamb": {
                     "team_id": 25,
@@ -69,7 +69,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 3 - Session 1, Sri Lanka trail by 419 runs.",
+                "live": "Day 3 - Session 1, Sri Lanka trail by 382 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -150,9 +150,9 @@
                     "name": "Hyderabad Kingsmen Academy",
                     "short_name": "HKA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Hyderabad-Kingsmen.webp",
-                    "scores_full": "*77/3 (9 ov)",
-                    "scores": "77/3",
-                    "overs": "9"
+                    "scores_full": "*115/5 (15.3 ov)",
+                    "scores": "115/5",
+                    "overs": "15.3"
                 },
                 "date_start": "2026-08-25 05:00:00",
                 "date_end": "2026-08-25 15:00:00",
@@ -186,10 +186,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 31.03,
-                    "humidity": 55,
+                    "temp": 30.03,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "10.36",
+                    "wind_speed": "12.66",
                     "clouds": 39
                 },
                 "broadcast": "",
@@ -285,10 +285,10 @@
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
                     "temp": 30.03,
-                    "humidity": 54,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "8.05",
-                    "clouds": 47
+                    "wind_speed": "12.66",
+                    "clouds": 39
                 },
                 "broadcast": "",
                 "pitch": {
@@ -382,10 +382,10 @@
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
                     "temp": 30.03,
-                    "humidity": 54,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "8.05",
-                    "clouds": 47
+                    "wind_speed": "12.66",
+                    "clouds": 39
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11550,6 +11550,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 11:51 AM",
+    "timenow": "25th August 2026 12:20 PM",
     "timezone": "Asia/Dhaka"
 }
