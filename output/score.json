@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 3, Sri Lanka trail by 273 runs.",
+                "status_note": "Day 3 - Session 3, Sri Lanka trail by 246 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "*230/8 (68.2 ov)",
-                    "scores": "230/8",
-                    "overs": "68.2"
+                    "scores_full": "*257/8 (76 ov)",
+                    "scores": "257/8",
+                    "overs": "76"
                 },
                 "teamb": {
                     "team_id": 25,
@@ -69,7 +69,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 3 - Session 3, Sri Lanka trail by 273 runs.",
+                "live": "Day 3 - Session 3, Sri Lanka trail by 246 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -143,9 +143,9 @@
                     "name": "Adelaide Strikers Academy",
                     "short_name": "ASA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Adelaide-Strikers-Academy.webp",
-                    "scores_full": "*94/3 (11.1 ov)",
-                    "scores": "94/3",
-                    "overs": "11.1"
+                    "scores_full": "*133/5 (16.4 ov)",
+                    "scores": "133/5",
+                    "overs": "16.4"
                 },
                 "teamb": {
                     "team_id": 129378,
@@ -186,11 +186,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 28.03,
-                    "humidity": 57,
+                    "temp": 27.03,
+                    "humidity": 65,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 0
+                    "wind_speed": "3.44",
+                    "clouds": 1
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11557,6 +11557,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 04:27 PM",
+    "timenow": "25th August 2026 04:59 PM",
     "timezone": "Asia/Dhaka"
 }
