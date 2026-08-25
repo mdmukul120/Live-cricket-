@@ -3,109 +3,6 @@
     "response": {
         "items": [
             {
-                "match_id": 97904,
-                "title": "Sri Lanka vs India",
-                "short_title": "SL vs IND",
-                "subtitle": "2nd Match",
-                "match_number": "3",
-                "format": 2,
-                "format_str": "Test",
-                "status": 3,
-                "status_str": "Live",
-                "status_note": "Day 3 - Session 1, Sri Lanka trail by 382 runs.",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 3,
-                "game_state_str": "Play Ongoing",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130098,
-                    "title": "India tour of Sri Lanka",
-                    "abbr": "SL vs IND",
-                    "type": "tour",
-                    "category": "international",
-                    "match_format": "mixed",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-07",
-                    "dateend": "2026-08-27",
-                    "country": "int",
-                    "total_matches": "3",
-                    "total_rounds": "1",
-                    "total_teams": "3"
-                },
-                "teama": {
-                    "team_id": 21,
-                    "name": "Sri Lanka",
-                    "short_name": "SL",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "*121/3 (29.1 ov)",
-                    "scores": "121/3",
-                    "overs": "29.1"
-                },
-                "teamb": {
-                    "team_id": 25,
-                    "name": "India",
-                    "short_name": "IND",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "503/9d (138 ov)",
-                    "scores": "503/9d",
-                    "overs": "138"
-                },
-                "date_start": "2026-08-23 04:30:00",
-                "date_end": "2026-08-28 04:30:00",
-                "timestamp_start": 1787459400,
-                "timestamp_end": 1787891400,
-                "date_start_ist": "2026-08-23 10:00:00",
-                "date_end_ist": "2026-08-28 10:00:00",
-                "venue": {
-                    "venue_id": "96",
-                    "name": "Sinhalese Sports Club Ground",
-                    "location": "Colombo",
-                    "country": "Sri Lanka",
-                    "timezone": ""
-                },
-                "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
-                "referee": "Andy Pycroft (Zimbabwe)",
-                "equation": "",
-                "live": "Day 3 - Session 1, Sri Lanka trail by 382 runs.",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 2,
-                "presquad_time": "2026-08-20 23:14:33",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "3",
-                "session": "1",
-                "weather": {
-                    "weather": "",
-                    "weather_desc": "",
-                    "temp": "",
-                    "humidity": "",
-                    "visibility": "",
-                    "wind_speed": "",
-                    "clouds": ""
-                },
-                "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "text": "India elected to bat",
-                    "winner": 25,
-                    "decision": 1
-                },
-                "is_realtime": 0
-            },
-            {
                 "match_id": 98583,
                 "title": "New Zealand A vs Hyderabad Kingsmen Academy",
                 "short_title": "NZ-A vs HKA",
@@ -115,7 +12,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "New Zealand A elected to bowl",
+                "status_note": "New Zealand A need 113 runs in 16.5 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -143,16 +40,18 @@
                     "name": "New Zealand A",
                     "short_name": "NZ-A",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/New-zealand.png",
-                    "scores_full": ""
+                    "scores_full": "*28/1 (3.1 ov)",
+                    "scores": "28/1",
+                    "overs": "3.1"
                 },
                 "teamb": {
                     "team_id": 129377,
                     "name": "Hyderabad Kingsmen Academy",
                     "short_name": "HKA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Hyderabad-Kingsmen.webp",
-                    "scores_full": "*115/5 (15.3 ov)",
-                    "scores": "115/5",
-                    "overs": "15.3"
+                    "scores_full": "141/10 (19.2 ov)",
+                    "scores": "141/10",
+                    "overs": "19.2"
                 },
                 "date_start": "2026-08-25 05:00:00",
                 "date_end": "2026-08-25 15:00:00",
@@ -170,27 +69,27 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "New Zealand A elected to bowl",
+                "live": "New Zealand A need 113 runs in 16.5 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-24 18:07:25",
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
                     "temp": 30.03,
                     "humidity": 58,
                     "visibility": 10000,
                     "wind_speed": "12.66",
-                    "clouds": 39
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -282,13 +181,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
                     "temp": 30.03,
                     "humidity": 58,
                     "visibility": 10000,
                     "wind_speed": "12.66",
-                    "clouds": 39
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -379,13 +278,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
                     "temp": 30.03,
                     "humidity": 58,
                     "visibility": 10000,
                     "wind_speed": "12.66",
-                    "clouds": 39
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -399,6 +298,109 @@
                     "decision": 0
                 },
                 "criteria_check": true,
+                "is_realtime": 0
+            },
+            {
+                "match_id": 97904,
+                "title": "Sri Lanka vs India",
+                "short_title": "SL vs IND",
+                "subtitle": "2nd Match",
+                "match_number": "3",
+                "format": 2,
+                "format_str": "Test",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "Lunch Break : Day 3 - Sri Lanka trail by 373 runs.",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 8,
+                "game_state_str": "Lunch Break",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130098,
+                    "title": "India tour of Sri Lanka",
+                    "abbr": "SL vs IND",
+                    "type": "tour",
+                    "category": "international",
+                    "match_format": "mixed",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-07",
+                    "dateend": "2026-08-27",
+                    "country": "int",
+                    "total_matches": "3",
+                    "total_rounds": "1",
+                    "total_teams": "3"
+                },
+                "teama": {
+                    "team_id": 21,
+                    "name": "Sri Lanka",
+                    "short_name": "SL",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
+                    "scores_full": "*130/4 (32 ov)",
+                    "scores": "130/4",
+                    "overs": "32"
+                },
+                "teamb": {
+                    "team_id": 25,
+                    "name": "India",
+                    "short_name": "IND",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
+                    "scores_full": "503/9d (138 ov)",
+                    "scores": "503/9d",
+                    "overs": "138"
+                },
+                "date_start": "2026-08-23 04:30:00",
+                "date_end": "2026-08-28 04:30:00",
+                "timestamp_start": 1787459400,
+                "timestamp_end": 1787891400,
+                "date_start_ist": "2026-08-23 10:00:00",
+                "date_end_ist": "2026-08-28 10:00:00",
+                "venue": {
+                    "venue_id": "96",
+                    "name": "Sinhalese Sports Club Ground",
+                    "location": "Colombo",
+                    "country": "Sri Lanka",
+                    "timezone": ""
+                },
+                "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
+                "referee": "Andy Pycroft (Zimbabwe)",
+                "equation": "",
+                "live": "Lunch Break : Day 3 - Sri Lanka trail by 373 runs.",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 2,
+                "presquad_time": "2026-08-20 23:14:33",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "3",
+                "session": "0",
+                "weather": {
+                    "weather": "",
+                    "weather_desc": "",
+                    "temp": "",
+                    "humidity": "",
+                    "visibility": "",
+                    "wind_speed": "",
+                    "clouds": ""
+                },
+                "broadcast": "Sony Sports TEN Network , DD Sports, Sony Liv",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "India elected to bat",
+                    "winner": 25,
+                    "decision": 1
+                },
                 "is_realtime": 0
             },
             {
@@ -11550,6 +11552,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 12:20 PM",
+    "timenow": "25th August 2026 01:13 PM",
     "timezone": "Asia/Dhaka"
 }
