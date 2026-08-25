@@ -12,7 +12,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Northern Territory Strike elected to bowl",
+                "status_note": "Northern Territory Strike need 111 runs in 17.4 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,16 +40,18 @@
                     "name": "Northern Territory Strike",
                     "short_name": "NTS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Northern-Territory-Strike.webp",
-                    "scores_full": ""
+                    "scores_full": "*20/0 (2.2 ov)",
+                    "scores": "20/0",
+                    "overs": "2.2"
                 },
                 "teamb": {
                     "team_id": 25965,
                     "name": "Australian Capital Territory",
                     "short_name": "ACT",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Australian-Capital-Territory.webp",
-                    "scores_full": "*42/4 (6 ov)",
-                    "scores": "42/4",
-                    "overs": "6"
+                    "scores_full": "130/10 (18.2 ov)",
+                    "scores": "130/10",
+                    "overs": "18.2"
                 },
                 "date_start": "2026-08-25 00:30:00",
                 "date_end": "2026-08-25 10:30:00",
@@ -67,14 +69,14 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Northern Territory Strike elected to bowl",
+                "live": "Northern Territory Strike need 111 runs in 17.4 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-08-23 22:16:46",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -83,11 +85,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 27.03,
-                    "humidity": 69,
+                    "temp": 29.03,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "5.99",
-                    "clouds": 100
+                    "wind_speed": "2.30",
+                    "clouds": 93
                 },
                 "broadcast": "",
                 "pitch": {
@@ -181,11 +183,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 27.03,
-                    "humidity": 69,
+                    "temp": 29.03,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "5.99",
-                    "clouds": 100
+                    "wind_speed": "2.30",
+                    "clouds": 93
                 },
                 "broadcast": "",
                 "pitch": {
@@ -278,11 +280,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 27.03,
-                    "humidity": 69,
+                    "temp": 29.03,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "5.99",
-                    "clouds": 100
+                    "wind_speed": "2.30",
+                    "clouds": 93
                 },
                 "broadcast": "",
                 "pitch": {
@@ -375,11 +377,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 27.03,
-                    "humidity": 69,
+                    "temp": 29.03,
+                    "humidity": 58,
                     "visibility": 10000,
-                    "wind_speed": "5.99",
-                    "clouds": 100
+                    "wind_speed": "2.30",
+                    "clouds": 93
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11543,6 +11545,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 07:02 AM",
+    "timenow": "25th August 2026 08:21 AM",
     "timezone": "Asia/Dhaka"
 }
