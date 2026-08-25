@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 3 - Session 2, Sri Lanka trail by 287 runs.",
+                "status_note": "Day 3 - Session 3, Sri Lanka trail by 273 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "*216/7 (64 ov)",
-                    "scores": "216/7",
-                    "overs": "64"
+                    "scores_full": "*230/8 (68.2 ov)",
+                    "scores": "230/8",
+                    "overs": "68.2"
                 },
                 "teamb": {
                     "team_id": 25,
@@ -69,7 +69,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 3 - Session 2, Sri Lanka trail by 287 runs.",
+                "live": "Day 3 - Session 3, Sri Lanka trail by 273 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -81,7 +81,7 @@
                 "verify_time": "",
                 "match_dls_affected": "false",
                 "day": "3",
-                "session": "2",
+                "session": "3",
                 "weather": {
                     "weather": "",
                     "weather_desc": "",
@@ -143,9 +143,9 @@
                     "name": "Adelaide Strikers Academy",
                     "short_name": "ASA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Adelaide-Strikers-Academy.webp",
-                    "scores_full": "*39/1 (4.2 ov)",
-                    "scores": "39/1",
-                    "overs": "4.2"
+                    "scores_full": "*94/3 (11.1 ov)",
+                    "scores": "94/3",
+                    "overs": "11.1"
                 },
                 "teamb": {
                     "team_id": 129378,
@@ -189,7 +189,7 @@
                     "temp": 28.03,
                     "humidity": 57,
                     "visibility": 10000,
-                    "wind_speed": "6.91",
+                    "wind_speed": "4.61",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -203,6 +203,103 @@
                     "text": "Bangladesh High Performance elected to bowl",
                     "winner": 129378,
                     "decision": 2
+                },
+                "criteria_check": true,
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98585,
+                "title": "New Zealand A vs Victoria",
+                "short_title": "NZ-A vs VIC",
+                "subtitle": "16th Match",
+                "match_number": "16",
+                "format": 6,
+                "format_str": "T20",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "1",
+                "competition": {
+                    "cid": 130154,
+                    "title": "Top End T20",
+                    "abbr": "Top End T20",
+                    "type": "tournament",
+                    "category": "domestic",
+                    "match_format": "t20",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-21",
+                    "dateend": "2026-08-30",
+                    "country": "int",
+                    "total_matches": "30",
+                    "total_rounds": "1",
+                    "total_teams": "9"
+                },
+                "teama": {
+                    "team_id": 11394,
+                    "name": "New Zealand A",
+                    "short_name": "NZ-A",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/New-zealand.png"
+                },
+                "teamb": {
+                    "team_id": 8281,
+                    "name": "Victoria",
+                    "short_name": "VIC",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/victoria-1.webp"
+                },
+                "date_start": "2026-08-26 00:30:00",
+                "date_end": "2026-08-26 10:30:00",
+                "timestamp_start": 1787704200,
+                "timestamp_end": 1787740200,
+                "date_start_ist": "2026-08-26 06:00:00",
+                "date_end_ist": "2026-08-26 16:00:00",
+                "venue": {
+                    "venue_id": "1213800",
+                    "name": "DXC Arena",
+                    "location": "Darwin",
+                    "country": "Australia",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-08-24 21:40:36",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 28.03,
+                    "humidity": 57,
+                    "visibility": 10000,
+                    "wind_speed": "4.61",
+                    "clouds": 0
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Spinning Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Slow Spin"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
                 },
                 "criteria_check": true,
                 "is_realtime": 0
@@ -1659,103 +1756,6 @@
                     "text": "Victoria elected to bowl",
                     "winner": 8281,
                     "decision": 2
-                },
-                "criteria_check": true,
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98585,
-                "title": "New Zealand A vs Victoria",
-                "short_title": "NZ-A vs VIC",
-                "subtitle": "16th Match",
-                "match_number": "16",
-                "format": 6,
-                "format_str": "T20",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "1",
-                "competition": {
-                    "cid": 130154,
-                    "title": "Top End T20",
-                    "abbr": "Top End T20",
-                    "type": "tournament",
-                    "category": "domestic",
-                    "match_format": "t20",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-21",
-                    "dateend": "2026-08-30",
-                    "country": "int",
-                    "total_matches": "30",
-                    "total_rounds": "1",
-                    "total_teams": "9"
-                },
-                "teama": {
-                    "team_id": 11394,
-                    "name": "New Zealand A",
-                    "short_name": "NZ-A",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/New-zealand.png"
-                },
-                "teamb": {
-                    "team_id": 8281,
-                    "name": "Victoria",
-                    "short_name": "VIC",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/victoria-1.webp"
-                },
-                "date_start": "2026-08-26 00:30:00",
-                "date_end": "2026-08-26 10:30:00",
-                "timestamp_start": 1787704200,
-                "timestamp_end": 1787740200,
-                "date_start_ist": "2026-08-26 06:00:00",
-                "date_end_ist": "2026-08-26 16:00:00",
-                "venue": {
-                    "venue_id": "1213800",
-                    "name": "DXC Arena",
-                    "location": "Darwin",
-                    "country": "Australia",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-08-24 21:40:36",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 29.03,
-                    "humidity": 58,
-                    "visibility": 10000,
-                    "wind_speed": "9.22",
-                    "clouds": 0
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Spinning Pitch",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Slow Spin"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
                 },
                 "criteria_check": true,
                 "is_realtime": 0
@@ -11557,6 +11557,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 03:56 PM",
+    "timenow": "25th August 2026 04:27 PM",
     "timezone": "Asia/Dhaka"
 }
