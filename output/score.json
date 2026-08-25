@@ -88,8 +88,8 @@
                     "temp": 26.03,
                     "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "12.66",
-                    "clouds": 1
+                    "wind_speed": "5.75",
+                    "clouds": 3
                 },
                 "broadcast": "",
                 "pitch": {
@@ -192,8 +192,8 @@
                     "temp": 26.03,
                     "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "12.66",
-                    "clouds": 1
+                    "wind_speed": "5.75",
+                    "clouds": 3
                 },
                 "broadcast": "",
                 "pitch": {
@@ -290,8 +290,8 @@
                     "temp": 26.03,
                     "humidity": 78,
                     "visibility": 10000,
-                    "wind_speed": "12.66",
-                    "clouds": 1
+                    "wind_speed": "5.75",
+                    "clouds": 3
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11654,6 +11654,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 08:25 PM",
+    "timenow": "25th August 2026 09:13 PM",
     "timezone": "Asia/Dhaka"
 }
