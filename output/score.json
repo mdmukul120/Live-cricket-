@@ -12,7 +12,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Northern Territory Strike need 111 runs in 17.4 remaining overs",
+                "status_note": "Northern Territory Strike need 13 runs in 29 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Northern Territory Strike",
                     "short_name": "NTS",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Northern-Territory-Strike.webp",
-                    "scores_full": "*20/0 (2.2 ov)",
-                    "scores": "20/0",
-                    "overs": "2.2"
+                    "scores_full": "*118/4 (15.1 ov)",
+                    "scores": "118/4",
+                    "overs": "15.1"
                 },
                 "teamb": {
                     "team_id": 25965,
@@ -69,7 +69,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "Northern Territory Strike need 111 runs in 17.4 remaining overs",
+                "live": "Northern Territory Strike need 13 runs in 29 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -84,12 +84,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
+                    "weather_desc": "broken clouds",
                     "temp": 29.03,
-                    "humidity": 58,
+                    "humidity": 61,
                     "visibility": 10000,
-                    "wind_speed": "2.30",
-                    "clouds": 93
+                    "wind_speed": "10.36",
+                    "clouds": 68
                 },
                 "broadcast": "",
                 "pitch": {
@@ -182,12 +182,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
+                    "weather_desc": "broken clouds",
                     "temp": 29.03,
-                    "humidity": 58,
+                    "humidity": 61,
                     "visibility": 10000,
-                    "wind_speed": "2.30",
-                    "clouds": 93
+                    "wind_speed": "10.36",
+                    "clouds": 68
                 },
                 "broadcast": "",
                 "pitch": {
@@ -279,12 +279,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
+                    "weather_desc": "broken clouds",
                     "temp": 29.03,
-                    "humidity": 58,
+                    "humidity": 61,
                     "visibility": 10000,
-                    "wind_speed": "2.30",
-                    "clouds": 93
+                    "wind_speed": "10.36",
+                    "clouds": 68
                 },
                 "broadcast": "",
                 "pitch": {
@@ -376,12 +376,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
+                    "weather_desc": "broken clouds",
                     "temp": 29.03,
-                    "humidity": 58,
+                    "humidity": 61,
                     "visibility": 10000,
-                    "wind_speed": "2.30",
-                    "clouds": 93
+                    "wind_speed": "10.36",
+                    "clouds": 68
                 },
                 "broadcast": "",
                 "pitch": {
@@ -11545,6 +11545,6 @@
             }
         ]
     },
-    "timenow": "25th August 2026 08:21 AM",
+    "timenow": "25th August 2026 09:16 AM",
     "timezone": "Asia/Dhaka"
 }
