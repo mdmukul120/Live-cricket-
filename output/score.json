@@ -12,7 +12,7 @@
                 "format_str": "Test",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "Day 4 - Session 1, Sri Lanka trail by 185 runs.",
+                "status_note": "Day 4 - Session 1, Sri Lanka trail by 150 runs.",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,9 +40,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "290/10 (89.4 ov) & *28/1 (9.1 ov)",
-                    "scores": "290/10 & 28/1",
-                    "overs": "89.4 & 9.1"
+                    "scores_full": "290/10 (89.4 ov) & *63/2 (14.5 ov)",
+                    "scores": "290/10 & 63/2",
+                    "overs": "89.4 & 14.5"
                 },
                 "teamb": {
                     "team_id": 25,
@@ -69,7 +69,7 @@
                 "umpires": "Ahsan Raza (Pakistan), Sharfuddoula (Bangladesh), Rod Tucker (Australia, TV)",
                 "referee": "Andy Pycroft (Zimbabwe)",
                 "equation": "",
-                "live": "Day 4 - Session 1, Sri Lanka trail by 185 runs.",
+                "live": "Day 4 - Session 1, Sri Lanka trail by 150 runs.",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -150,9 +150,9 @@
                     "name": "Adelaide Strikers Academy",
                     "short_name": "ASA",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2026/08/Adelaide-Strikers-Academy.webp",
-                    "scores_full": "*59/0 (8.2 ov)",
-                    "scores": "59/0",
-                    "overs": "8.2"
+                    "scores_full": "*110/1 (14.3 ov)",
+                    "scores": "110/1",
+                    "overs": "14.3"
                 },
                 "date_start": "2026-08-26 05:00:00",
                 "date_end": "2026-08-26 15:00:00",
@@ -186,10 +186,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 33.24,
-                    "humidity": 33,
+                    "temp": 31.67,
+                    "humidity": 52,
                     "visibility": 10000,
-                    "wind_speed": "17.27",
+                    "wind_speed": "9.22",
                     "clouds": 8
                 },
                 "broadcast": "",
@@ -284,10 +284,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 33.24,
-                    "humidity": 33,
+                    "temp": 31.67,
+                    "humidity": 52,
                     "visibility": 10000,
-                    "wind_speed": "15.01",
+                    "wind_speed": "9.22",
                     "clouds": 8
                 },
                 "broadcast": "",
@@ -381,10 +381,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 33.24,
-                    "humidity": 33,
+                    "temp": 31.67,
+                    "humidity": 52,
                     "visibility": 10000,
-                    "wind_speed": "15.01",
+                    "wind_speed": "9.22",
                     "clouds": 8
                 },
                 "broadcast": "",
@@ -11682,6 +11682,6 @@
             }
         ]
     },
-    "timenow": "26th August 2026 11:40 AM",
+    "timenow": "26th August 2026 12:05 PM",
     "timezone": "Asia/Dhaka"
 }
