@@ -83,13 +83,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 22.79,
-                    "humidity": 82,
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 23.03,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "1.14",
-                    "clouds": 77
+                    "wind_speed": "2.30",
+                    "clouds": 4
                 },
                 "broadcast": "",
                 "pitch": {
@@ -182,18 +182,18 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 22.79,
-                    "humidity": 82,
+                    "weather_desc": "few clouds",
+                    "temp": 23.03,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "1.14",
-                    "clouds": 77
+                    "wind_speed": "4.61",
+                    "clouds": 15
                 },
                 "broadcast": "",
                 "pitch": {
-                    "pitch_condition": "Spinning Pitch",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Slow Spin"
                 },
                 "toss": {
@@ -11764,6 +11764,6 @@
             }
         ]
     },
-    "timenow": "27th August 2026 02:16 AM",
+    "timenow": "27th August 2026 05:41 AM",
     "timezone": "Asia/Dhaka"
 }
