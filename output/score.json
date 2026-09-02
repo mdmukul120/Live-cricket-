@@ -77,13 +77,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 29.02,
-                    "humidity": 55,
+                    "weather": "Clouds",
+                    "weather_desc": "scattered clouds",
+                    "temp": 27.13,
+                    "humidity": 86,
                     "visibility": 10000,
-                    "wind_speed": 0.58,
-                    "clouds": 2
+                    "wind_speed": "1.88",
+                    "clouds": 41
                 },
                 "broadcast": "",
                 "pitch": {
@@ -1062,6 +1062,6 @@
             }
         ]
     },
-    "timenow": "2nd September 2026 08:42 PM",
+    "timenow": "3rd September 2026 12:05 AM",
     "timezone": "Asia/Dhaka"
 }
