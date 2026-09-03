@@ -3,6 +3,102 @@
     "response": {
         "items": [
             {
+                "match_id": 98422,
+                "title": "Bahrain vs Saudi Arabia",
+                "short_title": "BAH vs SAU",
+                "subtitle": "Group A",
+                "match_number": "12",
+                "format": 1,
+                "format_str": "ODI",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130147,
+                    "title": "ACC Mens Premier Cup",
+                    "abbr": "ACCMPC",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "odi",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-30",
+                    "dateend": "2026-09-12",
+                    "country": "int",
+                    "total_matches": "24",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 30519,
+                    "name": "Bahrain",
+                    "short_name": "BAH",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAH.webp"
+                },
+                "teamb": {
+                    "team_id": 19683,
+                    "name": "Saudi Arabia",
+                    "short_name": "SAU",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Saudi_Arabia.png"
+                },
+                "date_start": "2026-09-04 01:30:00",
+                "date_end": "2026-09-04 19:30:00",
+                "timestamp_start": 1788485400,
+                "timestamp_end": 1788550200,
+                "date_start_ist": "2026-09-04 07:00:00",
+                "date_end_ist": "2026-09-05 01:00:00",
+                "venue": {
+                    "venue_id": "299",
+                    "name": "UKM-YSD Cricket Oval",
+                    "location": "Bangi",
+                    "country": "Malaysia",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-09-03 20:37:50",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 27.97,
+                    "humidity": 85,
+                    "visibility": 10000,
+                    "wind_speed": "1.68",
+                    "clouds": 71
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Spinning Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Slow Spin"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
                 "match_id": 98365,
                 "title": "Namibia vs Zimbabwe",
                 "short_title": "NAM vs ZIM",
@@ -85,10 +181,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 19.58,
-                    "humidity": 28,
+                    "temp": 19.16,
+                    "humidity": 27,
                     "visibility": 10000,
-                    "wind_speed": "1.99",
+                    "wind_speed": "6.91",
                     "clouds": 0
                 },
                 "broadcast": "Fancode",
@@ -498,102 +594,6 @@
                     "text": "Oman elected to bowl",
                     "winner": 1546,
                     "decision": 2
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98422,
-                "title": "Bahrain vs Saudi Arabia",
-                "short_title": "BAH vs SAU",
-                "subtitle": "Group A",
-                "match_number": "12",
-                "format": 1,
-                "format_str": "ODI",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130147,
-                    "title": "ACC Mens Premier Cup",
-                    "abbr": "ACCMPC",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "odi",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-30",
-                    "dateend": "2026-09-12",
-                    "country": "int",
-                    "total_matches": "24",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 30519,
-                    "name": "Bahrain",
-                    "short_name": "BAH",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAH.webp"
-                },
-                "teamb": {
-                    "team_id": 19683,
-                    "name": "Saudi Arabia",
-                    "short_name": "SAU",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Saudi_Arabia.png"
-                },
-                "date_start": "2026-09-04 01:30:00",
-                "date_end": "2026-09-04 19:30:00",
-                "timestamp_start": 1788485400,
-                "timestamp_end": 1788550200,
-                "date_start_ist": "2026-09-04 07:00:00",
-                "date_end_ist": "2026-09-05 01:00:00",
-                "venue": {
-                    "venue_id": "299",
-                    "name": "UKM-YSD Cricket Oval",
-                    "location": "Bangi",
-                    "country": "Malaysia",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-09-03 20:37:50",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 28.24,
-                    "humidity": 80,
-                    "visibility": 10000,
-                    "wind_speed": "1.05",
-                    "clouds": 62
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Spinning Pitch",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Slow Spin"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -1070,6 +1070,6 @@
             }
         ]
     },
-    "timenow": "3rd September 2026 11:57 PM",
+    "timenow": "4th September 2026 02:34 AM",
     "timezone": "Asia/Dhaka"
 }
