@@ -78,12 +78,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 28.08,
-                    "humidity": 76,
+                    "weather_desc": "scattered clouds",
+                    "temp": 27.97,
+                    "humidity": 79,
                     "visibility": 10000,
-                    "wind_speed": "2.62",
-                    "clouds": 57
+                    "wind_speed": "3.44",
+                    "clouds": 50
                 },
                 "broadcast": "",
                 "pitch": {
@@ -1070,6 +1070,6 @@
             }
         ]
     },
-    "timenow": "5th September 2026 11:34 PM",
+    "timenow": "6th September 2026 01:25 AM",
     "timezone": "Asia/Dhaka"
 }
