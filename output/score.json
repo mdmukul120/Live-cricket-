@@ -79,10 +79,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 27.97,
-                    "humidity": 73,
+                    "temp": 26.22,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "3.04",
+                    "wind_speed": "0.96",
                     "clouds": 63
                 },
                 "broadcast": "",
@@ -181,10 +181,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 21.16,
-                    "humidity": 18,
+                    "temp": 11.16,
+                    "humidity": 30,
                     "visibility": 10000,
-                    "wind_speed": "3.44",
+                    "wind_speed": "4.61",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -1062,6 +1062,6 @@
             }
         ]
     },
-    "timenow": "7th September 2026 04:13 AM",
+    "timenow": "7th September 2026 05:55 AM",
     "timezone": "Asia/Dhaka"
 }
