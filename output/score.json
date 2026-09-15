@@ -40,9 +40,9 @@
                     "name": "England",
                     "short_name": "ENG",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/ENG.webp",
-                    "scores_full": "*216/3 (17 ov)",
-                    "scores": "216/3",
-                    "overs": "17"
+                    "scores_full": "*228/3 (17.5 ov)",
+                    "scores": "228/3",
+                    "overs": "17.5"
                 },
                 "teamb": {
                     "team_id": 21,
@@ -5196,6 +5196,6 @@
             }
         ]
     },
-    "timenow": "16th September 2026 12:54 AM",
+    "timenow": "16th September 2026 03:52 AM",
     "timezone": "Asia/Dhaka"
 }
