@@ -47,9 +47,9 @@
                     "name": "Sri Lanka",
                     "short_name": "SL",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "scores_full": "*141/7 (18.5 ov)",
+                    "scores_full": "*141/7 (19.1 ov)",
                     "scores": "141/7",
-                    "overs": "18.5"
+                    "overs": "19.1"
                 },
                 "date_start": "2026-09-17 17:30:00",
                 "date_end": "2026-09-18 03:30:00",
@@ -5203,6 +5203,6 @@
             }
         ]
     },
-    "timenow": "18th September 2026 12:57 AM",
+    "timenow": "18th September 2026 03:56 AM",
     "timezone": "Asia/Dhaka"
 }
