@@ -3,6 +3,108 @@
     "response": {
         "items": [
             {
+                "match_id": 98194,
+                "title": "Antigua and Barbuda Falcons vs Jamaica Kingsmen",
+                "short_title": "ABF vs JKM",
+                "subtitle": "Final",
+                "match_number": "39",
+                "format": 6,
+                "format_str": "T20",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "ABF elected to bowl",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
+                "domestic": "1",
+                "competition": {
+                    "cid": 130019,
+                    "title": "Caribbean Premier League",
+                    "abbr": "CPL 2026",
+                    "type": "tournament",
+                    "category": "domestic",
+                    "match_format": "t20",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-08-07",
+                    "dateend": "2026-09-21",
+                    "country": "wi",
+                    "total_matches": "39",
+                    "total_rounds": "1",
+                    "total_teams": "7"
+                },
+                "teama": {
+                    "team_id": 105486,
+                    "name": "Antigua and Barbuda Falcons",
+                    "short_name": "ABF",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Antigua_and_Barbuda.png",
+                    "scores_full": ""
+                },
+                "teamb": {
+                    "team_id": 18253,
+                    "name": "Jamaica Kingsmen",
+                    "short_name": "JKM",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/jamaica-5logo.png",
+                    "scores_full": "*74/2 (7.5 ov)",
+                    "scores": "74/2",
+                    "overs": "7.5"
+                },
+                "date_start": "2026-09-20 23:00:00",
+                "date_end": "2026-09-21 09:00:00",
+                "timestamp_start": 1789945200,
+                "timestamp_end": 1789981200,
+                "date_start_ist": "2026-09-21 04:30:00",
+                "date_end_ist": "2026-09-21 14:30:00",
+                "venue": {
+                    "venue_id": "36",
+                    "name": "Kensington Oval, Bridgetown",
+                    "location": "Barbados",
+                    "country": "West Indies",
+                    "timezone": ""
+                },
+                "umpires": "Deighton Butler (West Indies), Zahid Bassarath (West Indies), Leslie Reifer (West Indies, TV)",
+                "referee": "Reon King (West Indies)",
+                "equation": "",
+                "live": "ABF elected to bowl",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 1,
+                "presquad_time": "2026-09-19 09:06:39",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 28.29,
+                    "humidity": 83,
+                    "visibility": 10000,
+                    "wind_speed": "6.91",
+                    "clouds": 0
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Antigua and Barbuda Falcons elected to bowl",
+                    "winner": 105486,
+                    "decision": 2
+                },
+                "criteria_check": true,
+                "is_realtime": 0
+            },
+            {
                 "match_id": 99799,
                 "title": "Cayman Islands vs Bermuda",
                 "short_title": "CAY vs BER",
@@ -80,12 +182,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 31.51,
-                    "humidity": 49,
+                    "weather_desc": "overcast clouds",
+                    "temp": 26.29,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "4.61",
-                    "clouds": 27
+                    "wind_speed": "6.91",
+                    "clouds": 87
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -933,103 +1035,6 @@
                 "is_realtime": 0
             },
             {
-                "match_id": 98194,
-                "title": "Antigua and Barbuda Falcons vs Jamaica Kingsmen",
-                "short_title": "ABF vs JKM",
-                "subtitle": "Final",
-                "match_number": "39",
-                "format": 6,
-                "format_str": "T20",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "1",
-                "competition": {
-                    "cid": 130019,
-                    "title": "Caribbean Premier League",
-                    "abbr": "CPL 2026",
-                    "type": "tournament",
-                    "category": "domestic",
-                    "match_format": "t20",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-08-07",
-                    "dateend": "2026-09-21",
-                    "country": "wi",
-                    "total_matches": "39",
-                    "total_rounds": "1",
-                    "total_teams": "7"
-                },
-                "teama": {
-                    "team_id": 105486,
-                    "name": "Antigua and Barbuda Falcons",
-                    "short_name": "ABF",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Antigua_and_Barbuda.png"
-                },
-                "teamb": {
-                    "team_id": 18253,
-                    "name": "Jamaica Kingsmen",
-                    "short_name": "JKM",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/jamaica-5logo.png"
-                },
-                "date_start": "2026-09-20 23:00:00",
-                "date_end": "2026-09-21 09:00:00",
-                "timestamp_start": 1789945200,
-                "timestamp_end": 1789981200,
-                "date_start_ist": "2026-09-21 04:30:00",
-                "date_end_ist": "2026-09-21 14:30:00",
-                "venue": {
-                    "venue_id": "36",
-                    "name": "Kensington Oval, Bridgetown",
-                    "location": "Barbados",
-                    "country": "West Indies",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-09-19 09:06:39",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 30.29,
-                    "humidity": 79,
-                    "visibility": 10000,
-                    "wind_speed": "10.36",
-                    "clouds": 58
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "criteria_check": true,
-                "is_realtime": 0
-            },
-            {
                 "match_id": 98751,
                 "title": "Pakistan Women vs Bangladesh Women",
                 "short_title": "PAK-W vs BAN-W",
@@ -1114,9 +1119,9 @@
                 },
                 "broadcast": "Sony Sports Ten 1 HD, Sony Liv",
                 "pitch": {
-                    "pitch_condition": "Spinning Pitch",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Slow Spin"
                 },
                 "toss": {
@@ -1193,7 +1198,7 @@
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
-                "wagon": 2,
+                "wagon": 1,
                 "latest_inning_number": 0,
                 "presquad_time": "2026-09-20 19:35:33",
                 "verify_time": "",
@@ -1211,9 +1216,9 @@
                 },
                 "broadcast": "Sony Sports Ten 1 HD, Sony Liv",
                 "pitch": {
-                    "pitch_condition": "Spinning Pitch",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Slow Spin"
                 },
                 "toss": {
@@ -1221,6 +1226,102 @@
                     "decision": 0
                 },
                 "criteria_check": true,
+                "is_realtime": 0
+            },
+            {
+                "match_id": 99406,
+                "title": "Japan vs India",
+                "short_title": "JPN vs IND",
+                "subtitle": "One off T20I",
+                "match_number": "1",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130200,
+                    "title": "India tour of Japan",
+                    "abbr": "JAP vs IND",
+                    "type": "series",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "upcoming",
+                    "datestart": "2026-09-22",
+                    "dateend": "2026-09-22",
+                    "country": "int",
+                    "total_matches": "1",
+                    "total_rounds": "1",
+                    "total_teams": "2"
+                },
+                "teama": {
+                    "team_id": 15698,
+                    "name": "Japan",
+                    "short_name": "JPN",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Japan.png"
+                },
+                "teamb": {
+                    "team_id": 25,
+                    "name": "India",
+                    "short_name": "IND",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp"
+                },
+                "date_start": "2026-09-22 04:00:00",
+                "date_end": "2026-09-22 14:00:00",
+                "timestamp_start": 1790049600,
+                "timestamp_end": 1790085600,
+                "date_start_ist": "2026-09-22 09:30:00",
+                "date_end_ist": "2026-09-22 19:30:00",
+                "venue": {
+                    "venue_id": "1213354",
+                    "name": "Sano International Cricket Ground",
+                    "location": "Sano",
+                    "country": "Japan",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-09-19 21:50:31",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 22.56,
+                    "humidity": 92,
+                    "visibility": 10000,
+                    "wind_speed": 1.56,
+                    "clouds": 100
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Spinning Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Sharp Turn"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
                 "is_realtime": 0
             },
             {
@@ -5160,102 +5261,6 @@
                 "is_realtime": 0
             },
             {
-                "match_id": 99406,
-                "title": "Japan vs India",
-                "short_title": "JPN vs IND",
-                "subtitle": "One off T20I",
-                "match_number": "1",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130200,
-                    "title": "India tour of Japan",
-                    "abbr": "JAP vs IND",
-                    "type": "series",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "upcoming",
-                    "datestart": "2026-09-22",
-                    "dateend": "2026-09-22",
-                    "country": "int",
-                    "total_matches": "1",
-                    "total_rounds": "1",
-                    "total_teams": "2"
-                },
-                "teama": {
-                    "team_id": 15698,
-                    "name": "Japan",
-                    "short_name": "JPN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Japan.png"
-                },
-                "teamb": {
-                    "team_id": 25,
-                    "name": "India",
-                    "short_name": "IND",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp"
-                },
-                "date_start": "2026-09-22 04:00:00",
-                "date_end": "2026-09-22 14:00:00",
-                "timestamp_start": 1790049600,
-                "timestamp_end": 1790085600,
-                "date_start_ist": "2026-09-22 09:30:00",
-                "date_end_ist": "2026-09-22 19:30:00",
-                "venue": {
-                    "venue_id": "1213354",
-                    "name": "Sano International Cricket Ground",
-                    "location": "Sano",
-                    "country": "Japan",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-09-19 21:50:31",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 22.56,
-                    "humidity": 92,
-                    "visibility": 10000,
-                    "wind_speed": 1.56,
-                    "clouds": 100
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Spinning Pitch",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Slow Spin"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
                 "match_id": 95157,
                 "title": "England vs Sri Lanka",
                 "short_title": "ENG vs SL",
@@ -6044,6 +6049,6 @@
             }
         ]
     },
-    "timenow": "21st September 2026 03:54 AM",
+    "timenow": "21st September 2026 05:42 AM",
     "timezone": "Asia/Dhaka"
 }
