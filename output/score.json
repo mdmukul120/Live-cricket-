@@ -79,10 +79,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 21.85,
-                    "humidity": 96,
-                    "visibility": 10000,
-                    "wind_speed": "8.46",
+                    "temp": 20.9,
+                    "humidity": 97,
+                    "visibility": 9118,
+                    "wind_speed": "10.36",
                     "clouds": 100
                 },
                 "broadcast": "",
@@ -175,10 +175,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 21.85,
-                    "humidity": 96,
-                    "visibility": 10000,
-                    "wind_speed": "8.46",
+                    "temp": 20.9,
+                    "humidity": 97,
+                    "visibility": 9118,
+                    "wind_speed": "10.36",
                     "clouds": 100
                 },
                 "broadcast": "Fancode",
@@ -269,12 +269,12 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "moderate rain",
-                    "temp": 23.18,
-                    "humidity": 83,
-                    "visibility": 10000,
-                    "wind_speed": "8.68",
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 21.72,
+                    "humidity": 89,
+                    "visibility": 9915,
+                    "wind_speed": "9.40",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -365,12 +365,12 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "moderate rain",
-                    "temp": 22.85,
-                    "humidity": 73,
-                    "visibility": 10000,
-                    "wind_speed": "10.07",
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 21.72,
+                    "humidity": 89,
+                    "visibility": 9915,
+                    "wind_speed": "9.40",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -463,11 +463,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 18.38,
-                    "humidity": 91,
+                    "temp": 26.44,
+                    "humidity": 62,
                     "visibility": 10000,
-                    "wind_speed": "4.14",
-                    "clouds": 8
+                    "wind_speed": "8.32",
+                    "clouds": 2
                 },
                 "broadcast": "",
                 "pitch": {
@@ -4534,6 +4534,6 @@
             }
         ]
     },
-    "timenow": "23rd September 2026 10:54 AM",
+    "timenow": "23rd September 2026 03:39 PM",
     "timezone": "Asia/Dhaka"
 }
