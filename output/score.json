@@ -77,13 +77,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 24.06,
-                    "humidity": 31,
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 26.21,
+                    "humidity": 23,
                     "visibility": 10000,
-                    "wind_speed": "10.18",
-                    "clouds": 16
+                    "wind_speed": "10.76",
+                    "clouds": 8
                 },
                 "broadcast": "",
                 "pitch": {
@@ -175,10 +175,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 26.17,
-                    "humidity": 88,
+                    "temp": 29.09,
+                    "humidity": 81,
                     "visibility": 10000,
-                    "wind_speed": "8.66",
+                    "wind_speed": "10.96",
                     "clouds": 100
                 },
                 "broadcast": "Star Sports Network, DD Sports, JioHotstar",
@@ -270,12 +270,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 13.89,
-                    "humidity": 77,
+                    "weather_desc": "scattered clouds",
+                    "temp": 20.55,
+                    "humidity": 42,
                     "visibility": 10000,
-                    "wind_speed": "5.82",
-                    "clouds": 100
+                    "wind_speed": "2.53",
+                    "clouds": 33
                 },
                 "broadcast": "Youtube",
                 "pitch": {
@@ -291,97 +291,9 @@
                 "is_realtime": 0
             },
             {
-                "match_id": 98988,
-                "title": "Pakistan vs TBA",
-                "short_title": "PAK vs TBA",
-                "subtitle": "1st Quarter Final",
-                "match_number": "7",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130058,
-                    "title": "Asian Games in Japan Men's",
-                    "abbr": "Asian Games",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-09-24",
-                    "dateend": "2026-10-03",
-                    "country": "int",
-                    "total_matches": "14",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 13,
-                    "name": "Pakistan",
-                    "short_name": "PAK",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp"
-                },
-                "teamb": {
-                    "team_id": 127770,
-                    "name": "TBA",
-                    "short_name": "TBA",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2021/09/team-120x120.png"
-                },
-                "date_start": "2026-09-28 00:00:00",
-                "date_end": "2026-09-28 10:00:00",
-                "timestamp_start": 1790553600,
-                "timestamp_end": 1790589600,
-                "date_start_ist": "2026-09-28 05:30:00",
-                "date_end_ist": "2026-09-28 15:30:00",
-                "venue": {
-                    "venue_id": "1213774",
-                    "name": "Korogi Sports Park",
-                    "location": "Nisshin",
-                    "country": "Japan",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "Sony Sports TEN Network , Sony Liv",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
                 "match_id": 98989,
-                "title": "India vs TBA",
-                "short_title": "IND vs TBA",
+                "title": "India vs Afghanistan",
+                "short_title": "IND vs AFG",
                 "subtitle": "2nd Quarter Final",
                 "match_number": "8",
                 "format": 3,
@@ -418,10 +330,10 @@
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp"
                 },
                 "teamb": {
-                    "team_id": 127770,
-                    "name": "TBA",
-                    "short_name": "TBA",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2021/09/team-120x120.png"
+                    "team_id": 498,
+                    "name": "Afghanistan",
+                    "short_name": "AFG",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/AF.webp"
                 },
                 "date_start": "2026-09-28 05:00:00",
                 "date_end": "2026-09-28 15:00:00",
@@ -456,9 +368,97 @@
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
                     "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98988,
+                "title": "Pakistan vs Hong Kong",
+                "short_title": "PAK vs HK",
+                "subtitle": "1st Quarter Final",
+                "match_number": "7",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "false",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130058,
+                    "title": "Asian Games in Japan Men's",
+                    "abbr": "Asian Games",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-09-24",
+                    "dateend": "2026-10-03",
+                    "country": "int",
+                    "total_matches": "14",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 13,
+                    "name": "Pakistan",
+                    "short_name": "PAK",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp"
+                },
+                "teamb": {
+                    "team_id": 1544,
+                    "name": "Hong Kong",
+                    "short_name": "HK",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png"
+                },
+                "date_start": "2026-09-28 00:00:00",
+                "date_end": "2026-09-28 10:00:00",
+                "timestamp_start": 1790553600,
+                "timestamp_end": 1790589600,
+                "date_start_ist": "2026-09-28 05:30:00",
+                "date_end_ist": "2026-09-28 15:30:00",
+                "venue": {
+                    "venue_id": "1213774",
+                    "name": "Korogi Sports Park",
+                    "location": "Nisshin",
+                    "country": "Japan",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": [],
+                "broadcast": "Sony Sports TEN Network , Sony Liv",
+                "pitch": {
+                    "pitch_condition": "",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
                     "winner": 0,
@@ -983,6 +983,6 @@
             }
         ]
     },
-    "timenow": "26th September 2026 03:39 PM",
+    "timenow": "26th September 2026 07:52 PM",
     "timezone": "Asia/Dhaka"
 }
