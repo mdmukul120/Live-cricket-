@@ -60,8 +60,8 @@
                     "country": "South Africa",
                     "timezone": ""
                 },
-                "umpires": "",
-                "referee": "",
+                "umpires": "Arno Jacobs South (Africa), Richard Illingworth (England), Asif Yaqoob (Pakistan, TV)",
+                "referee": "Javagal Srinath (India)",
                 "equation": "",
                 "live": "",
                 "result": "",
@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 17.59,
-                    "humidity": 62,
+                    "temp": 17.92,
+                    "humidity": 57,
                     "visibility": 10000,
-                    "wind_speed": "9.93",
-                    "clouds": 66
+                    "wind_speed": "8.16",
+                    "clouds": 70
                 },
                 "broadcast": "",
                 "pitch": {
@@ -174,12 +174,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 25.96,
-                    "humidity": 89,
+                    "weather_desc": "scattered clouds",
+                    "temp": 31.42,
+                    "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": "7.65",
-                    "clouds": 98
+                    "wind_speed": "10.27",
+                    "clouds": 46
                 },
                 "broadcast": "Star Sports Network, DD Sports, JioHotstar",
                 "pitch": {
@@ -271,15 +271,111 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 12.31,
-                    "humidity": 75,
+                    "temp": 12.3,
+                    "humidity": 88,
                     "visibility": 10000,
-                    "wind_speed": "3.22",
-                    "clouds": 99
+                    "wind_speed": "5.70",
+                    "clouds": 96
                 },
                 "broadcast": "Youtube",
                 "pitch": {
                     "pitch_condition": "Spinning Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Slow Spin"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 98988,
+                "title": "Pakistan vs Hong Kong",
+                "short_title": "PAK vs HK",
+                "subtitle": "1st Quarter Final",
+                "match_number": "7",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130058,
+                    "title": "Asian Games in Japan Men's",
+                    "abbr": "Asian Games",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-09-24",
+                    "dateend": "2026-10-03",
+                    "country": "int",
+                    "total_matches": "14",
+                    "total_rounds": "2",
+                    "total_teams": "10"
+                },
+                "teama": {
+                    "team_id": 13,
+                    "name": "Pakistan",
+                    "short_name": "PAK",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp"
+                },
+                "teamb": {
+                    "team_id": 1544,
+                    "name": "Hong Kong",
+                    "short_name": "HK",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png"
+                },
+                "date_start": "2026-09-28 00:00:00",
+                "date_end": "2026-09-28 10:00:00",
+                "timestamp_start": 1790553600,
+                "timestamp_end": 1790589600,
+                "date_start_ist": "2026-09-28 05:30:00",
+                "date_end_ist": "2026-09-28 15:30:00",
+                "venue": {
+                    "venue_id": "1213774",
+                    "name": "Korogi Sports Park",
+                    "location": "Nisshin",
+                    "country": "Japan",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-09-26 23:53:24",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 23.97,
+                    "humidity": 74,
+                    "visibility": 10000,
+                    "wind_speed": "7.31",
+                    "clouds": 100
+                },
+                "broadcast": "Sony Sports TEN Network , Sony Liv",
+                "pitch": {
+                    "pitch_condition": "Flat Track Pitch",
                     "batting_condition": "Average",
                     "pace_bowling_condition": "Swing Favourable",
                     "spine_bowling_condition": "Slow Spin"
@@ -365,115 +461,19 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "moderate rain",
-                    "temp": 19.16,
-                    "humidity": 93,
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 21.97,
+                    "humidity": 79,
                     "visibility": 10000,
-                    "wind_speed": 4.15,
+                    "wind_speed": "9.69",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
-                    "pitch_condition": "",
+                    "pitch_condition": "Flat Track Pitch",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98988,
-                "title": "Pakistan vs Hong Kong",
-                "short_title": "PAK vs HK",
-                "subtitle": "1st Quarter Final",
-                "match_number": "7",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130058,
-                    "title": "Asian Games in Japan Men's",
-                    "abbr": "Asian Games",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-09-24",
-                    "dateend": "2026-10-03",
-                    "country": "int",
-                    "total_matches": "14",
-                    "total_rounds": "2",
-                    "total_teams": "10"
-                },
-                "teama": {
-                    "team_id": 13,
-                    "name": "Pakistan",
-                    "short_name": "PAK",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/PAK.webp"
-                },
-                "teamb": {
-                    "team_id": 1544,
-                    "name": "Hong Kong",
-                    "short_name": "HK",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png"
-                },
-                "date_start": "2026-09-28 00:00:00",
-                "date_end": "2026-09-28 10:00:00",
-                "timestamp_start": 1790553600,
-                "timestamp_end": 1790589600,
-                "date_start_ist": "2026-09-28 05:30:00",
-                "date_end_ist": "2026-09-28 15:30:00",
-                "venue": {
-                    "venue_id": "1213774",
-                    "name": "Korogi Sports Park",
-                    "location": "Nisshin",
-                    "country": "Japan",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-09-26 23:53:24",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "moderate rain",
-                    "temp": 19.2,
-                    "humidity": 88,
-                    "visibility": 10000,
-                    "wind_speed": 4.35,
-                    "clouds": 100
-                },
-                "broadcast": "Sony Sports TEN Network , Sony Liv",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Average"
                 },
                 "toss": {
@@ -999,6 +999,6 @@
             }
         ]
     },
-    "timenow": "27th September 2026 06:51 AM",
+    "timenow": "27th September 2026 11:53 AM",
     "timezone": "Asia/Dhaka"
 }
