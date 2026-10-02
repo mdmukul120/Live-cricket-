@@ -79,10 +79,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 21.4,
+                    "temp": 20.47,
                     "humidity": 80,
-                    "visibility": 10000,
-                    "wind_speed": "16.42",
+                    "visibility": 9634,
+                    "wind_speed": "10.04",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -175,10 +175,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 23.2,
-                    "humidity": 78,
-                    "visibility": 10000,
-                    "wind_speed": "16.84",
+                    "temp": 20.47,
+                    "humidity": 80,
+                    "visibility": 9634,
+                    "wind_speed": "10.04",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -888,6 +888,6 @@
             }
         ]
     },
-    "timenow": "2nd October 2026 08:10 AM",
+    "timenow": "2nd October 2026 02:28 PM",
     "timezone": "Asia/Dhaka"
 }
