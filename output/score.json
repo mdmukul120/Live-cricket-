@@ -60,8 +60,8 @@
                     "country": "Japan",
                     "timezone": ""
                 },
-                "umpires": "",
-                "referee": "",
+                "umpires": "Faisal Afridi (Pakistan), Nitin Menon (India), Viswanadan Kalidas (Malaysia, TV)",
+                "referee": "Kamran Chaudary (Pakistan)",
                 "equation": "",
                 "live": "",
                 "result": "",
@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 19,
-                    "humidity": 77,
+                    "temp": 18.78,
+                    "humidity": 72,
                     "visibility": 10000,
-                    "wind_speed": "12.06",
-                    "clouds": 100
+                    "wind_speed": "11.52",
+                    "clouds": 99
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -156,8 +156,8 @@
                     "country": "Japan",
                     "timezone": ""
                 },
-                "umpires": "",
-                "referee": "",
+                "umpires": "Gazi Sohel (Bangladesh), Prageeth Rambukwella (Sri Lanka), Viswanadan Kalidas (Malaysia, TV)",
+                "referee": "Graeme Labrooy (Sri Lanka)",
                 "equation": "",
                 "live": "",
                 "result": "",
@@ -173,13 +173,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 19.04,
-                    "humidity": 79,
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 18.78,
+                    "humidity": 72,
                     "visibility": 10000,
-                    "wind_speed": "11.50",
-                    "clouds": 98
+                    "wind_speed": "11.52",
+                    "clouds": 99
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -888,6 +888,6 @@
             }
         ]
     },
-    "timenow": "2nd October 2026 08:54 PM",
+    "timenow": "3rd October 2026 01:42 AM",
     "timezone": "Asia/Dhaka"
 }
