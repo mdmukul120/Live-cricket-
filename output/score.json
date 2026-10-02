@@ -79,10 +79,10 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 20.47,
-                    "humidity": 80,
-                    "visibility": 9634,
-                    "wind_speed": "10.04",
+                    "temp": 19,
+                    "humidity": 77,
+                    "visibility": 10000,
+                    "wind_speed": "12.06",
                     "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
@@ -173,13 +173,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 20.47,
-                    "humidity": 80,
-                    "visibility": 9634,
-                    "wind_speed": "10.04",
-                    "clouds": 100
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 19.04,
+                    "humidity": 79,
+                    "visibility": 10000,
+                    "wind_speed": "11.50",
+                    "clouds": 98
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -271,10 +271,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 21.92,
-                    "humidity": 70,
+                    "temp": 29.42,
+                    "humidity": 41,
                     "visibility": 10000,
-                    "wind_speed": "2.26",
+                    "wind_speed": "8.59",
                     "clouds": 0
                 },
                 "broadcast": "Star Sports Network, DD Sports, JioHotstar",
@@ -888,6 +888,6 @@
             }
         ]
     },
-    "timenow": "2nd October 2026 02:28 PM",
+    "timenow": "2nd October 2026 08:54 PM",
     "timezone": "Asia/Dhaka"
 }
