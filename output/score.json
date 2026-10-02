@@ -79,17 +79,113 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 18.78,
-                    "humidity": 72,
+                    "temp": 18.51,
+                    "humidity": 70,
                     "visibility": 10000,
-                    "wind_speed": "11.52",
-                    "clouds": 99
+                    "wind_speed": "13.69",
+                    "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
                     "pitch_condition": "Flat Track Pitch",
                     "batting_condition": "Average",
                     "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 99946,
+                "title": "South Korea vs Indonesia",
+                "short_title": "SK vs INA",
+                "subtitle": "1st Match",
+                "match_number": "1",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130223,
+                    "title": "Indonesia tour of South Korea",
+                    "abbr": "SK vs INA",
+                    "type": "tour",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "upcoming",
+                    "datestart": "2026-10-03",
+                    "dateend": "2026-10-05",
+                    "country": "int",
+                    "total_matches": "4",
+                    "total_rounds": "1",
+                    "total_teams": "2"
+                },
+                "teama": {
+                    "team_id": 26804,
+                    "name": "South Korea",
+                    "short_name": "SK",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/South_Korea.png"
+                },
+                "teamb": {
+                    "team_id": 112687,
+                    "name": "Indonesia",
+                    "short_name": "INA",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Indonesia.png"
+                },
+                "date_start": "2026-10-03 01:00:00",
+                "date_end": "2026-10-03 11:00:00",
+                "timestamp_start": 1790989200,
+                "timestamp_end": 1791025200,
+                "date_start_ist": "2026-10-03 06:30:00",
+                "date_end_ist": "2026-10-03 16:30:00",
+                "venue": {
+                    "venue_id": "1213645",
+                    "name": "Yeonhui Cricket Ground",
+                    "location": "Incheon",
+                    "country": "South Korea",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-10-03 02:45:33",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "overcast clouds",
+                    "temp": 10.88,
+                    "humidity": 65,
+                    "visibility": 10000,
+                    "wind_speed": "3.80",
+                    "clouds": 100
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Average"
                 },
                 "toss": {
@@ -175,11 +271,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "overcast clouds",
-                    "temp": 18.78,
-                    "humidity": 72,
+                    "temp": 18.51,
+                    "humidity": 70,
                     "visibility": 10000,
-                    "wind_speed": "11.52",
-                    "clouds": 99
+                    "wind_speed": "13.69",
+                    "clouds": 100
                 },
                 "broadcast": "Sony Sports TEN Network , Sony Liv",
                 "pitch": {
@@ -271,10 +367,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 29.42,
-                    "humidity": 41,
+                    "temp": 22.19,
+                    "humidity": 50,
                     "visibility": 10000,
-                    "wind_speed": "8.59",
+                    "wind_speed": "2.95",
                     "clouds": 0
                 },
                 "broadcast": "Star Sports Network, DD Sports, JioHotstar",
@@ -486,94 +582,6 @@
                     "text": "Sri Lanka elected to bowl",
                     "winner": 21,
                     "decision": 2
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 99946,
-                "title": "South Korea vs Indonesia",
-                "short_title": "SK vs INA",
-                "subtitle": "1st Match",
-                "match_number": "1",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "false",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130223,
-                    "title": "Indonesia tour of South Korea",
-                    "abbr": "SK vs INA",
-                    "type": "tour",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "upcoming",
-                    "datestart": "2026-10-03",
-                    "dateend": "2026-10-05",
-                    "country": "int",
-                    "total_matches": "4",
-                    "total_rounds": "1",
-                    "total_teams": "2"
-                },
-                "teama": {
-                    "team_id": 26804,
-                    "name": "South Korea",
-                    "short_name": "SK",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/South_Korea.png"
-                },
-                "teamb": {
-                    "team_id": 112687,
-                    "name": "Indonesia",
-                    "short_name": "INA",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2020/12/Indonesia.png"
-                },
-                "date_start": "2026-10-03 01:00:00",
-                "date_end": "2026-10-03 11:00:00",
-                "timestamp_start": 1790989200,
-                "timestamp_end": 1791025200,
-                "date_start_ist": "2026-10-03 06:30:00",
-                "date_end_ist": "2026-10-03 16:30:00",
-                "venue": {
-                    "venue_id": "1213645",
-                    "name": "Yeonhui Cricket Ground",
-                    "location": "Incheon",
-                    "country": "South Korea",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": [],
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "",
-                    "pace_bowling_condition": "",
-                    "spine_bowling_condition": ""
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -888,6 +896,6 @@
             }
         ]
     },
-    "timenow": "3rd October 2026 01:42 AM",
+    "timenow": "3rd October 2026 05:16 AM",
     "timezone": "Asia/Dhaka"
 }
