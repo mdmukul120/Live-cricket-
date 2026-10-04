@@ -12,7 +12,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "IND-L elected to bowl",
+                "status_note": "IND-L need 107 runs in 10.0 remaining overs",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -40,16 +40,18 @@
                     "name": "India Champions",
                     "short_name": "IND-L",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/05/Rectangle-3461-843.png",
-                    "scores_full": ""
+                    "scores_full": "*86/5 (10 ov)",
+                    "scores": "86/5",
+                    "overs": "10"
                 },
                 "teamb": {
                     "team_id": 128478,
                     "name": "England Champions",
                     "short_name": "ENG-L",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/05/Rectangle-3461-845.png",
-                    "scores_full": "*184/3 (19 ov)",
-                    "scores": "184/3",
-                    "overs": "19"
+                    "scores_full": "192/4 (20 ov)",
+                    "scores": "192/4",
+                    "overs": "20"
                 },
                 "date_start": "2026-10-04 15:30:00",
                 "date_end": "2026-10-05 01:30:00",
@@ -67,14 +69,14 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "IND-L elected to bowl",
+                "live": "IND-L need 107 runs in 10.0 remaining overs",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
                 "wagon": 2,
-                "latest_inning_number": 1,
+                "latest_inning_number": 2,
                 "presquad_time": "2026-10-02 21:51:48",
                 "verify_time": "",
                 "match_dls_affected": "false",
@@ -83,11 +85,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 32.36,
+                    "temp": 32.15,
                     "humidity": 75,
                     "visibility": 10000,
-                    "wind_speed": "6.11",
-                    "clouds": 10
+                    "wind_speed": "6.62",
+                    "clouds": 5
                 },
                 "broadcast": "",
                 "pitch": {
@@ -185,13 +187,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 32.51,
-                    "humidity": 74,
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 32.34,
+                    "humidity": 75,
                     "visibility": 10000,
-                    "wind_speed": "5.46",
-                    "clouds": 31
+                    "wind_speed": "6.11",
+                    "clouds": 10
                 },
                 "broadcast": "",
                 "pitch": {
@@ -284,12 +286,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 27.58,
-                    "humidity": 82,
+                    "weather_desc": "overcast clouds",
+                    "temp": 27.09,
+                    "humidity": 83,
                     "visibility": 10000,
-                    "wind_speed": "4.05",
-                    "clouds": 63
+                    "wind_speed": "3.58",
+                    "clouds": 88
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -380,12 +382,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "scattered clouds",
-                    "temp": 27.73,
-                    "humidity": 84,
+                    "weather_desc": "broken clouds",
+                    "temp": 27.36,
+                    "humidity": 85,
                     "visibility": 10000,
-                    "wind_speed": "1.23",
-                    "clouds": 37
+                    "wind_speed": "0.89",
+                    "clouds": 60
                 },
                 "broadcast": "Fancode",
                 "pitch": {
@@ -5846,6 +5848,6 @@
             }
         ]
     },
-    "timenow": "4th October 2026 11:41 PM",
+    "timenow": "5th October 2026 02:27 AM",
     "timezone": "Asia/Dhaka"
 }
