@@ -79,11 +79,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 37.15,
-                    "humidity": 41,
+                    "temp": 29.92,
+                    "humidity": 80,
                     "visibility": 10000,
-                    "wind_speed": "8.41",
-                    "clouds": 4
+                    "wind_speed": "4.38",
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -173,19 +173,19 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 27.93,
-                    "humidity": 80,
+                    "weather": "Clouds",
+                    "weather_desc": "broken clouds",
+                    "temp": 27.08,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "2.17",
-                    "clouds": 54
+                    "wind_speed": "1.83",
+                    "clouds": 80
                 },
                 "broadcast": "Fancode",
                 "pitch": {
-                    "pitch_condition": "",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Average"
                 },
                 "toss": {
@@ -269,19 +269,19 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Rain",
-                    "weather_desc": "light rain",
-                    "temp": 27.65,
-                    "humidity": 81,
+                    "weather": "Clouds",
+                    "weather_desc": "broken clouds",
+                    "temp": 26.71,
+                    "humidity": 85,
                     "visibility": 10000,
-                    "wind_speed": "1.86",
-                    "clouds": 56
+                    "wind_speed": "1.97",
+                    "clouds": 67
                 },
                 "broadcast": "Fancode",
                 "pitch": {
-                    "pitch_condition": "",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Average"
                 },
                 "toss": {
@@ -367,17 +367,17 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 27.45,
-                    "humidity": 85,
+                    "temp": 26.61,
+                    "humidity": 87,
                     "visibility": 10000,
-                    "wind_speed": "4.54",
-                    "clouds": 60
+                    "wind_speed": "4.05",
+                    "clouds": 73
                 },
                 "broadcast": "Fancode",
                 "pitch": {
-                    "pitch_condition": "",
+                    "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
                     "spine_bowling_condition": "Average"
                 },
                 "toss": {
@@ -462,12 +462,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 27.84,
-                    "humidity": 86,
+                    "weather_desc": "scattered clouds",
+                    "temp": 27.75,
+                    "humidity": 87,
                     "visibility": 10000,
-                    "wind_speed": "30.33",
-                    "clouds": 100
+                    "wind_speed": "25.77",
+                    "clouds": 49
                 },
                 "broadcast": "",
                 "pitch": {
@@ -559,11 +559,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 30.71,
-                    "humidity": 67,
+                    "temp": 29.08,
+                    "humidity": 70,
                     "visibility": 10000,
-                    "wind_speed": "3.24",
-                    "clouds": 1
+                    "wind_speed": "1.92",
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5692,6 +5692,6 @@
             }
         ]
     },
-    "timenow": "9th October 2026 01:31 AM",
+    "timenow": "9th October 2026 05:53 AM",
     "timezone": "Asia/Dhaka"
 }
