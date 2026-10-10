@@ -85,10 +85,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 31.31,
-                    "humidity": 72,
+                    "temp": 30.7,
+                    "humidity": 76,
                     "visibility": 10000,
-                    "wind_speed": "2.44",
+                    "wind_speed": "0.94",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -115,7 +115,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "SA-L need 143 runs in 14.1 remaining overs",
+                "status_note": "SA-L need 25 runs in 21 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -152,9 +152,9 @@
                     "name": "South Africa Champions",
                     "short_name": "SA-L",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/05/Rectangle-3461-842.png",
-                    "scores_full": "*54/3 (5.5 ov)",
-                    "scores": "54/3",
-                    "overs": "5.5"
+                    "scores_full": "*172/5 (16.3 ov)",
+                    "scores": "172/5",
+                    "overs": "16.3"
                 },
                 "date_start": "2026-10-10 15:30:00",
                 "date_end": "2026-10-11 01:30:00",
@@ -172,7 +172,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "SA-L need 143 runs in 14.1 remaining overs",
+                "live": "SA-L need 25 runs in 21 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -188,11 +188,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 32.51,
-                    "humidity": 72,
+                    "temp": 32.3,
+                    "humidity": 73,
                     "visibility": 10000,
-                    "wind_speed": "2.15",
-                    "clouds": 1
+                    "wind_speed": "0.81",
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -292,11 +292,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "broken clouds",
-                    "temp": 22.28,
-                    "humidity": 91,
+                    "temp": 22.67,
+                    "humidity": 90,
                     "visibility": 10000,
-                    "wind_speed": "5.01",
-                    "clouds": 69
+                    "wind_speed": "4.21",
+                    "clouds": 66
                 },
                 "broadcast": "",
                 "pitch": {
@@ -5873,6 +5873,6 @@
             }
         ]
     },
-    "timenow": "11th October 2026 12:02 AM",
+    "timenow": "11th October 2026 03:32 AM",
     "timezone": "Asia/Dhaka"
 }
