@@ -84,12 +84,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 32.29,
-                    "humidity": 77,
+                    "weather_desc": "overcast clouds",
+                    "temp": 30.84,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "6.85",
-                    "clouds": 11
+                    "wind_speed": "5.53",
+                    "clouds": 86
                 },
                 "broadcast": "",
                 "pitch": {
@@ -188,11 +188,11 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 23.6,
-                    "humidity": 78,
+                    "temp": 22.48,
+                    "humidity": 82,
                     "visibility": 10000,
-                    "wind_speed": "9.10",
-                    "clouds": 33
+                    "wind_speed": "6.93",
+                    "clouds": 50
                 },
                 "broadcast": "",
                 "pitch": {
@@ -290,11 +290,11 @@
                 "session": "0",
                 "weather": {
                     "weather": "Rain",
-                    "weather_desc": "moderate rain",
-                    "temp": 27.38,
-                    "humidity": 87,
+                    "weather_desc": "light rain",
+                    "temp": 27.24,
+                    "humidity": 88,
                     "visibility": 10000,
-                    "wind_speed": "2.75",
+                    "wind_speed": "2.37",
                     "clouds": 100
                 },
                 "broadcast": "Fancode",
@@ -394,10 +394,10 @@
                 "weather": {
                     "weather": "Rain",
                     "weather_desc": "moderate rain",
-                    "temp": 27.52,
-                    "humidity": 89,
+                    "temp": 27.37,
+                    "humidity": 90,
                     "visibility": 10000,
-                    "wind_speed": "2.15",
+                    "wind_speed": "2.21",
                     "clouds": 100
                 },
                 "broadcast": "Fancode",
@@ -5895,6 +5895,6 @@
             }
         ]
     },
-    "timenow": "12th October 2026 09:45 PM",
+    "timenow": "13th October 2026 04:37 AM",
     "timezone": "Asia/Dhaka"
 }
