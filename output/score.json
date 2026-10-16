@@ -3,6 +3,102 @@
     "response": {
         "items": [
             {
+                "match_id": 99751,
+                "title": "Bangladesh vs Zimbabwe",
+                "short_title": "BAN vs ZIM",
+                "subtitle": "1st Match",
+                "match_number": "1",
+                "format": 1,
+                "format_str": "ODI",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130207,
+                    "title": "ODI Tri-Nation Series in UAE",
+                    "abbr": "Tri-Series",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "odi",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-10-17",
+                    "dateend": "2026-10-23",
+                    "country": "int",
+                    "total_matches": "4",
+                    "total_rounds": "1",
+                    "total_teams": "3"
+                },
+                "teama": {
+                    "team_id": 23,
+                    "name": "Bangladesh",
+                    "short_name": "BAN",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp"
+                },
+                "teamb": {
+                    "team_id": 493,
+                    "name": "Zimbabwe",
+                    "short_name": "ZIM",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Zimbawe.png"
+                },
+                "date_start": "2026-10-17 12:00:00",
+                "date_end": "2026-10-18 06:00:00",
+                "timestamp_start": 1792238400,
+                "timestamp_end": 1792303200,
+                "date_start_ist": "2026-10-17 17:30:00",
+                "date_end_ist": "2026-10-18 11:30:00",
+                "venue": {
+                    "venue_id": "99",
+                    "name": "Sheikh Zayed Stadium",
+                    "location": "Abu Dhabi",
+                    "country": "United Arab Emirates",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-10-13 18:43:22",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 27,
+                    "humidity": 95,
+                    "visibility": 8974,
+                    "wind_speed": "0.78",
+                    "clouds": 2
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Fast & Bounce",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
                 "match_id": 99856,
                 "title": "South Africa Champions vs England Champions",
                 "short_title": "SA-L vs ENG-L",
@@ -79,11 +175,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 27.03,
-                    "humidity": 93,
-                    "visibility": 10000,
-                    "wind_speed": "6.85",
-                    "clouds": 1
+                    "temp": 35.87,
+                    "humidity": 51,
+                    "visibility": 7235,
+                    "wind_speed": "7.38",
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -176,11 +272,11 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 27.03,
-                    "humidity": 93,
-                    "visibility": 10000,
-                    "wind_speed": "6.85",
-                    "clouds": 1
+                    "temp": 35.87,
+                    "humidity": 51,
+                    "visibility": 7235,
+                    "wind_speed": "7.38",
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -194,6 +290,102 @@
                     "decision": 0
                 },
                 "criteria_check": true,
+                "is_realtime": 0
+            },
+            {
+                "match_id": 99730,
+                "title": "Canada vs Nepal",
+                "short_title": "CAN vs NEP",
+                "subtitle": "Match 138",
+                "match_number": "138",
+                "format": 1,
+                "format_str": "ODI",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 128457,
+                    "title": "ICC CWC League 2 ",
+                    "abbr": "ICCCWCL2 ",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "odi",
+                    "season": "2024",
+                    "status": "live",
+                    "datestart": "2024-02-15",
+                    "dateend": "2027-05-16",
+                    "country": "int",
+                    "total_matches": "139",
+                    "total_rounds": "1",
+                    "total_teams": "8"
+                },
+                "teama": {
+                    "team_id": 6791,
+                    "name": "Canada",
+                    "short_name": "CAN",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/CANADA.png"
+                },
+                "teamb": {
+                    "team_id": 10814,
+                    "name": "Nepal",
+                    "short_name": "NEP",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Nepal.png"
+                },
+                "date_start": "2026-10-17 05:30:00",
+                "date_end": "2026-10-17 23:30:00",
+                "timestamp_start": 1792215000,
+                "timestamp_end": 1792279800,
+                "date_start_ist": "2026-10-17 11:00:00",
+                "date_end_ist": "2026-10-18 05:00:00",
+                "venue": {
+                    "venue_id": "327",
+                    "name": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+                    "location": "Al Amarat",
+                    "country": "Oman",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-10-15 13:50:50",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 38.39,
+                    "humidity": 24,
+                    "visibility": 10000,
+                    "wind_speed": "10.36",
+                    "clouds": 0
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
                 "is_realtime": 0
             },
             {
@@ -804,198 +996,6 @@
                     "text": "Hong Kong elected to bat",
                     "winner": 1544,
                     "decision": 1
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 99730,
-                "title": "Canada vs Nepal",
-                "short_title": "CAN vs NEP",
-                "subtitle": "Match 138",
-                "match_number": "138",
-                "format": 1,
-                "format_str": "ODI",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 128457,
-                    "title": "ICC CWC League 2 ",
-                    "abbr": "ICCCWCL2 ",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "odi",
-                    "season": "2024",
-                    "status": "live",
-                    "datestart": "2024-02-15",
-                    "dateend": "2027-05-16",
-                    "country": "int",
-                    "total_matches": "139",
-                    "total_rounds": "1",
-                    "total_teams": "8"
-                },
-                "teama": {
-                    "team_id": 6791,
-                    "name": "Canada",
-                    "short_name": "CAN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/CANADA.png"
-                },
-                "teamb": {
-                    "team_id": 10814,
-                    "name": "Nepal",
-                    "short_name": "NEP",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Nepal.png"
-                },
-                "date_start": "2026-10-17 05:30:00",
-                "date_end": "2026-10-17 23:30:00",
-                "timestamp_start": 1792215000,
-                "timestamp_end": 1792279800,
-                "date_start_ist": "2026-10-17 11:00:00",
-                "date_end_ist": "2026-10-18 05:00:00",
-                "venue": {
-                    "venue_id": "327",
-                    "name": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
-                    "location": "Al Amarat",
-                    "country": "Oman",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-10-15 13:50:50",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 28.44,
-                    "humidity": 70,
-                    "visibility": 10000,
-                    "wind_speed": "1.43",
-                    "clouds": 0
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 99751,
-                "title": "Bangladesh vs Zimbabwe",
-                "short_title": "BAN vs ZIM",
-                "subtitle": "1st Match",
-                "match_number": "1",
-                "format": 1,
-                "format_str": "ODI",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130207,
-                    "title": "ODI Tri-Nation Series in UAE",
-                    "abbr": "Tri-Series",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "odi",
-                    "season": "2026",
-                    "status": "upcoming",
-                    "datestart": "2026-10-17",
-                    "dateend": "2026-10-23",
-                    "country": "int",
-                    "total_matches": "4",
-                    "total_rounds": "1",
-                    "total_teams": "3"
-                },
-                "teama": {
-                    "team_id": 23,
-                    "name": "Bangladesh",
-                    "short_name": "BAN",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/BAN.webp"
-                },
-                "teamb": {
-                    "team_id": 493,
-                    "name": "Zimbabwe",
-                    "short_name": "ZIM",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Zimbawe.png"
-                },
-                "date_start": "2026-10-17 12:00:00",
-                "date_end": "2026-10-18 06:00:00",
-                "timestamp_start": 1792238400,
-                "timestamp_end": 1792303200,
-                "date_start_ist": "2026-10-17 17:30:00",
-                "date_end_ist": "2026-10-18 11:30:00",
-                "venue": {
-                    "venue_id": "99",
-                    "name": "Sheikh Zayed Stadium",
-                    "location": "Abu Dhabi",
-                    "country": "United Arab Emirates",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-10-13 18:43:22",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 27,
-                    "humidity": 95,
-                    "visibility": 8974,
-                    "wind_speed": "0.78",
-                    "clouds": 2
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Fast & Bounce",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Swing Favourable",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
                 },
                 "is_realtime": 0
             },
@@ -5742,6 +5742,6 @@
             }
         ]
     },
-    "timenow": "16th October 2026 08:47 AM",
+    "timenow": "16th October 2026 01:32 PM",
     "timezone": "Asia/Dhaka"
 }
