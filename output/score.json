@@ -12,7 +12,7 @@
                 "format_str": "T20",
                 "status": 3,
                 "status_str": "Live",
-                "status_note": "WI-L need 50 runs in 37 remaining balls",
+                "status_note": "WI-L need 32 runs in 28 remaining balls",
                 "verified": "false",
                 "pre_squad": "true",
                 "odds_available": "false",
@@ -49,9 +49,9 @@
                     "name": "West Indies Champions",
                     "short_name": "WI-L",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/05/Rectangle-3461-841.png",
-                    "scores_full": "*110/1 (13.5 ov)",
-                    "scores": "110/1",
-                    "overs": "13.5"
+                    "scores_full": "*128/1 (15.2 ov)",
+                    "scores": "128/1",
+                    "overs": "15.2"
                 },
                 "date_start": "2026-10-18 15:30:00",
                 "date_end": "2026-10-19 01:30:00",
@@ -69,7 +69,7 @@
                 "umpires": "",
                 "referee": "",
                 "equation": "",
-                "live": "WI-L need 50 runs in 37 remaining balls",
+                "live": "WI-L need 32 runs in 28 remaining balls",
                 "result": "",
                 "result_type": "",
                 "win_margin": "",
@@ -5911,6 +5911,6 @@
             }
         ]
     },
-    "timenow": "19th October 2026 12:50 AM",
+    "timenow": "19th October 2026 03:06 AM",
     "timezone": "Asia/Dhaka"
 }
