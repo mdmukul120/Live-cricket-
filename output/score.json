@@ -186,13 +186,13 @@
                 "day": "4",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 20.75,
-                    "humidity": 76,
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 20.95,
+                    "humidity": 77,
                     "visibility": 10000,
-                    "wind_speed": "5.35",
-                    "clouds": 60
+                    "wind_speed": "7.23",
+                    "clouds": 1
                 },
                 "broadcast": "",
                 "pitch": {
@@ -266,8 +266,8 @@
                     "country": "New Zealand",
                     "timezone": ""
                 },
-                "umpires": "",
-                "referee": "",
+                "umpires": "Chris Brown (New Zealand), Shaun Haig (New Zealand), Kim Cotton (New Zealand, TV)",
+                "referee": "Ranjan Madugalle (Sri Lanka)",
                 "equation": "",
                 "live": "",
                 "result": "",
@@ -284,12 +284,12 @@
                 "session": "0",
                 "weather": {
                     "weather": "Clouds",
-                    "weather_desc": "few clouds",
-                    "temp": 24.96,
-                    "humidity": 44,
+                    "weather_desc": "overcast clouds",
+                    "temp": 21.43,
+                    "humidity": 49,
                     "visibility": 10000,
-                    "wind_speed": "5.41",
-                    "clouds": 22
+                    "wind_speed": "6.22",
+                    "clouds": 86
                 },
                 "broadcast": "",
                 "pitch": {
@@ -381,10 +381,10 @@
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 19.26,
-                    "humidity": 59,
+                    "temp": 26.17,
+                    "humidity": 42,
                     "visibility": 10000,
-                    "wind_speed": "3.60",
+                    "wind_speed": "3.80",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -393,6 +393,102 @@
                     "batting_condition": "Average",
                     "pace_bowling_condition": "Swing Favourable",
                     "spine_bowling_condition": "Sharp Turn"
+                },
+                "toss": {
+                    "winner": 0,
+                    "decision": 0
+                },
+                "is_realtime": 0
+            },
+            {
+                "match_id": 100179,
+                "title": "Nigeria vs Mozambique",
+                "short_title": "NIG vs MOZ",
+                "subtitle": "Match 7",
+                "match_number": "7",
+                "format": 3,
+                "format_str": "T20I",
+                "status": 1,
+                "status_str": "Scheduled",
+                "status_note": "",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130276,
+                    "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+                    "abbr": "Africa Sub Regional",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "t20i",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-10-20",
+                    "dateend": "2026-10-25",
+                    "country": "int",
+                    "total_matches": "15",
+                    "total_rounds": "1",
+                    "total_teams": "6"
+                },
+                "teama": {
+                    "team_id": 10533,
+                    "name": "Nigeria",
+                    "short_name": "NIG",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Nigeria.png"
+                },
+                "teamb": {
+                    "team_id": 66607,
+                    "name": "Mozambique",
+                    "short_name": "MOZ",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Mozambique.png"
+                },
+                "date_start": "2026-10-23 08:30:00",
+                "date_end": "2026-10-23 18:30:00",
+                "timestamp_start": 1792744200,
+                "timestamp_end": 1792780200,
+                "date_start_ist": "2026-10-23 14:00:00",
+                "date_end_ist": "2026-10-24 00:00:00",
+                "venue": {
+                    "venue_id": "1213756",
+                    "name": "Nigeria Cricket Federation Oval 1",
+                    "location": "Abuja",
+                    "country": "Nigeria",
+                    "timezone": ""
+                },
+                "umpires": "",
+                "referee": "",
+                "equation": "",
+                "live": "",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 0,
+                "presquad_time": "2026-10-21 14:33:15",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "broken clouds",
+                    "temp": 23.51,
+                    "humidity": 69,
+                    "visibility": 10000,
+                    "wind_speed": "2.46",
+                    "clouds": 58
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Average",
+                    "spine_bowling_condition": "Average"
                 },
                 "toss": {
                     "winner": 0,
@@ -3235,102 +3331,6 @@
                 "is_realtime": 0
             },
             {
-                "match_id": 100179,
-                "title": "Nigeria vs Mozambique",
-                "short_title": "NIG vs MOZ",
-                "subtitle": "Match 7",
-                "match_number": "7",
-                "format": 3,
-                "format_str": "T20I",
-                "status": 1,
-                "status_str": "Scheduled",
-                "status_note": "",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130276,
-                    "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
-                    "abbr": "Africa Sub Regional",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "t20i",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-10-20",
-                    "dateend": "2026-10-25",
-                    "country": "int",
-                    "total_matches": "15",
-                    "total_rounds": "1",
-                    "total_teams": "6"
-                },
-                "teama": {
-                    "team_id": 10533,
-                    "name": "Nigeria",
-                    "short_name": "NIG",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Nigeria.png"
-                },
-                "teamb": {
-                    "team_id": 66607,
-                    "name": "Mozambique",
-                    "short_name": "MOZ",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Mozambique.png"
-                },
-                "date_start": "2026-10-23 08:30:00",
-                "date_end": "2026-10-23 18:30:00",
-                "timestamp_start": 1792744200,
-                "timestamp_end": 1792780200,
-                "date_start_ist": "2026-10-23 14:00:00",
-                "date_end_ist": "2026-10-24 00:00:00",
-                "venue": {
-                    "venue_id": "1213756",
-                    "name": "Nigeria Cricket Federation Oval 1",
-                    "location": "Abuja",
-                    "country": "Nigeria",
-                    "timezone": ""
-                },
-                "umpires": "",
-                "referee": "",
-                "equation": "",
-                "live": "",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 0,
-                "presquad_time": "2026-10-21 14:33:15",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 29.14,
-                    "humidity": 51,
-                    "visibility": 10000,
-                    "wind_speed": 0.76,
-                    "clouds": 100
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Average",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "winner": 0,
-                    "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
                 "match_id": 100180,
                 "title": "Zambia vs Lesotho",
                 "short_title": "ZAMB vs LST",
@@ -3714,6 +3714,6 @@
             }
         ]
     },
-    "timenow": "22nd October 2026 06:53 AM",
+    "timenow": "22nd October 2026 11:34 AM",
     "timezone": "Asia/Dhaka"
 }
