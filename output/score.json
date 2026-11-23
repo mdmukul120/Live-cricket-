@@ -77,13 +77,13 @@
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "overcast clouds",
-                    "temp": 30.36,
-                    "humidity": 46,
+                    "weather": "Rain",
+                    "weather_desc": "light rain",
+                    "temp": 18.57,
+                    "humidity": 100,
                     "visibility": 10000,
-                    "wind_speed": "8.05",
-                    "clouds": 92
+                    "wind_speed": "5.75",
+                    "clouds": 100
                 },
                 "broadcast": "",
                 "pitch": {
@@ -99,6 +99,109 @@
                 "is_realtime": 0
             },
             {
+                "match_id": 98449,
+                "title": "New Zealand vs India",
+                "short_title": "NZ vs IND",
+                "subtitle": "1st Test",
+                "match_number": "11",
+                "format": 2,
+                "format_str": "Test",
+                "status": 3,
+                "status_str": "Live",
+                "status_note": "Day 5 - Session 2, NZ trail by 150 runs.",
+                "verified": "false",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 3,
+                "game_state_str": "Play Ongoing",
+                "domestic": "0",
+                "competition": {
+                    "cid": 130149,
+                    "title": "India tour of New Zealand",
+                    "abbr": "NZ vs IND",
+                    "type": "tour",
+                    "category": "international",
+                    "match_format": "mixed",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-10-22",
+                    "dateend": "2026-12-01",
+                    "country": "int",
+                    "total_matches": "12",
+                    "total_rounds": "3",
+                    "total_teams": "2"
+                },
+                "teama": {
+                    "team_id": 7,
+                    "name": "New Zealand",
+                    "short_name": "NZ",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/New-zealand.png",
+                    "scores_full": "368/10 (121 ov) & *202/5 (94.3 ov)",
+                    "scores": "368/10 & 202/5",
+                    "overs": "121 & 94.3"
+                },
+                "teamb": {
+                    "team_id": 25,
+                    "name": "India",
+                    "short_name": "IND",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
+                    "scores_full": "720/9d (166 ov)",
+                    "scores": "720/9d",
+                    "overs": "166"
+                },
+                "date_start": "2026-11-18 22:00:00",
+                "date_end": "2026-11-23 22:00:00",
+                "timestamp_start": 1795039200,
+                "timestamp_end": 1795471200,
+                "date_start_ist": "2026-11-19 03:30:00",
+                "date_end_ist": "2026-11-24 03:30:00",
+                "venue": {
+                    "venue_id": "122",
+                    "name": "Basin Reserve",
+                    "location": "Wellington",
+                    "country": "New Zealand",
+                    "timezone": ""
+                },
+                "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Paul Reiffel (Australia, TV)",
+                "referee": "Ranjan Madugalle (Sri Lanka)",
+                "equation": "",
+                "live": "Day 5 - Session 2, NZ trail by 150 runs.",
+                "result": "",
+                "result_type": "",
+                "win_margin": "",
+                "winning_team_id": 0,
+                "commentary": 1,
+                "wagon": 1,
+                "latest_inning_number": 3,
+                "presquad_time": "2026-11-17 20:26:55",
+                "verify_time": "",
+                "match_dls_affected": "false",
+                "day": "5",
+                "session": "2",
+                "weather": {
+                    "weather": "Clouds",
+                    "weather_desc": "few clouds",
+                    "temp": 18.89,
+                    "humidity": 55,
+                    "visibility": 10000,
+                    "wind_speed": "32.21",
+                    "clouds": 20
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Green Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Sharp Turn"
+                },
+                "toss": {
+                    "text": "India elected to bowl",
+                    "winner": 25,
+                    "decision": 2
+                },
+                "is_realtime": 0
+            },
+            {
                 "match_id": 100460,
                 "title": "India A vs Pakistan A",
                 "short_title": "IND-A vs PAK-A",
@@ -109,7 +212,7 @@
                 "status": 2,
                 "status_str": "Completed",
                 "status_note": "Pakistan A won by 48 runs",
-                "verified": "false",
+                "verified": "true",
                 "pre_squad": "true",
                 "odds_available": "false",
                 "game_state": 0,
@@ -174,7 +277,7 @@
                 "wagon": 1,
                 "latest_inning_number": 2,
                 "presquad_time": "2026-11-20 19:18:36",
-                "verify_time": "",
+                "verify_time": "2026-11-23 00:34:45",
                 "match_dls_affected": "false",
                 "day": "0",
                 "session": "0",
@@ -182,9 +285,9 @@
                     "weather": "Haze",
                     "weather_desc": "haze",
                     "temp": 25.89,
-                    "humidity": 65,
+                    "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": "6.91",
+                    "wind_speed": "5.75",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -856,13 +959,15 @@
                     "team_id": 16621,
                     "name": "Afghanistan A",
                     "short_name": "AFG-A",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Afghanistan-3.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Afghanistan-3.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Afghanistan-3.png"
                 },
                 "teamb": {
                     "team_id": 1544,
                     "name": "Hong Kong",
                     "short_name": "HK",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png"
                 },
                 "date_start": "2026-11-23 06:00:00",
                 "date_end": "2026-11-24 00:00:00",
@@ -891,16 +996,17 @@
                 "presquad_time": "2026-11-21 17:59:26",
                 "verify_time": "",
                 "match_dls_affected": "false",
+                "live_inning_number": 0,
                 "day": "0",
                 "session": "0",
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 30.29,
-                    "humidity": 54,
+                    "temp": 26.59,
+                    "humidity": 70,
                     "visibility": 10000,
-                    "wind_speed": "14.18",
-                    "clouds": 1
+                    "wind_speed": "3.44",
+                    "clouds": 0
                 },
                 "broadcast": "",
                 "pitch": {
@@ -953,13 +1059,15 @@
                     "team_id": 10048,
                     "name": "Sri Lanka A",
                     "short_name": "SL-A",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png"
                 },
                 "teamb": {
                     "team_id": 11385,
                     "name": "Bangladesh A",
                     "short_name": "BAN-A",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/08/BN.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/08/BN.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/08/BN.png"
                 },
                 "date_start": "2026-11-23 10:00:00",
                 "date_end": "2026-11-24 04:00:00",
@@ -988,15 +1096,16 @@
                 "presquad_time": "2026-11-21 18:01:27",
                 "verify_time": "",
                 "match_dls_affected": "false",
+                "live_inning_number": 0,
                 "day": "0",
                 "session": "0",
                 "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 27.91,
-                    "humidity": 57,
-                    "visibility": 10000,
-                    "wind_speed": "8.05",
+                    "weather": "Haze",
+                    "weather_desc": "haze",
+                    "temp": 21.08,
+                    "humidity": 83,
+                    "visibility": 9000,
+                    "wind_speed": "4.61",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -1050,13 +1159,15 @@
                     "team_id": 11383,
                     "name": "India A",
                     "short_name": "IND-A",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads//2023/01/india-4.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads//2023/01/india-4.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads//2023/01/india-4.png"
                 },
                 "teamb": {
                     "team_id": 15,
                     "name": "United Arab Emirates",
                     "short_name": "UAE",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/United_Arab_Emirates.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/United_Arab_Emirates.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/United_Arab_Emirates.png"
                 },
                 "date_start": "2026-11-24 06:00:00",
                 "date_end": "2026-11-25 00:00:00",
@@ -1085,16 +1196,17 @@
                 "presquad_time": "2026-11-22 22:10:36",
                 "verify_time": "",
                 "match_dls_affected": "false",
+                "live_inning_number": 0,
                 "day": "0",
                 "session": "0",
                 "weather": {
                     "weather": "Clear",
                     "weather_desc": "clear sky",
-                    "temp": 29.55,
-                    "humidity": 58,
+                    "temp": 27.08,
+                    "humidity": 68,
                     "visibility": 10000,
-                    "wind_speed": 3.48,
-                    "clouds": 0
+                    "wind_speed": "3.40",
+                    "clouds": 1
                 },
                 "broadcast": "",
                 "pitch": {
@@ -1147,13 +1259,15 @@
                     "team_id": 127915,
                     "name": "Pakistan A",
                     "short_name": "PAK-A",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Pakistan.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Pakistan.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Pakistan.png"
                 },
                 "teamb": {
                     "team_id": 10814,
                     "name": "Nepal",
                     "short_name": "NEP",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Nepal.png"
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Nepal.png",
+                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Nepal.png"
                 },
                 "date_start": "2026-11-24 10:00:00",
                 "date_end": "2026-11-25 04:00:00",
@@ -1182,15 +1296,16 @@
                 "presquad_time": "2026-11-22 22:13:03",
                 "verify_time": "",
                 "match_dls_affected": "false",
+                "live_inning_number": 0,
                 "day": "0",
                 "session": "0",
                 "weather": {
                     "weather": "Haze",
                     "weather_desc": "haze",
-                    "temp": 25.94,
-                    "humidity": 67,
+                    "temp": 23.86,
+                    "humidity": 79,
                     "visibility": 10000,
-                    "wind_speed": 3.09,
+                    "wind_speed": "3.44",
                     "clouds": 0
                 },
                 "broadcast": "",
@@ -1203,113 +1318,6 @@
                 "toss": {
                     "winner": 0,
                     "decision": 0
-                },
-                "criteria_check": true,
-                "is_realtime": 0
-            },
-            {
-                "match_id": 100453,
-                "title": "Bangladesh A vs Hong Kong",
-                "short_title": "BAN-A vs HK",
-                "subtitle": "1st Match",
-                "match_number": "1",
-                "format": 4,
-                "format_str": "List A",
-                "status": 2,
-                "status_str": "Completed",
-                "status_note": "Bangladesh A won by 8 wickets",
-                "verified": "true",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 0,
-                "game_state_str": "Default",
-                "domestic": "1",
-                "competition": {
-                    "cid": 130297,
-                    "title": "ACC Men's Asia Cup Rising Stars",
-                    "abbr": "Men's Asia Cup",
-                    "type": "tournament",
-                    "category": "international",
-                    "match_format": "lista",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-11-19",
-                    "dateend": "2026-11-29",
-                    "country": "int",
-                    "total_matches": "15",
-                    "total_rounds": "2",
-                    "total_teams": "8"
-                },
-                "teama": {
-                    "team_id": 11385,
-                    "name": "Bangladesh A",
-                    "short_name": "BAN-A",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/08/BN.png",
-                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/08/BN.png",
-                    "scores_full": "220/2 (41 ov)",
-                    "scores": "220/2",
-                    "overs": "41"
-                },
-                "teamb": {
-                    "team_id": 1544,
-                    "name": "Hong Kong",
-                    "short_name": "HK",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png",
-                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png",
-                    "scores_full": "219/8 (50 ov)",
-                    "scores": "219/8",
-                    "overs": "50"
-                },
-                "date_start": "2026-11-19 06:00:00",
-                "date_end": "2026-11-20 00:00:00",
-                "timestamp_start": 1795068000,
-                "timestamp_end": 1795132800,
-                "date_start_ist": "2026-11-19 11:30:00",
-                "date_end_ist": "2026-11-20 05:30:00",
-                "venue": {
-                    "venue_id": "1213546",
-                    "name": "University of Doha for Science and Technology",
-                    "location": "Doha",
-                    "country": "Qatar",
-                    "timezone": ""
-                },
-                "umpires": "KN Ananthapadmanabhan (India),  Mahmood Kharoti (Afghanistan), Chamara De Zoysa (Sri Lanka, TV)",
-                "referee": "Narayanan Kutty (India)",
-                "equation": "",
-                "live": "",
-                "result": "BAN-A won by 8 wickets",
-                "result_type": 1,
-                "win_margin": "8 wickets",
-                "winning_team_id": 11385,
-                "commentary": 1,
-                "wagon": 2,
-                "latest_inning_number": 2,
-                "presquad_time": "2026-11-17 22:14:19",
-                "verify_time": "2026-11-19 21:26:18",
-                "match_dls_affected": "false",
-                "live_inning_number": 2,
-                "day": "0",
-                "session": "0",
-                "weather": {
-                    "weather": "Clear",
-                    "weather_desc": "clear sky",
-                    "temp": 29.76,
-                    "humidity": 68,
-                    "visibility": 10000,
-                    "wind_speed": "5.79",
-                    "clouds": 0
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Flat Track Pitch",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
-                },
-                "toss": {
-                    "text": "Bangladesh A elected to bowl",
-                    "winner": 11385,
-                    "decision": 2
                 },
                 "criteria_check": true,
                 "is_realtime": 0
@@ -1352,7 +1360,6 @@
                     "name": "Sri Lanka A",
                     "short_name": "SL-A",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
-                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Sri-lanka.png",
                     "scores_full": "144/4 (21.4 ov)",
                     "scores": "144/4",
                     "overs": "21.4"
@@ -1362,7 +1369,6 @@
                     "name": "Afghanistan A",
                     "short_name": "AFG-A",
                     "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Afghanistan-3.png",
-                    "thumb_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/07/Afghanistan-3.png",
                     "scores_full": "139/10 (35.3 ov)",
                     "scores": "139/10",
                     "overs": "35.3"
@@ -1394,7 +1400,6 @@
                 "presquad_time": "2026-11-18 02:42:15",
                 "verify_time": "2026-11-19 20:24:45",
                 "match_dls_affected": "false",
-                "live_inning_number": 2,
                 "day": "0",
                 "session": "0",
                 "weather": {
@@ -1416,6 +1421,110 @@
                 "toss": {
                     "text": "Sri Lanka A elected to bowl",
                     "winner": 10048,
+                    "decision": 2
+                },
+                "criteria_check": true,
+                "is_realtime": 0
+            },
+            {
+                "match_id": 100453,
+                "title": "Bangladesh A vs Hong Kong",
+                "short_title": "BAN-A vs HK",
+                "subtitle": "1st Match",
+                "match_number": "1",
+                "format": 4,
+                "format_str": "List A",
+                "status": 2,
+                "status_str": "Completed",
+                "status_note": "Bangladesh A won by 8 wickets",
+                "verified": "true",
+                "pre_squad": "true",
+                "odds_available": "false",
+                "game_state": 0,
+                "game_state_str": "Default",
+                "domestic": "1",
+                "competition": {
+                    "cid": 130297,
+                    "title": "ACC Men's Asia Cup Rising Stars",
+                    "abbr": "Men's Asia Cup",
+                    "type": "tournament",
+                    "category": "international",
+                    "match_format": "lista",
+                    "season": "2026",
+                    "status": "live",
+                    "datestart": "2026-11-19",
+                    "dateend": "2026-11-29",
+                    "country": "int",
+                    "total_matches": "15",
+                    "total_rounds": "2",
+                    "total_teams": "8"
+                },
+                "teama": {
+                    "team_id": 11385,
+                    "name": "Bangladesh A",
+                    "short_name": "BAN-A",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2024/08/BN.png",
+                    "scores_full": "220/2 (41 ov)",
+                    "scores": "220/2",
+                    "overs": "41"
+                },
+                "teamb": {
+                    "team_id": 1544,
+                    "name": "Hong Kong",
+                    "short_name": "HK",
+                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/Hong_Kong.png",
+                    "scores_full": "219/8 (50 ov)",
+                    "scores": "219/8",
+                    "overs": "50"
+                },
+                "date_start": "2026-11-19 06:00:00",
+                "date_end": "2026-11-20 00:00:00",
+                "timestamp_start": 1795068000,
+                "timestamp_end": 1795132800,
+                "date_start_ist": "2026-11-19 11:30:00",
+                "date_end_ist": "2026-11-20 05:30:00",
+                "venue": {
+                    "venue_id": "1213546",
+                    "name": "University of Doha for Science and Technology",
+                    "location": "Doha",
+                    "country": "Qatar",
+                    "timezone": ""
+                },
+                "umpires": "KN Ananthapadmanabhan (India),  Mahmood Kharoti (Afghanistan), Chamara De Zoysa (Sri Lanka, TV)",
+                "referee": "Narayanan Kutty (India)",
+                "equation": "",
+                "live": "",
+                "result": "BAN-A won by 8 wickets",
+                "result_type": 1,
+                "win_margin": "8 wickets",
+                "winning_team_id": 11385,
+                "commentary": 1,
+                "wagon": 2,
+                "latest_inning_number": 2,
+                "presquad_time": "2026-11-17 22:14:19",
+                "verify_time": "2026-11-19 21:26:18",
+                "match_dls_affected": "false",
+                "day": "0",
+                "session": "0",
+                "weather": {
+                    "weather": "Clear",
+                    "weather_desc": "clear sky",
+                    "temp": 29.76,
+                    "humidity": 68,
+                    "visibility": 10000,
+                    "wind_speed": "5.79",
+                    "clouds": 0
+                },
+                "broadcast": "",
+                "pitch": {
+                    "pitch_condition": "Flat Track Pitch",
+                    "batting_condition": "Average",
+                    "pace_bowling_condition": "Pace & Bounce",
+                    "spine_bowling_condition": "Average"
+                },
+                "toss": {
+                    "text": "Bangladesh A elected to bowl",
+                    "winner": 11385,
                     "decision": 2
                 },
                 "criteria_check": true,
@@ -1488,7 +1597,7 @@
                 "win_margin": "",
                 "winning_team_id": 0,
                 "commentary": 1,
-                "wagon": 2,
+                "wagon": 1,
                 "latest_inning_number": 0,
                 "presquad_time": "2026-11-21 18:37:51",
                 "verify_time": "",
@@ -1498,125 +1607,22 @@
                 "weather": {
                     "weather": "Clouds",
                     "weather_desc": "scattered clouds",
-                    "temp": 18.88,
-                    "humidity": 94,
+                    "temp": 26.23,
+                    "humidity": 69,
                     "visibility": 10000,
-                    "wind_speed": 1.64,
-                    "clouds": 26
+                    "wind_speed": "4.00",
+                    "clouds": 37
                 },
                 "broadcast": "",
                 "pitch": {
                     "pitch_condition": "Fast & Bounce",
                     "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Average"
+                    "pace_bowling_condition": "Swing Favourable",
+                    "spine_bowling_condition": "Sharp Turn"
                 },
                 "toss": {
                     "winner": 0,
                     "decision": 0
-                },
-                "is_realtime": 0
-            },
-            {
-                "match_id": 98449,
-                "title": "New Zealand vs India",
-                "short_title": "NZ vs IND",
-                "subtitle": "1st Test",
-                "match_number": "11",
-                "format": 2,
-                "format_str": "Test",
-                "status": 3,
-                "status_str": "Live",
-                "status_note": "Stumps : Day 4 - NZ trail by 233 runs.",
-                "verified": "false",
-                "pre_squad": "true",
-                "odds_available": "false",
-                "game_state": 7,
-                "game_state_str": "Stumps",
-                "domestic": "0",
-                "competition": {
-                    "cid": 130149,
-                    "title": "India tour of New Zealand",
-                    "abbr": "NZ vs IND",
-                    "type": "tour",
-                    "category": "international",
-                    "match_format": "mixed",
-                    "season": "2026",
-                    "status": "live",
-                    "datestart": "2026-10-22",
-                    "dateend": "2026-12-01",
-                    "country": "int",
-                    "total_matches": "12",
-                    "total_rounds": "3",
-                    "total_teams": "2"
-                },
-                "teama": {
-                    "team_id": 7,
-                    "name": "New Zealand",
-                    "short_name": "NZ",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2023/05/New-zealand.png",
-                    "scores_full": "368/10 (121 ov) & *119/2 (45 ov)",
-                    "scores": "368/10 & 119/2",
-                    "overs": "121 & 45"
-                },
-                "teamb": {
-                    "team_id": 25,
-                    "name": "India",
-                    "short_name": "IND",
-                    "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp",
-                    "scores_full": "720/9d (166 ov)",
-                    "scores": "720/9d",
-                    "overs": "166"
-                },
-                "date_start": "2026-11-18 22:00:00",
-                "date_end": "2026-11-23 22:00:00",
-                "timestamp_start": 1795039200,
-                "timestamp_end": 1795471200,
-                "date_start_ist": "2026-11-19 03:30:00",
-                "date_end_ist": "2026-11-24 03:30:00",
-                "venue": {
-                    "venue_id": "122",
-                    "name": "Basin Reserve",
-                    "location": "Wellington",
-                    "country": "New Zealand",
-                    "timezone": ""
-                },
-                "umpires": "Kumar Dharmasena (Sri Lanka), Richard Illingworth (England), Paul Reiffel (Australia, TV)",
-                "referee": "Ranjan Madugalle (Sri Lanka)",
-                "equation": "",
-                "live": "Stumps : Day 4 - NZ trail by 233 runs.",
-                "result": "",
-                "result_type": "",
-                "win_margin": "",
-                "winning_team_id": 0,
-                "commentary": 1,
-                "wagon": 1,
-                "latest_inning_number": 3,
-                "presquad_time": "2026-11-17 20:26:55",
-                "verify_time": "",
-                "match_dls_affected": "false",
-                "day": "4",
-                "session": "0",
-                "weather": {
-                    "weather": "Clouds",
-                    "weather_desc": "broken clouds",
-                    "temp": 15.07,
-                    "humidity": 79,
-                    "visibility": 10000,
-                    "wind_speed": "25.32",
-                    "clouds": 75
-                },
-                "broadcast": "",
-                "pitch": {
-                    "pitch_condition": "Green Pitch",
-                    "batting_condition": "Average",
-                    "pace_bowling_condition": "Pace & Bounce",
-                    "spine_bowling_condition": "Sharp Turn"
-                },
-                "toss": {
-                    "text": "India elected to bowl",
-                    "winner": 25,
-                    "decision": 2
                 },
                 "is_realtime": 0
             },
@@ -5714,6 +5720,6 @@
             }
         ]
     },
-    "timenow": "23rd November 2026 04:04 AM",
+    "timenow": "23rd November 2026 08:34 AM",
     "timezone": "Asia/Dhaka"
 }
